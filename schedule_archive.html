@@ -1,0 +1,173 @@
+<html><head>
+<title>Satellaview+ - Programming Schedule Archive</title>
+    <style>
+        @font-face {
+            font-family: 'UnicodeMonoEx';
+            src: url('./august/UnicodeMonoEx.ttf') format('truetype');
+        }
+        body {
+            font-family: 'UnicodeMonoEx', monospace;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        select {
+            display: block;
+            margin: 20px auto;
+            padding: 10px;
+            font-size: 16px;
+            font-family: 'UnicodeMonoEx', monospace;
+        }
+        #output {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            margin: 10px 0;
+        }
+        .bold-title {
+            font-weight: bold;
+        }
+    </style>
+<basefont size="3">
+<center><h1>Archived Schedules</h1></center>
+<hr size="3" width="100%">
+
+<br>
+
+<center>
+<table border="0" width="480">
+<tbody><tr>
+<td align="center">
+
+<center>
+<table border="0">
+<tbody><tr>
+<td align="center">
+<img src="schedule_files/prg_logo.gif" "="" alt="***" border="0"><br>
+
+</td>
+</tr>
+</tbody></table>
+</center>
+
+<br>
+<center>
+<table border="0">
+<tbody><tr>
+<td align="left">
+<font size="5" color="#000000">
+<img src="./schedule_files/prg_s.gif" border="0">　Satellaview+ Schedule<br><p>Please note that times are in Eastern US time. (GMT-5)</p>
+    <select id="dateDropdown">
+        <option value="">Select a date</option>
+    </select>
+    <div id="output"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script>
+        let csvData = [];
+
+        // Function to fetch and parse the CSV file
+        function fetchCSV() {
+            fetch('./august/ScheduleArchive.csv')
+                .then(response => response.text())
+                .then(csvText => {
+                    Papa.parse(csvText, {
+                        header: true,
+                        dynamicTyping: true,
+                        complete: function(results) {
+                            csvData = results.data;
+                            const dateSet = new Set();
+
+                            // Extract unique dates from the "Dates" column
+                            csvData.forEach(row => {
+                                if (row['Dates']) {
+                                    dateSet.add(row['Dates']);
+                                }
+                            });
+
+                            // Populate the dropdown with unique dates
+                            const dateDropdown = document.getElementById('dateDropdown');
+                            dateSet.forEach(date => {
+                                const option = document.createElement('option');
+                                option.value = date;
+                                option.textContent = date;
+                                dateDropdown.appendChild(option);
+                            });
+                        }
+                    });
+                })
+                .catch(error => console.error('Error fetching CSV:', error));
+        }
+
+        // Function to display data based on selected date
+        function displayDataForDate(date) {
+            const outputDiv = document.getElementById('output');
+            outputDiv.innerHTML = ''; // Clear previous output
+
+            csvData.forEach(row => {
+                if (row['Dates'] === date) {
+                    const title = row['Title'];
+                    const startTime = row['Start Time'];
+                    const endTime = row['End Time'];
+                    const location = row['Location'];
+
+                    // Create a paragraph element for each row
+                    const p = document.createElement('p');
+                    p.innerHTML = `<span class="bold-title">${title}</span> ${startTime}～${endTime}, Location: ${location}`;
+                    outputDiv.appendChild(p);
+                }
+            });
+        }
+
+        // Event listener for date dropdown change
+        document.getElementById('dateDropdown').addEventListener('change', function(event) {
+            const selectedDate = event.target.value;
+            if (selectedDate) {
+                displayDataForDate(selectedDate);
+            } else {
+                document.getElementById('output').innerHTML = ''; // Clear output if no date is selected
+            }
+        });
+
+        // Call the function to fetch and parse the CSV file
+        fetchCSV();
+    </script>
+<br>
+<br>
+<font size="5" color="#000000">
+<img src="schedule_files/prg_s.gif" border="0">　<a href="https://satellaviewplus.github.io/Website/schedule.html">現行予定/Current Schedule</a><br>
+<img src="schedule_files/prg_s.gif" border="0">　<a href="https://satellaviewplus.github.io/Website/">戻る/Back</a><br>
+
+</font>
+</td>
+</tr>
+</tbody></table>
+</center>
+
+
+
+
+</td>
+</tr>
+</tbody></table>
+</center>
+
+<br>
+<br>
+
+<hr size="3" width="100%">
+
+
+
+
+
+</body></html>
