@@ -3,8 +3,26 @@
 table, th, td {
   border:1px;
 }
+
+.table {
+width:500px;
+}
+
+@media screen and (max-width: 480px) {
+.parabo {
+display:none;
+}
+
+.table {
+width:98%;
+}
+
+}
 </style>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="tab icon" href="favicon.png">
+<link rel="icon" href="favicon.ico">
 <title>Satellaview+ - Frequently asked questions</title>
 <basefont size="3">
 
@@ -13,7 +31,7 @@ table, th, td {
 <br>
 
 <center>
-<table border="0" width="500">
+<table border="0" class="table">
 <tbody><tr>
 <td align="center">
 
@@ -22,9 +40,9 @@ table, th, td {
 
 <tbody><tr>
 <td align="center" rowspan="2" valign="top">
-<img src="connect_files/sv_body.gif" alt="パッケージグラフィック" border="0"></td>
+<img src="connect_files/sv_body.gif" alt="パッケージグラフィック" border="0" style="width:100%;"></td>
 
-<td align="center" valign="top"><img src="connect_files/sv_logo.gif" alt="タイトルロゴグラフィック" border="0"></td>
+<td align="center" valign="top"><img src="connect_files/sv_logo.gif" alt="タイトルロゴグラフィック" border="0" style="width:100%;"></td>
 </tr>
 
 <tr>
@@ -44,7 +62,7 @@ table, th, td {
 <br>
 
 <center>
-<img src="connect_files/sv_l.gif" alt="ライングラフィック" border="0">
+<img src="connect_files/sv_l.gif" alt="ライングラフィック" style="width:85%;" border="0">
 </center>
 
 <br>
@@ -93,7 +111,7 @@ After all files have been downloaded you may restart<br>
 the program and try to download a game again.
 </font></td>
 <td align="center" valign="bottom">
-<img src="event_files/sad.gif" alt="***" border="0"><br>
+<img src="event_files/sad.gif" class="parabo" alt="***" border="0"><br>
 </td>
 </tr>
 
