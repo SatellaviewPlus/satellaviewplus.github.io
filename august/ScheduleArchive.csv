@@ -1,847 +1,1148 @@
-Dates;Title;Start Time;End Time;Location
-08/03/2024;タモリのピクロス [8/13] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/03/2024;Let's Pachinko なんて銀玉１ (Let's Pachinko with Silver Balls 1);11:00;14:00;Broadcast Tower
-08/03/2024;ワリオの森: 再び;14:00;17:00;Broadcast Tower
-08/03/2024;牧場物語（デモ） (Harvest Moon [Demo]);17:00;20:00;Broadcast Tower
-08/03/2024;BSF-ZERO：グランプリ２（練習）[10-23] (BS F-Zero: Grand Prix 2 [Practice]);20:00;23:00;Broadcast Tower
-08/03/2024;BSニンテンドーHP [5/17] (Nintendo HP);8:00;23:00;News Building
-08/03/2024;Fightingベースボール (Fighting Baseball);11:00;23:00;Stadium
-08/03/2024;決戦！ドカポン王国Ⅳ：伝説の勇者たち (Decisive Battle! Dokapon Kingdom IV: Legendary Heroes);8:00;20:00;Bagpotamia Temple
-08/03/2024;スーパーぷよぷよツーBS版 (Super Puyo Puyo 2: BS Ver.);8:00;23:00;Telephone Booth
-08/04/2024;The Firemen;8:00;11:00;Broadcast Tower
-08/04/2024;ダリウスフォース (Darius Force);11:00;14:00;Broadcast Tower
-08/04/2024;カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball);14:00;17:00;Broadcast Tower
-08/04/2024;Super Ninja-Kun;17:00;20:00;Broadcast Tower
-08/04/2024;クオンパBS版 [5/31] (Cu-On-Pa BS Version);20:00;23:00;Broadcast Tower
-08/04/2024;ポケカメマガジン (Gameboy Camera Magazine);8:00;23:00;News Building
-08/04/2024;ゴルフ大好き！O．B．倶楽部 (Golf Daisuki! O.B. Club);11:00;23:00;Stadium
-08/04/2024;Broken Sword;8:00;20:00;Bagpotamia Temple
-08/04/2024;デザエモン ? BS-X版 (Dezaemon BS-X);8:00;23:00;Telephone Booth
-08/05/2024;タモリのピクロス [6/13] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/05/2024;Super Puyo Puyo;11:00;14:00;Broadcast Tower
-08/05/2024;カービィのおもちゃ箱：　グルグルボール (Kirby's Toybox: GuruGuru Ball);14:00;17:00;Broadcast Tower
-08/05/2024;釣太郎 (Tsuri Tarou);17:00;20:00;Broadcast Tower
-08/05/2024;ソニックブラストマン (Sonic Blast Man);20:00;23:00;Broadcast Tower
-08/05/2024;グッズプレス(GoodsPress) ? 3月号;8:00;23:00;News Building
-08/05/2024;Super Volley II;11:00;23:00;Stadium
-08/05/2024;Wizardy V: 差異化の中心;8:00;20:00;Bagpotamia Temple
-08/05/2024;Lemmings;8:00;23:00;Telephone Booth
-08/06/2024;運だけ３０さめがめ大作戦ーマリオ版 (Mario Same Game);8:00;11:00;Broadcast Tower
-08/06/2024;ワリオの森　―　イベント１版 (Wario's Forest ? Event 1);11:00;14:00;Broadcast Tower
-08/06/2024;カービィのおもちゃ箱：　星崩し (Kirby's Toybox: Constellation);14:00;17:00;Broadcast Tower
-08/06/2024;Super Aleste;17:00;20:00;Broadcast Tower
-08/06/2024;BS探偵倶楽部～雪に消えた過去～（前編） [BS Tantei Club ~The Past that Disappeared in the Snow~ (First Part)];20:00;23:00;Broadcast Tower
-08/06/2024;虎マガ大作戦 [Tora Maga Daisakusen];8:00;23:00;News Building
-08/06/2024;NEW 3D GOLF SIMULATION：ワイアラエの奇跡 (Waialae's Miracle);11:00;23:00;Stadium
-08/06/2024;エルファリア２ (Elfaria II);8:00;20:00;Bagpotamia Temple
-08/06/2024;マリオペイントBS版 (Mario Paint BS);8:00;23:00;Telephone Booth
-08/07/2024;Actraiser;8:00;11:00;Broadcast Tower
-08/07/2024;Dr. Mario;11:00;14:00;Broadcast Tower
-08/07/2024;カービィのおもちゃ箱：　アレンジボール (Kirby's Toybox: Arrange Ball);14:00;17:00;Broadcast Tower
-08/07/2024;クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special);17:00;20:00;Broadcast Tower
-08/07/2024;怒りの要塞 (Fortress of Anger ? Ikari no Yousai);20:00;23:00;Broadcast Tower
-08/07/2024;GAME: 虎の太鼓判 (GAME Tora no Taikoban);8:00;23:00;News Building
-08/07/2024;Special Tee Shot;11:00;23:00;Stadium
-08/07/2024;アルベルト・オデッセイ (Albert Odyssey);8:00;20:00;Bagpotamia Temple
-08/07/2024;？？？;8:00;23:00;？？？ (Ask the NPCs)
-08/08/2024;タモリのピクロス [6/26] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/08/2024;スーパーぷよぷよツーREMIX (Super Puyo Puyo 2 REMIX);11:00;14:00;Broadcast Tower
-08/08/2024;カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko);14:00;17:00;Broadcast Tower
-08/08/2024;Zooっと麻雀：イベント版 (Mah-Jong with the Zoo: EVENT Ver.);17:00;20:00;Broadcast Tower
-08/08/2024;トレジャー・コンフリクス (Treasure Conflix);20:00;23:00;Broadcast Tower
-08/08/2024;ニンテンドーパワー１０７号 (Nintendo Power #107);8:00;23:00;News Building
-08/08/2024;Fightingベースボール (Fighting Baseball);11:00;23:00;Stadium
-08/08/2024;ドラゴンスレイヤー：英雄伝説 (Dragon Slayer: Legend of the Heroes);8:00;20:00;Bagpotamia Temple
-08/08/2024;すってはっくん;8:00;23:00;Telephone Booth
-08/09/2024;上海：万里の長城 (Shanghai: The Great Wall);8:00;11:00;Broadcast Tower
-08/09/2024;ワイワイチェック [3/21] (WaiWai Check);11:00;14:00;Broadcast Tower
-08/09/2024;カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball);14:00;17:00;Broadcast Tower
-08/09/2024;ヨッシーのパネポン：BS版 [1/2] (Yoshi's Panepon: BS Ver.);17:00;20:00;Broadcast Tower
-08/09/2024;クオンパBS版 [6/15] (Cu-On-Pa BS Version);20:00;23:00;Broadcast Tower
-08/09/2024;BSニンテンドーHP [2/21] (Nintendo HP);8:00;23:00;News Building
-08/09/2024;Super Formation Soccer;11:00;23:00;Stadium
-08/09/2024;RPGツクール：　Cock-A-Doodle-Doo;8:00;20:00;Bagpotamia Temple
-08/09/2024;パネルでポン [1/11] (Panel de Pon);8:00;23:00;Telephone Booth
-08/10/2024;タモリのピクロス [8/13] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/10/2024;キッドクラウンのクレージーチェース (Kid Clown's Crazy Chase);11:00;14:00;Broadcast Tower
-08/10/2024;カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball);14:00;17:00;Broadcast Tower
-08/10/2024;超兄貴：爆裂乱闘編 (Cho Aniki: Explosive Brawl Edition);17:00;20:00;Broadcast Tower
-08/10/2024;大爆笑人生劇場 (Comedic Life Theater);20:00;23:00;Broadcast Tower
-08/10/2024;チープdeゴージャス 1号 (Cheap de Gorgeous Vol. 1);8:00;23:00;News Building
-08/10/2024;Super Fire Pro Wrestling;11:00;23:00;Stadium
-08/10/2024;ダイナミトレーサー (Dynami Tracer);8:00;20:00;Bagpotamia Temple
-08/10/2024;ゼルダの伝説：神々のトライフォース (The Legend of Zelda: Triforce of the Gods);8:00;23:00;Telephone Booth
-08/11/2024;タモリのピクロス [6/13] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/11/2024;それ行け！エビス丸からくり　―　消えたゴエモンの謎！ (Ebisumaru's Karakuri Maze);11:00;14:00;Broadcast Tower
-08/11/2024;スーパー倉庫番 (Super Soukoban);14:00;17:00;Broadcast Tower
-08/11/2024;ワリオの森: 再び;17:00;20:00;Broadcast Tower
-08/11/2024;クオンパBS版 [10/27] (Cu-On-Pa BS Version);20:00;23:00;Broadcast Tower
-08/11/2024;デジタルマガジンバスターズBS版　【4-12号】 (Digital Magazine Busters BS [4/12 Ed.]);8:00;23:00;News Building
-08/11/2024;Fightingベースボール (Fighting Baseball);11:00;23:00;Stadium
-08/11/2024;ファイナルファンタジーUSA：ミスチッククエスト (Final Fantasy USA: Mystic Quest);8:00;20:00;Bagpotamia Temple
-08/11/2024;バトルマニアックスにバトルトード (Battletoads in Battlemaniacs);8:00;23:00;Telephone Booth
-08/12/2024;キャメルトリー (Cameltry);8:00;14:00;Broadcast Tower
-08/12/2024;奇々怪界：謎の黒マント (Pocky & Rocky);14:00;20:00;Broadcast Tower
-08/12/2024;ヨッシーのパネポン：BS版 [6/14] (Yoshi's Panepon: BS Ver.);20:00;23:00;Broadcast Tower
-08/12/2024;毎週ファミ通エクスプレス [4/17] (Weekly Famitsu Express);8:00;23:00;News Building
-08/12/2024;Championship Pool;11:00;23:00;Stadium
-08/12/2024;ソールブレーダー (Soul Blazer);8:00;20:00;Bagpotamia Temple
-08/12/2024;美少女戦士セーラームーンSuperS：フワフワパニック (Pretty Guardian Sailor Moon SuperS: Fuwa Fuwa Panic);8:00;23:00;Telephone Booth
-08/13/2024;クオンパBS版 [5/31] (Cu-On-Pa BS Version);8:00;11:00;Broadcast Tower
-08/13/2024;マリオペイントBS版 (Mario Paint BS);11:00;14:00;Broadcast Tower
-08/13/2024;BSF-ZERO：グランプリ２（練習）[10-23] (BS F-Zero: Grand Prix 2 [Practice]);14:00;17:00;Broadcast Tower
-08/13/2024;運だけ３０さめがめ大作戦ーマリオ版 (Mario Same Game);17:00;20:00;Broadcast Tower
-08/13/2024;BS探偵倶楽部～雪に消えた過去～（中編） [BS Tantei Club ~The Past that Disappeared in the Snow~ (Second Part)];20:00;23:00;Broadcast Tower
-08/13/2024;BSニンテンドーHP [5/31] (Nintendo HP);8:00;23:00;News Building
-08/13/2024;CAPCOMのMVPフットボール（アメリカ） [Capcom's MVP Football];11:00;23:00;Stadium
-08/13/2024;シャドウラン [Shadowrun];8:00;20:00;Bagpotamia Temple
-08/13/2024;あらいぐまラスカル [Araiguma Rascal];8:00;23:00;Telephone Booth
-08/14/2024;スーパーボンバーマン：パニックボンバーW (Super Bomberman: Panic Bomber W [Demo]);8:00;14:00;Broadcast Tower
-08/14/2024;GS美神：除霊師はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body);14:00;20:00;Broadcast Tower
-08/14/2024;デザエモン BS-X版 (Dezaemon BS-X);20:00;23:00;Broadcast Tower
-08/14/2024;ゲーム虎の太鼓判 (Game Tora no Taikoban);8:00;23:00;News Building
-08/14/2024;ジョージフォーマンのK.O.ボクシング (George Foreman's K.O. Boxing);11:00;23:00;Stadium
-08/14/2024;ドラッケン (Drakkhen);8:00;20:00;Bagpotamia Temple
-08/14/2024;シュアーインスティンクト (Sure Instinct);8:00;23:00;Robot Tower
-08/15/2024;忍たま乱太郎 2 (Ninja Kid Rantarou 2);8:00;11:00;Broadcast Tower
-08/15/2024;Let's Pachinko なんて銀玉２ (Let's Pachinko with Silver Balls 2);11:00;14:00;Broadcast Tower
-08/15/2024;牧場物語（デモ） (Harvest Moon [Demo]);14:00;17:00;Broadcast Tower
-08/15/2024;タモリのピクロス [6/13] (Tamori no Picross);17:00;20:00;Broadcast Tower
-08/15/2024;パネルでポン [12/28 (Panel de Pon);20:00;23:00;Broadcast Tower
-08/15/2024;フロイドの挑戦状　第1号 (Freud's Written Challenge #1);8:00;23:00;News Building
-08/15/2024;スーパーファイヤープロレスリング (Super Fire Pro Wrestling);11:00;23:00;Stadium
-08/15/2024;トレジャー・コンフリクス (Treasure Conflix);8:00;20:00;Bagpotamia Temple
-08/15/2024;ジョーとマック (Joe & Mac);8:00;23:00;Telephone Booth
-08/16/2024;スーパーボンバーマン：パニックボンバーW (Super Bomberman: Panic Bomber W [Demo]);8:00;14:00;Broadcast Tower
-08/16/2024;PICO PICOパイレーツ (Pico Pico Pirates);14:00;20:00;Broadcast Tower
-08/16/2024;クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special);20:00;23:00;Broadcast Tower
-08/16/2024;３時のWIDE賞 [6月号] (3:00 Wide Prize [June Edition]);8:00;23:00;News Building
-08/16/2024;F-1ポールポジション (F-1 Pole Position);11:00;23:00;Stadium
-08/16/2024;すごいRPG (Sugoi RPG);8:00;20:00;Bagpotamia Temple
-08/16/2024;A.S.P.エアーストライクパトロール (A.S.P. - Air Strike Patrol);8:00;23:00;Robot Tower
-08/17/2024;Arkanoid: Doh it Again;8:00;11:00;Broadcast Tower
-08/17/2024;[BROADCASTING ERROR];11:00;14:00;Broadcast Tower
-08/17/2024;Lemmings;14:00;17:00;Broadcast Tower
-08/17/2024;すってはっくんBS版 [Sutte Hakkun BS Ver.);17:00;20:00;Broadcast Tower
-08/17/2024;The Firemen;20:00;23:00;Broadcast Tower
-08/17/2024;BSニンテンドーHP 2/21号 [BS Nintendo HP 2/21 ed.];8:00;23:00;News Building
-08/17/2024;HALのホールインワンゴルフ (HAL's Hole-in-One Golf);11:00;23:00;Stadium
-08/17/2024;ウルティマ：善のルーンⅡ (Ultima: Runes of Virtue II) ;8:00;20:00;Bagpotamia Temple
-08/17/2024;ドッティ・フラワーズ　ＢＳ版 (BS Dottie Flowers);8:00;23:00;Robot Tower
-08/18/2024;タモリのピクロス [6/13] (Tamori no Picross);8:00;11:00;Broadcast Tower
-08/18/2024;ワイワイチェック [11/22][EN] (WaiWai Check);11:00;14:00;Broadcast Tower
-08/18/2024;スペースインベーダーズ (Space Invaders);14:00;17:00;Broadcast Tower
-08/18/2024;スーパーボンバーマン (Super Bomberman);17:00;20:00;Broadcast Tower
-08/18/2024;ヨッシーのパネポン：BS版 [7/3] (Yoshi's Panepon: BS Ver.);20:00;23:00;Broadcast Tower
-08/18/2024;フロイドの挑戦状　第2号 (Freud's Written Challenge #2);8:00;23:00;News Building
-08/18/2024;スーパーフォーメーションフットボール (Super Formation Soccer);11:00;23:00;Stadium
-08/18/2024;アルカナ (Arcana);8:00;20:00;Bagpotamia Temple
-08/18/2024;Teenage Mutant Ninja Turtles IV: Turtles In Time;8:00;23:00;Telephone Booth
-08/19/2024;Let's Pachinko なんて銀玉３ (Let's Pachinko with Silver Balls 3);8:00;11:00;Broadcast Tower
-08/19/2024;ソニックブラストマン (Sonic Blast Man);11:00;14:00;Broadcast Tower
-08/19/2024;アクトレーザ (Actraiser);14:00;17:00;Broadcast Tower
-08/19/2024;シム蟻 (SimAnt);17:00;20:00;Broadcast Tower
-08/19/2024;アーケードのベストゲームコレクション：ATARIのコレクション第一組 (Arcade Greatest Hits: The Atari Collection 1);20:00;23:00;Broadcast Tower
-08/19/2024;ゲーム虎の大穴スペシャル (Game Tora Big Cave Special);8:00;23:00;News Building
-08/19/2024;バトルサッカー：フィールドの覇者 (Battle Soccer: Field of Champions);11:00;23:00;Stadium
-08/19/2024;ラグーン (Lagoon);8:00;20:00;Bagpotamia Temple
-08/19/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Telephone Booth
-08/20/2024;すってはっくん ['98冬イベント版] (Sutte Hakkun: '98 Winter Event Ver.);8:00;11:00;Broadcast Tower
-08/20/2024;上海：万里の長城 (Shanghai: The Great Wall);11:00;14:00;Broadcast Tower
-08/20/2024;ゼルダの伝説：神々のトライフォース (The Legend of Zelda: Triforce of the Gods);14:00;17:00;Broadcast Tower
-08/20/2024;クオンパBS版 [10/27] (Cu-On-Pa BS Version);17:00;20:00;Broadcast Tower
-08/20/2024;F-ZERO;20:00;23:00;Broadcast Tower
-08/20/2024;デジタルマガジンバスターズBS版　[5/10号] (Digital Magazine Busters BS [5/10 Ed.]);8:00;23:00;News Building
-08/20/2024;スーパーベーセズローデッド (Super Bases Loaded);11:00;23:00;Stadium
-08/20/2024;ソルスティスⅡ (Equinox);8:00;20:00;Bagpotamia Temple
-08/20/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/20/2024;マリオが行方不明！ (Mario is Missing!);8:00;23:00;Telephone Booth
-08/21/2024;ワリオの森　―　イベント１版 (Wario's Forest Event 1);8:00;11:00;Broadcast Tower
-08/21/2024;釣太郎 (Tsuri Tarou);11:00;14:00;Broadcast Tower
-08/21/2024;カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko);14:00;17:00;Broadcast Tower
-08/21/2024;ヨッシーのパネポン：BS版 [7/3] (Yoshi's Panepon: BS Ver.);17:00;20:00;Broadcast Tower
-08/21/2024;ダリウスフォース (Darius Force);20:00;23:00;Broadcast Tower
-08/21/2024;コロンボの卵焼き第一回 (Fried eggs by Columbus #1);8:00;23:00;News Building
-08/21/2024;スーパーボレーⅡ (Super Volley 2);11:00;23:00;Stadium
-08/21/2024;ドカポン外伝：炎のオーディション (Dokapon Kingdom: A Fiery Audition);8:00;20:00;Bagpotamia Temple
-08/21/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/21/2024;火星からバイカーネズミ (Biker Mice from Mars);8:00;23:00;Telephone Booth
-08/22/2024;ＢＳドクターマリオ (BS Dr. Mario);8:00;11:00;Broadcast Tower
-08/22/2024;美少女戦士セーラームーンSuperS：フワフワパニック (Pretty Guardian Sailor Moon SuperS: Fuwa Fuwa Panic);11:00;14:00;Broadcast Tower
-08/22/2024;カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball);14:00;17:00;Broadcast Tower
-08/22/2024;Ｍｓ．　パックマン (Ms. PacMan);17:00;20:00;Broadcast Tower
-08/22/2024;ワイワイキッズ [3/16] (WaiWai Kids [3/16]);20:00;23:00;Broadcast Tower
-08/22/2024;街マガジン：アイドルダイアリーメディアいちご１２号 (Machi Magazine: Idol Diary Media Strawberry Vol. 12);8:00;23:00;News Building
-08/22/2024;トップギア (Top Gear);11:00;23:00;Stadium
-08/22/2024;悪魔城ドラキュラ (Super Caslevania IV);8:00;20:00;Bagpotamia Temple
-08/22/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/22/2024;ソニックザヘッジホッグ (Sonic The Hedgehog);8:00;23:00;Robot Tower
-08/23/2024;[BROADCASTING ERROR];8:00;11:00;Broadcast Tower
-08/23/2024;ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２;11:00;14:00;Broadcast Tower
-08/23/2024;マリオペイント優勝内蔵版 (Mario Paint: Built-In Winner Version);14:00;17:00;Broadcast Tower
-08/23/2024;ＢＳテトリス (BS Tetris) [Satellaview+ Exclusive!!];17:00;20:00;Broadcast Tower
-08/23/2024;スーパー地球防衛部隊　(Super E.D.F. [Earth Defence Force]);20:00;23:00;Broadcast Tower
-08/23/2024;デジタルマガジンバスターズBS版　[8/23号] (Digital Magazine Busters BS [8/23Ed.]);8:00;23:00;News Building
-08/23/2024;カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball);11:00;23:00;Stadium
-08/23/2024;ライブの宝石 (Jewel of Live);8:00;20:00;Bagpotamia Temple
-08/23/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/23/2024;マリオのタイムマシン (Mario's Time Machine);8:00;23:00;Telephone Booth
-08/24/2024;シムシティ [小売版] (Sim City [Retail ver.]);8:00;11:00;Broadcast Tower
-08/24/2024;牧場物語（デモ） (Harvest Moon [Demo]);11:00;14:00;Broadcast Tower
-08/24/2024;スーパーボンバーマン (Super Bomberman);14:00;17:00;Broadcast Tower
-08/24/2024;ワイルドガンズ (Wild Guns);17:00;20:00;Broadcast Tower
-08/24/2024;スーパーぷよぷよリミックス (Super Puyo Puyo Remix);20:00;23:00;Broadcast Tower
-08/24/2024;ヴューシネマパラダイス ４号 (View Cinema Paradise Vol. 4);8:00;23:00;News Building
-08/24/2024;実況ワールドサッカーパーフェクトイレブン (International Superstar Soccer);11:00;23:00;Stadium
-08/24/2024;エストポリス伝記 (Estopolis Denki // Lufia and the Fortress of Doom);8:00;20:00;Bagpotamia Temple
-08/24/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/24/2024;ドッティ・フラワーズ　ＢＳ版 (BS Dottie Flowers);8:00;23:00;Robot Tower
-08/24/2024;ブラックアウト (Black Out);8:00;23:00;Robot Tower
-08/25/2024;スーパー地球防衛部隊　(Super E.D.F. [Earth Defence Force]);8:00;11:00;Broadcast Tower
-08/25/2024;カービィのおもちゃ箱：　星崩し (Kirby's Toybox: Constellation);11:00;14:00;Broadcast Tower
-08/25/2024;スーパーボンバーマン２ (Super Bomberman 2);14:00;17:00;Broadcast Tower
-08/25/2024;スーパーなぞぷよルールエのルー (Super Nazo Puyo Rulue No Roux);17:00;20:00;Broadcast Tower
-08/25/2024;モノポリー２：レッドカップ (Monopoly 2: Red Cup);20:00;23:00;Broadcast Tower
-08/25/2024;コロンボの卵焼き第一回 (Fried eggs by Columbus #1);8:00;23:00;News Building
-08/25/2024;HALのホールインワンゴルフ (HAL's Hole-in-One Golf);11:00;23:00;Stadium
-08/25/2024;ファイナルファンタジーⅣ (Final Fantasy II [USA]);8:00;20:00;Bagpotamia Temple
-08/25/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/25/2024;ヨッシーのパネポン：BS版 [1/2] (Yoshi's Panepon: BS Ver.);8:00;23:00;Telephone Booth
-08/26/2024;クレージーチェース (Crazy Chase);8:00;11:00;Broadcast Tower
-08/26/2024;クオンパBS版 [10/27] (Cu-On-Pa BS Version);11:00;14:00;Broadcast Tower
-08/26/2024;タモリのピクロス [8/13] (Tamori no Picross);14:00;17:00;Broadcast Tower
-08/26/2024;カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball);17:00;20:00;Broadcast Tower
-08/26/2024;モノポリー２：イエローカップ (Monopoly 2: Yellow Cup);20:00;23:00;Broadcast Tower
-08/26/2024;グッズプレス  3月号 (GoodsPress);8:00;23:00;News Building
-08/26/2024;ゴルフ大好き！O．B．倶楽部 (Golf Daisuki! O.B. Club);11:00;23:00;Stadium
-08/26/2024;ソールブレーダー (Soul Blazer);8:00;20:00;Bagpotamia Temple
-08/26/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/26/2024;ワリオの森: 再び (Wario's Woods: Again);8:00;23:00;Telephone Booth
-08/27/2024;スーパー麻雀大会 (Super Mahjong Convention);8:00;11:00;Broadcast Tower
-08/27/2024;スターソルジャー BS版 (BS Star Soldier);11:00;14:00;Broadcast Tower
-08/27/2024;カービィのおもちゃ箱：　アレンジボール (Kirby's Toybox: Arrange Ball);14:00;17:00;Broadcast Tower
-08/27/2024;RPGツクール：　Cock-A-Doodle-Doo;17:00;20:00;Broadcast Tower
-08/27/2024;Championship Pool;20:00;23:00;Broadcast Tower
-08/27/2024;ドレミでファー　X号 (Do-re-mi de Faa! Volume X);8:00;23:00;News Building
-08/27/2024;F-1ポールポジション (F-1 Pole Position);11:00;23:00;Stadium
-08/27/2024;シャドウラン (Shadowrun);8:00;20:00;Bagpotamia Temple
-08/27/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/27/2024;デザエモン： BS-X版 (Dezaemon BS-X);8:00;23:00;Telephone Booth
-08/28/2024;[BROADCASTING ERROR];8:00;11:00;Broadcast Tower
-08/28/2024;奇々怪界：謎の黒マント (Pocky & Rocky);11:00;14:00;Broadcast Tower
-08/28/2024;クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special);14:00;17:00;Broadcast Tower
-08/28/2024;PICO PICOパイレーツ (Pico Pico Pirates);17:00;20:00;Broadcast Tower
-08/28/2024;ジョーとマック (Joe & Mac);20:00;23:00;Broadcast Tower
-08/28/2024;セント・ギガPG１０月号 (St. Giga PG October Edition);8:00;23:00;News Building
-08/28/2024;NEW 3D GOLF SIMULATION：ワイアラエの奇跡 (Waialae's Miracle);11:00;23:00;Stadium
-08/28/2024;アルカナ (Arcana);8:00;20:00;Bagpotamia Temple
-08/28/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/28/2024;Q*Bert 3;8:00;23:00;Telephone Booth
-08/29/2024;レミングス (Lemmings);8:00;11:00;Broadcast Tower
-08/29/2024;ロードモナーク (Lord Monarch);11:00;14:00;Broadcast Tower
-08/29/2024;ハイパーゾーン (Hyper Zone);14:00;17:00;Broadcast Tower
-08/29/2024;フェースボール２０００ (Faceball 2000);17:00;20:00;Broadcast Tower
-08/29/2024;SMWハック：ディノランドにまた (SMW Hack: Again in Dino Land);20:00;23:00;Broadcast Tower
-08/29/2024;BSニンテンドーHP 5/31号 (BS Nintendo HP 5/31 ed.);8:00;23:00;News Building
-08/29/2024;USAアイスホッケー (USA Ice Hockey);11:00;23:00;Stadium
-08/29/2024;すごいRPG (Sugoi RPG);8:00;20:00;Bagpotamia Temple
-08/29/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/29/2024;パズルボブル (Bust-A-Move);8:00;23:00;Telephone Booth
-08/30/2024;アクトレーザ (Actraiser);8:00;11:00;Broadcast Tower
-08/30/2024;パックアタック (Pac-Attack);11:00;14:00;Broadcast Tower
-08/30/2024;The Firemen;14:00;17:00;Broadcast Tower
-08/30/2024;Super Aleste;17:00;20:00;Broadcast Tower
-08/30/2024;カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball);20:00;23:00;Broadcast Tower
-08/30/2024;ポケカメマガジン (Gameboy Camera Magazine);8:00;23:00;News Building
-08/30/2024;MVPフットボール (MVP Football);11:00;23:00;Stadium
-08/30/2024;ドカポン外伝：炎のオーディション (Dokapon Kingdom: A Fiery Audition);8:00;20:00;Bagpotamia Temple
-08/30/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/30/2024;スーパークックドBS版 (BS Supercooked!);8:00;23:00;Robot Tower
-08/31/2024;それ行け！エビス丸からくり　―　消えたゴエモンの謎！ (Ebisumaru's Karakuri Maze);8:00;11:00;Broadcast Tower
-08/31/2024;Let's Pachinko なんて銀玉４ (Let's Pachinko with Silver Balls 4);11:00;14:00;Broadcast Tower
-08/31/2024;GS美神：除霊師はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body);14:00;17:00;Broadcast Tower
-08/31/2024;ソニックブラストマン (Sonic Blast Man);17:00;20:00;Broadcast Tower
-08/31/2024;キャメルトリー (Cameltry);20:00;23:00;Broadcast Tower
-08/31/2024;チープdeゴージャス 1号 (Cheap de Gorgeous Vol. 1);8:00;23:00;News Building
-08/31/2024;Fightingベースボール (Fighting Baseball);11:00;23:00;Stadium
-08/31/2024;ファイナルファンタジーUSA：ミスチッククエスト (Final Fantasy USA: Mystic Quest);8:00;20:00;Bagpotamia Temple
-08/31/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-08/31/2024;ボーダーライン (Borderline);8:00;23:00;Robot Tower
-09/01/2024;デザエモンBSX (Dezaemon BS-X);8:00;11:00;Broadcast Station
-09/01/2024;ワリオとマリオ (Wario and Mario);11:00;14:00;Broadcast Station
-09/01/2024;アルカノイド (Arkanoid – Doh it Again!);14:00;17:00;Broadcast Station
-09/01/2024;ワイルドガンズ (Wild Guns);17:00;20:00;Broadcast Station
-09/01/2024;ジョーとマック (Joe & Mac);20:00;23:00;Broadcast Station
-09/01/2024;街マガジン (Machi Magazine);8:00;23:00;News Building
-09/01/2024;スーパーピンボール (Super Pinball);11:00;23:00;Stadium
-09/01/2024;悪魔城ドラキュラ (Super Castlevania Ⅳ);8:00;20:00;Bagpotamia Temple
-09/01/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-09/02/2024;ヨッシーのクッキー (Yoshi's Cookie);8:00;11:00;Broadcast Station
-09/02/2024;ＶＳ．コレクション (VS. Collection);11:00;14:00;Broadcast Station
-09/02/2024;フロッガー (Frogger);14:00;17:00;Broadcast Station
-09/02/2024;ペーパーボーイ２ (Paperboy 2);17:00;20:00;Broadcast Station
-09/02/2024;シムシティ 【小売版】 (SimCity [Retail ver.]);20:00;23:00;Broadcast Station
-09/02/2024;フロイドの挑戦状　―　第1号 (Freud's challenge – Vol. 1);8:00;23:00;News Building
-09/02/2024;マイクロ・マシンズ (Micro Machines);11:00;23:00;Stadium
-09/02/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Burger Shop
-09/02/2024;スファミテストカセットD (Super Famicom Test Cartridge D);8:00;23:00;Robot Tower
-09/03/2024;パネルでポン　’９８イベント版 (Panel de Pon: '98 Event Version);8:00;11:00;Broadcast Station
-09/03/2024;F-ZERO;11:00;14:00;Broadcast Station
-09/03/2024;カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball);14:00;17:00;Broadcast Station
-09/03/2024;テトリス 【小売版】 (Tetris [Retail Ver.]);17:00;20:00;Broadcast Station
-09/03/2024;ゼルダの伝説：神々のトライフォース (Legend of Zelda: Triforce of the Gods);20:00;23:00;Broadcast Station
-09/03/2024;フロイドの挑戦状　―　第2号 (Freud's challenge – Vol. 2);8:00;23:00;News Building
-09/03/2024;F-1ポールポジション (F-1 Pole Position);11:00;23:00;Stadium
-09/03/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/03/2024;エキサイトバイク：ブンブンマリオバトル【SLなし】 (Excitebike: Mario VS. Stadium [Without SoundLink]);8:00;23:00;Telephone Booth
-09/03/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/04/2024;マリオペイントBS版 (BS Mario Paint);8:00;11:00;Broadcast Station
-09/04/2024;シム蟻 (SimAnt);11:00;14:00;Broadcast Station
-09/04/2024;スーパー忍者君 (Super Ninja Kun);14:00;17:00;Broadcast Station
-09/04/2024;バウンティー・ソード BS版 (BS Bounty Sword);17:00;20:00;Broadcast Station
-09/04/2024;シュアーインスティンクト (Sure Instinct);20:00;23:00;Broadcast Station
-09/04/2024;デジタルマガジンバスターズ　５月１０日号 (Digital Magazine Busters 5/10 Edition);8:00;23:00;News Building
-09/04/2024;ジョージフォーマンのK.O.ボクシング (George Foreman's K.O. Boxing);11:00;23:00;Stadium
-09/04/2024;ウィザードリィⅤ：災渦の中心 (Wizardry V: Heart of the Maelstrom);8:00;20:00;Bagpotamia Temple
-09/04/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/04/2024;Keep SNES Alive!!;8:00;23:00;Robot Tower
-09/04/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/05/2024;ダイナマイ・トレーサー (Dynami Tracer [EN]);8:00;14:00;Broadcast Station
-09/05/2024;すってはっくん (Sutte Hakkun);14:00;20:00;Broadcast Station
-09/05/2024;アーケードのベストゲーム：ATARIのコレクション　第1号 (Arcade's Greatest Hits: Atari Collection Vol. 1);20:00;23:00;Broadcast Station
-09/05/2024;ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31]);8:00;23:00;News Building
-09/05/2024;スーパーベーセズローデド (Super Bases Loaded);11:00;23:00;Stadium
-09/05/2024;ラグーン (Lagoon);8:00;20:00;Bagpotamia Temple
-09/05/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/05/2024;ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN]);8:00;23:00;Telephone Booth
-09/05/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/06/2024;スーパー倉庫番 (Super Sōkoban);8:00;11:00;Broadcast Station
-09/06/2024;タモリのピクロス 【６月３】 (Tamori no Picross [6/3]);11:00;14:00;Broadcast Station
-09/06/2024;カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball);14:00;17:00;Broadcast Station
-09/06/2024;ヨッシーのパネポン　【１月２】 (Yoshi's Tetris Attack [1/2]);17:00;20:00;Broadcast Station
-09/06/2024;超兄貴：爆裂乱闘編 (Chou Aniki: Explosive Brawler Edition);20:00;23:00;Broadcast Station
-09/06/2024;チープｄｅゴージャス　４号 (Cheap de Gorgeous Vol. 4);8:00;23:00;News Building
-09/06/2024;チャンピオンシップ・プール (Championship Pool);11:00;23:00;Stadium
-09/06/2024;ソールブレーダー (Soul Blazer);8:00;20:00;Bagpotamia Temple
-09/06/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/06/2024;美少女戦士セーラームーンＳｕｐｅｒＳ：フワフワパニック (Sailor Moon SuperS: FuwaFuwa Panic);8:00;23:00;Telephone Booth
-09/06/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/07/2024;あらいぐまラスカル (Araiguma Rascal);8:00;11:00;Broadcast Station
-09/07/2024;スーパーボンバーマン (Super Bomberman [EN]);11:00;14:00;Broadcast Station
-09/07/2024;スーパーぷよぷよ (Super Puyo Puyo);14:00;17:00;Broadcast Station
-09/07/2024;ＢＳクオンパＳＦＣ　【５月３１】 (Cu-On-Pa SFC [5/31]);17:00;20:00;Broadcast Station
-09/07/2024;レミングス (Lemmings);20:00;23:00;Broadcast Station
-09/07/2024;３時のWIDE賞　5月号　(3:00 Wide award May Ed.);8:00;23:00;News Building
-09/07/2024;バトルサッカー：フィールドの覇者 (Battle Soccer: Champions of the Field);11:00;23:00;Stadium
-09/07/2024;ウルティマ外伝：黒木氏の陰謀 (Ultima II: Runes of Virtue [EN]);8:00;20:00;Bagpotamia Temple
-09/07/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/07/2024;シュアーインスティンクト (Sure Instinct);8:00;23:00;Robot Tower
-09/07/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/08/2024;Teenage Mutant Ninja Turtles: Turtles In Time;8:00;11:00;Broadcast Station
-09/08/2024;運だけ３０さめがめ大作戦：マリオ版 (Only by luck 30: SameGame Grand Strategy – Mario Version);11:00;14:00;Broadcast Station
-09/08/2024;がんばれゴエモン (The Legend of the Mystical Ninja);14:00;17:00;Broadcast Station
-09/08/2024;Ｚｏｏっと麻雀 (Mahjohng with the Zoo);17:00;20:00;Broadcast Station
-09/08/2024;ロードモナーク (Lord Monarch);20:00;23:00;Broadcast Station
-09/08/2024;コロンボの卵焼き　２号 (Columbus's Fried Eggs #2);8:00;23:00;News Building
-09/08/2024;ゴルフ大好き！Ｏ．Ｂ．倶楽部 (I love golf! O.B. Club);11:00;23:00;Stadium
-09/08/2024;アルベルト・オデッセイ (Albert Odyssey);8:00;20:00;Bagpotamia Temple
-09/08/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/08/2024;マリオは行方不明だよ！(Mario is Missing!);8:00;23:00;Telephone Booth
-09/08/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/09/2024;ドクター・マリオ (Dr. Mario);8:00;14:00;Broadcast Station
-09/09/2024;ワリオの森：爆笑版 (Wario's Woods: Explosive Laughter Version);14:00;20:00;Broadcast Station
-09/09/2024;火星からのバイカーネズミ (Biker Mice from Mars);20:00;23:00;Broadcast Station
-09/09/2024;Ｂ　ＤＡＳＨ　【２月号】 (B DASH: February Edition);8:00;23:00;News Building
-09/09/2024;NＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle);11:00;23:00;Stadium
-09/09/2024;アクトレーザー (Actraiser);8:00;20:00;Bagpotamia Temple
-09/09/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/09/2024;キャメルトリ (Cameltry);8:00;23:00;Telephone Booth
-09/09/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/10/2024;トップギア (Top Gear);8:00;11:00;Broadcast Station
-09/10/2024;モノポリー２：赤カップ;11:00;14:00;Broadcast Station
-09/10/2024;スーパーファミコンウォーズ　ＢＳ版「ハゴロモジマ」 (BS Super Famicom Wars: Hagorojima);14:00;17:00;Broadcast Station
-09/10/2024;エアー・ストライク・パトロール ～Ａ．Ｓ．Ｐ．～ (A.S.P.: Air Strike Patrol);17:00;20:00;Broadcast Station
-09/10/2024;ＲＰＧツクール２：コケコッコッコー (RPG Tkool2: Cock-A-Doodle-Do);20:00;23:00;Broadcast Station
-09/10/2024;操作戦隊ワッパーズ　１号 (Sousa Sentai Wappers #1);8:00;23:00;News Building
-09/10/2024;スーパーファイヤープロレスリング (Super Fire Pro Wrestling);11:00;23:00;Stadium
-09/10/2024;ドラッケン (Drakkhen);8:00;20:00;Bagpotamia Temple
-09/10/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/10/2024;パックアタック (Pac-Attack);8:00;23:00;Telephone Booth
-09/10/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/11/2024;牧場物語　【表示版】 (Harvest Moon [Demo]);8:00;11:00;Broadcast Station
-09/11/2024;ザ・ファイヤーメン (The Firemen);11:00;14:00;Broadcast Station
-09/11/2024;カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball);14:00;17:00;Broadcast Station
-09/11/2024;Ｑバート３ (Q*Bert 3);17:00;20:00;Broadcast Station
-09/11/2024;フェースボール２０００ (Faceball 2000);20:00;23:00;Broadcast Station
-09/11/2024;ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17]);8:00;23:00;News Building
-09/11/2024;スーパーフォーメーションサッカー (Super Formation Soccer);11:00;23:00;Stadium
-09/11/2024;ウルティマⅦ：黒い門 (Ultima VII: The Black Gate);8:00;20:00;Bagpotamia Temple
-09/11/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/11/2024;スーパー麻雀大海 (Super Mahjong Taikai);8:00;23:00;Telephone Booth
-09/11/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/12/2024;ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN]);8:00;11:00;Broadcast Station
-09/12/2024;超兄貴：爆裂乱闘編 (Chou Aniki: Explosive Brawler Edition);11:00;14:00;Broadcast Station
-09/12/2024;ハイパーゾーン (Hyperzone);14:00;17:00;Broadcast Station
-09/12/2024;怒りの要塞 (Operation Logic Bomb);17:00;20:00;Broadcast Station
-09/12/2024;改造超人シュビビンマン０ (Cyber Citizen Shockman 0);20:00;23:00;Broadcast Station
-09/12/2024;フロイドの挑戦状　―　第1号 (Freud's challenge – Vol. 1);8:00;23:00;News Building
-09/12/2024;スペシャル・ティー・ショット (Special Tee Shot);11:00;23:00;Stadium
-09/12/2024;ＪＥＷＥＬ　ＯＦ　ＬＩＶＥ;8:00;20:00;Bagpotamia Temple
-09/12/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/12/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/13/2024;奇々怪界：謎の黒マント (Pocky & Rocky);8:00;11:00;Broadcast Station
-09/13/2024;ドキドキペンギン加須 (DokiDoki Penguin Kazo);11:00;14:00;Broadcast Station
-09/13/2024;がんばれゴエモン (The Legend of the Mystical Ninja);14:00;17:00;Broadcast Station
-09/13/2024;ニュー・ヤッターマン (New Tatterman);17:00;20:00;Broadcast Station
-09/13/2024;釣太郎 (Tsuri Taro);20:00;23:00;Broadcast Station
-09/13/2024;フロイドの挑戦状　―　第4号 (Freud's challenge – Vol. 4);8:00;23:00;News Building
-09/13/2024;スーパーボレーⅡ (Super Volley II);11:00;23:00;Stadium
-09/13/2024;決戦！ドカポン王国Ⅳ：伝説の勇者たち (Decisive Battle! Dokapon Kingdom IV: Legendary Heroes);8:00;20:00;Bagpotamia Temple
-09/13/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/13/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/13/2024;ワイルドスネーク (Wild Snakes);8:00;23:00;Telephone Booth
-09/14/2024;ディノランドにまた (SMW Hack: Again in Dinosaur Land);8:00;11:00;Broadcast Station
-09/14/2024;キッドクラウンのクレージーチェース (Kid Klown in Crazy Chase);11:00;14:00;Broadcast Station
-09/14/2024;あらいぐまラスカル (Araiguma Rascal);14:00;17:00;Broadcast Station
-09/14/2024;デザエモンBSX (Dezaemon BS-X);17:00;20:00;Broadcast Station
-09/14/2024;ピコピコパイレーツ (Pico Pico Pirates!);20:00;23:00;Broadcast Station
-09/14/2024;だんだんベルトコンベヤー;8:00;23:00;News Building
-09/14/2024;ＣＡＰＣＯＭよりＭＶＰフットボール (Capcom's MVP Football);11:00;23:00;Stadium
-09/14/2024;アルカナ (Arcana);8:00;20:00;Bagpotamia Temple
-09/14/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/14/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/15/2024;ＢＳテトリス (BS Tetris);8:00;14:00;Broadcast Station
-09/15/2024;ゼルダの伝説：神々のトライフォース (Legend of Zelda: Triforce of the Gods);14:00;20:00;Broadcast Station
-09/15/2024;ヨッシーのパネポン　【７月５】 (Yoshi's Tetris Attack [7/5]);20:00;23:00;Broadcast Station
-09/15/2024;ゲーム虎の大穴スペシャル　【３月３０】 (Game Tora – Big Cave Special [3/30]);8:00;23:00;News Building
-09/15/2024;ファイティング野球 (Fighting Baseball);11:00;23:00;Stadium
-09/15/2024;ダイナマイ・トレーサー (Dynami Tracer [EN]);8:00;20:00;Bagpotamia Temple
-09/15/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/15/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/15/2024;ＢＳドッティ・フラワーズ (BS Dottie Flowers);8:00;23:00;Robot Tower
-09/16/2024;ＢＳクオンパＳＦＣ　【６月１５】 (Cu-On-Pa SFC [6/15]);8:00;11:00;Broadcast Station
-09/16/2024;ＢＳマリオペイント (BS Mario Paint);11:00;14:00;Broadcast Station
-09/16/2024;スーパーなぞぷよ：ルルエのルー (Super Nazo Puyo: Rulue of Roux);14:00;17:00;Broadcast Station
-09/16/2024;ドクター・マリオ (Dr. Mario);17:00;20:00;Broadcast Station
-09/16/2024;ソニックブラストマン (Sonic Blast Man);20:00;23:00;Broadcast Station
-09/16/2024;グッズプレス　３月号 (GoodsPress Mar. Edition);8:00;23:00;News Building
-09/16/2024;スーパーベーセズローデド (Super Bases Loaded);11:00;23:00;Stadium
-09/16/2024;シャドウラン (Shadowrun);8:00;20:00;Bagpotamia Temple
-09/16/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/16/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/16/2024;ＧＳ美神：除霊市はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body);8:00;23:00;Telephone Booth
-09/17/2024;Ｆ－ＺＥＲＯ　ＧＰ２練習版 (F-ZERO Grand Prix 2: Practice Version);8:00;11:00;Broadcast Station
-09/17/2024;スーパーアレスタ (Super Aleste);11:00;14:00;Broadcast Station
-09/17/2024;ＢＳスーパーファミコンワーズ：ツキノワジマ (BS Super Famicom Wars: Tsukinowa-Jima);14:00;17:00;Broadcast Station
-09/17/2024;タモリのピクロス 【８月１３】 (Tamori no Picross [8/13]);17:00;20:00;Broadcast Station
-09/17/2024;大爆笑人生劇場 (Daibakushou Jinsei Gekijou);20:00;23:00;Broadcast Station
-09/17/2024;３時のＷＩＤＥ賞　６月号　(3:00 Wide award June Ed.);8:00;23:00;News Building
-09/17/2024;チャンピオンシップ・プール (Championship Pool);11:00;23:00;Stadium
-09/17/2024;悪魔城ドラキュラ (Super Castlevania Ⅳ);8:00;20:00;Bagpotamia Temple
-09/17/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/17/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/17/2024;ジョーとマック (Joe & Mac);8:00;23:00;Telephone Booth
-09/18/2024;アルカノイド (Arkanoid – Doh it Again!);8:00;14:00;Broadcast Station
-09/18/2024;スーポー倉庫番 (Super Sōkoban);14:00;20:00;Broadcast Station
-09/18/2024;すってはっくん：’９８冬イベント版 (Sutte Hakkun: '98 Winter Event Version;20:00;23:00;Broadcast Station
-09/18/2024;フロイドの挑戦状　―　第４号 (Freud's Challenge: #4);8:00;23:00;News Building
-09/18/2024;スーパーファイヤープロレスリング (Super Fire Pro Wrestling);11:00;23:00;Stadium
-09/18/2024;ソルスティスⅡ (Equinox);8:00;20:00;Bagpotamia Temple
-09/18/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/18/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/18/2024;シュアーインスティンクト (Sure Instinct);8:00;23:00;Telephone Booth
-09/19/2024;ＢＳテトリス (BS Tetris);8:00;14:00;Broadcast Station
-09/19/2024;ＢＳドクター・マリオ (Dr. Mario);14:00;20:00;Broadcast Station
-09/19/2024;ジョーとマック (Joe & Mac);20:00;23:00;Broadcast Station
-09/19/2024;ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17]);8:00;23:00;News Building
-09/19/2024;スーパースマッシュＴ．Ｖ． (Super Smash T.V.);11:00;23:00;Stadium
-09/19/2024;悪魔城ドラキュラ (Super Castlevania Ⅳ);8:00;20:00;Bagpotamia Temple
-09/19/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/19/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/19/2024;ソニック・ざ・ヘッジホッグ (Sonic The Hedgehog);8:00;23:00;Telephone Booth
-09/20/2024;放送エラー (BROADCAST ERROR);8:00;11:00;Broadcast Station
-09/20/2024;ザ・ファイヤーメン (The Firemen);11:00;14:00;Broadcast Station
-09/20/2024;クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special);14:00;17:00;Broadcast Station
-09/20/2024;怒りの要塞 (Operation Logic Bomb);17:00;20:00;Broadcast Station
-09/20/2024;スーパー忍者君 (Super Ninja Kun);20:00;23:00;Broadcast Station
-09/20/2024;毎週ファミ通エクスプレス (Weekly Famitsu Express;8:00;23:00;News Building
-09/20/2024;スペシャル・ティー・ショット (Special Tee Shot);11:00;23:00;Stadium
-09/20/2024;ドラッケン (Drakkhen);8:00;20:00;Bagpotamia Temple
-09/20/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/20/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/20/2024;ボーダーライン (Borderline);8:00;23:00;Robot Tower
-09/21/2024;上海：万里の長城 (Shanghai: The Great Wall);8:00;11:00;Broadcast Tower
-09/21/2024;ワイワイチェック [3/21] (WaiWai Check);11:00;14:00;Broadcast Tower
-09/21/2024;カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball);14:00;17:00;Broadcast Tower
-09/21/2024;ヨッシーのパネポン：ＢＳ版 【1月2】 (BS Yoshi's Panepon [½]);17:00;20:00;Broadcast Tower
-09/21/2024;クオンパＢＳ版 【６月１５】 (Cu-On-Pa BS Version [6/15]);20:00;23:00;Broadcast Tower
-09/21/2024;ＢＳニンテンドーＨＰ 【2月21】 (Nintendo HP [2/21]);8:00;23:00;News Building
-09/21/2024;スーパーフォーメーションサッカー (Super Formation Soccer);11:00;23:00;Stadium
-09/21/2024;ＲＰＧツクール２：コケコッコッコー (RPG Tkool2: Cock-A-Doodle-Do);8:00;20:00;Bagpotamia Temple
-09/21/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/21/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/21/2024;パネルでポン [1/11] (Panel de Pon);8:00;23:00;Telephone Booth
-09/22/2024;ブロック崩し (Block Kuzushi);8:00;14:00;Broadcast Station
-09/22/2024;マイクロマシン (Micro Machines);14:00;20:00;Broadcast Station
-09/22/2024;アーケードのベストゲーム：Ｗｉｌｌｉａｍｓのコレクション　第1号 (Arcade's Greatest Hits: Williams Collection Vol. 1);20:00;23:00;Broadcast Station
-09/22/2024;フロイドの挑戦状　―　第５号 (Freud's challenge – Vol. 5);8:00;23:00;News Building
-09/22/2024;ジョンマッデンフットボール (John Madden Football);11:00;23:00;Stadium
-09/22/2024;ファイナルファンタジーＵＳＡ：ミスチッククエスト (Final Fantasy USA: Mystic Quest);8:00;20:00;Bagpotamia Temple
-09/22/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/22/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/22/2024;クルード (Cluedo/Clue);8:00;23:00;Telephone Booth
-09/23/2024;放送エラー [BROADCAST ERROR];8:00;11:00;Broadcast Tower
-09/23/2024;ワリオとマリオ (Wario and Mario);11:00;14:00;Broadcast Tower
-09/23/2024;ミスパックマン (Ms. Pac-Man);14:00;17:00;Broadcast Tower
-09/23/2024;ワイルドガンズ (Wild Guns);17:00;20:00;Broadcast Tower
-09/23/2024;エアー・ストライク・パトロール ～Ａ．Ｓ．Ｐ．～ (A.S.P.: Air Strike Patrol);20:00;23:00;Broadcast Tower
-09/23/2024;Ｂ　ＤＡＳＨ　【３月号】 (B DASH: March Edition);8:00;23:00;News Building
-09/23/2024;スーパーピンボール (Super Pinball);11:00;23:00;Stadium
-09/23/2024;シャドウラン (Shadowrun);8:00;20:00;Bagpotamia Temple
-09/23/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/23/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/24/2024;シムシティ 【小売版】 (SimCity [Retail ver.]);8:00;11:00;Broadcast Tower
-09/24/2024;ＶＳ．コレクション (VS. Collection);11:00;14:00;Broadcast Tower
-09/24/2024;スーパーボンバーマン (Super Bomberman [EN]);14:00;17:00;Broadcast Tower
-09/24/2024;ヨッシーのクッキー (Yoshi's Cookie);17:00;20:00;Broadcast Tower
-09/24/2024;マリオのタイムマシン (Mario's Time Machine);20:00;23:00;Broadcast Tower
-09/24/2024;Ｂ　ＤＡＳＨ　【２月号】 (B DASH: February Edition);8:00;23:00;News Building
-09/24/2024;トップギア (Top Gear);11:00;23:00;Stadium
-09/24/2024;パッグジー (Puggsy);8:00;20:00;Robot Tower
-09/24/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/24/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/25/2024;モノポリー２：赤カップ (Monopoly 2: Red Cup);8:00;11:00;Broadcast Tower
-09/25/2024;レミングス (Lemmings);11:00;14:00;Broadcast Tower
-09/25/2024;ピコピコパイレーツ (Pico Pico Pirates!);14:00;17:00;Broadcast Tower
-09/25/2024;ダリアスフォース (Darius Force);17:00;20:00;Broadcast Tower
-09/25/2024;釣太郎 (Tsuri Tarō);20:00;23:00;Broadcast Tower
-09/25/2024;ゲーム虎の大穴スペシャル　【３月３０】 (Game Tora – Big Cave Special [3/30]);8:00;23:00;News Building
-09/25/2024;ゴルフ大好き！Ｏ．Ｂ．倶楽部 (I love golf! O.B. Club);11:00;23:00;Stadium
-09/25/2024;バウンティー・ソード BS版 (BS Bounty Sword);8:00;20:00;Bagpotamia Temple
-09/25/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/25/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/26/2024;ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２;8:00;14:00;Broadcast Station
-09/26/2024;ザ・ファイヤーメン (The Firemen);14:00;20:00;Broadcast Station
-09/26/2024;キャメルトリ (Cameltry);20:00;23:00;Broadcast Station
-09/26/2024;フロイドの挑戦状　―　第6号 (Freud's challenge – Vol. 6);8:00;23:00;News Building
-09/26/2024;ファイティング野球 (Fighting Baseball);11:00;23:00;Stadium
-09/26/2024;恋はバランス たとえばＫ君の多忙な一日編 (Love is a balance: Anonymous K-kun's busy day);8:00;20:00;Bagpotamia Temple
-09/26/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/26/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/26/2024;ＢＳドッティ・フラワーズ (BS Dottie Flowers);8:00;23:00;Robot Tower
-09/27/2024;カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko);8:00;11:00;Broadcast Tower
-09/27/2024;がんばれゴエモン (The Legend of the Mystical Ninja);11:00;14:00;Broadcast Tower
-09/27/2024;ＢＳマリオペイント (BS Mario Paint);14:00;17:00;Broadcast Tower
-09/27/2024;マリオは行方不明だよ！(Mario is Missing!);17:00;20:00;Broadcast Tower
-09/27/2024;アーケードのベストゲーム：ATARIのコレクション　第1号 (Arcade's Greatest Hits: Atari Collection Vol. 1);20:00;23:00;Broadcast Tower
-09/27/2024;チープｄｅゴージャス　４号 (Cheap de Gorgeous Vol. 4);8:00;23:00;News Building
-09/27/2024;スペシャル・ティー・ショット (Special Tee Shot);11:00;23:00;Stadium
-09/27/2024;ソールブレーダー (Soul Blazer);8:00;20:00;Bagpotamia Temple
-09/27/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Building
-09/27/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-09/27/2024;シム蟻 (SimAnt);8:00;23:00;Telephone Booth
-10/02/2024;【放送エラー】 ([BROADCAST ERROR]);8:00;11:00;Broadcast Station
-10/02/2024;Ｆ－ＺＥＲＯ;11:00;14:00;Broadcast Station
-10/02/2024;Ｌｅｔ’ｓパチンコなんて銀玉１ (Let's Pachinko #1);14:00;17:00;Broadcast Station
-10/02/2024;ハイパーゾーン (HyperZone);17:00;20:00;Broadcast Station
-10/02/2024;ロボコップＶＳ．ターミネーター (RoboCop Vs. Terminator);20:00;23:00;Broadcast Station
-10/02/2024;毎日バスターズ　【６月７】 (Daily Busters [6/7]);8:00;23:00;News Building
-10/02/2024;スーパーベーセズローデッド (Super Bases Loaded);11:00;23:00;Stadium
-10/02/2024;ファイナルファンタジーⅣ (Final Fantasy IV);8:00;20:00;Bagpotamia Temple
-10/02/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/02/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/02/2024;ソニック・ザ・ヘッジホッグ (Sonic The Hedgehog);8:00;23:00;Robot Tower
-10/03/2024;スーパーマリオワルド (Super Mario World);8:00;14:00;Broadcast Station
-10/03/2024;ラッシング・ビート (Rival Turf!);14:00;20:00;Broadcast Station
-10/03/2024;ザ・シンプソンズ：バートの不思議な夢の大冒険 (The Simpsons: Bart's Nightmare);20:00;23:00;Broadcast Station
-10/03/2024;ＢＳ　セント・ギガＰＧ (BS St.GIGA PG);8:00;23:00;News Building
-10/03/2024;スーパーオフロード (Super Off-Road);11:00;23:00;Stadium
-10/03/2024;ウルティマⅦ (Ultima VII);8:00;20:00;Bagpotamia Temple
-10/03/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/03/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/03/2024;ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe);8:00;23:00;Robot Tower
-10/04/2024;Ｚｏｏっと麻雀！ (Mahjong with the Zoo!);8:00;11:00;Broadcast Station
-10/04/2024;ポップンツインビー (Pop'n Twinbee);11:00;14:00;Broadcast Station
-10/04/2024;地球防衛フォース～Ｅ．Ｄ．Ｆ～ (Earth Defence Force ~E.D.F.~);14:00;17:00;Broadcast Station
-10/04/2024;バスト・ア・ムーブ (Bust-A-Move);17:00;20:00;Broadcast Station
-10/04/2024;カービィのおもちゃ箱：ピンボール (Kirby's Toybox: Pinball);20:00;23:00;Broadcast Station
-10/04/2024;毎日マガジンバスターズ　【８月２３】 (Daily Magazine Busters [8/23]);8:00;23:00;News Building
-10/04/2024;新しい３Ｄゴルフシミュレーション：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle);11:00;23:00;Stadium
-10/04/2024;クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special);8:00;20:00;Bagpotamia Temple
-10/04/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/04/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/05/2024;ティーンエージ・ミュータント・ニンジャ・タートルズ／タートルズ・イン・タイム (Teenage Mutant Ninja Turtles Ⅳ: Turtles in Time);8:00;14:00;Broadcast Station
-10/05/2024;ＢＳマリオペイント (BS Mario Paint);14:00;20:00;Broadcast Station
-10/05/2024;モノポリー２：赤いカップ (Monopoly 2: Red Cup);20:00;23:00;Broadcast Station
-10/05/2024;ＢＳニンテンドーＨＰ　【２月２１】 (BS Nintendo HP [2/21]);8:00;23:00;News Building
-10/05/2024;ファイティング野球 (Fighting Baseball);11:00;23:00;Stadium
-10/05/2024;ソルスティスⅡ (Equinox);8:00;20:00;Bagpotamia Temple
-10/05/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/05/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/06/2024;レミングス (Lemmings);8:00;11:00;Broadcast Station
-10/06/2024;シムシティ　【小売版】 (SimCity [Retail Ver.]);11:00;14:00;Broadcast Station
-10/06/2024;ヨッシーのクッキー (Yoshi's Cookie);14:00;17:00;Broadcast Station
-10/06/2024;マリオのタイムマシン (Mario's Time Machine);17:00;20:00;Broadcast Station
-10/06/2024;スーパーボンバーマン (Super Bomberman);20:00;23:00;Broadcast Station
-10/06/2024;ＢＳニンテンドーＨＰ　【２月２１】 (BS Nintendo HP [2/21]);8:00;23:00;News Building
-10/06/2024;トップギア (Top Gear);11:00;23:00;Stadium
-10/06/2024;シャドウラン (Shadowrun);8:00;20:00;Bagpotamia Temple
-10/06/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/06/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/07/2024;アニマニアックス (Animaniacs);8:00;11:00;Broadcast Station
-10/07/2024;ＢＳテトリス (BS Tetris);11:00;14:00;Broadcast Station
-10/07/2024;カッコイイスポット (Cool Spot);14:00;17:00;Broadcast Station
-10/07/2024;ヨッシーのパネポン　【１月２】 (Yoshi's Tetris Attack [½]);17:00;20:00;Broadcast Station
-10/07/2024;ザ・ファイヤーメン (The Firemen);20:00;23:00;Broadcast Station
-10/07/2024;ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31]);8:00;23:00;News Building
-10/07/2024;ジョン・マッデンのアメリカンフットボール’９３ (John Madden's American Football '93);11:00;23:00;Stadium
-10/07/2024;アクトレーザ (Actraiser);8:00;20:00;Bagpotamia Temple
-10/07/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/07/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/07/2024;ＳＮＥＳの電気を続いています！ (Keeping SNES Alive!);8:00;23:00;Robot Tower
-10/08/2024;カービィの幽霊罠 (Kirby's Ghost Trap);8:00;11:00;Broadcast Station
-10/08/2024;グーフ・トループ (Goof Troop);11:00;14:00;Broadcast Station
-10/08/2024;パロディウス (Parodius);14:00;17:00;Broadcast Station
-10/08/2024;ＧＳ美神：条例氏はナイスボディー (Ghost Sweeper Mikami);17:00;20:00;Broadcast Station
-10/08/2024;スーパー・バック・トゥ・ザ・フューチャーⅡ (Super Back To The Future Part 2);20:00;23:00;Broadcast Station
-10/08/2024;フロイドの挑戦状　―　第３号 (Freud's Challenge: Vol. 3);8:00;23:00;News Building
-10/08/2024;ＮＢＡショーダウン (NBA Showdown);11:00;23:00;Stadium
-10/08/2024;エストポリス伝記 (Lufia & The Fortress of Doom);8:00;20:00;Bagpotamia Temple
-10/08/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/08/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/08/2024;ＢＳドッティ・フラワーズ (BS Dottie Flowers);8:00;23:00;Robot Tower
-10/09/2024;火星からバイカーネズミ (Biker Mice From Mars);8:00;11:00;Broadcast Station
-10/09/2024;スーパーボンバーマン２ (Super Bomberman 2);11:00;14:00;Broadcast Station
-10/09/2024;アウターワールド (Out of This World);14:00;17:00;Broadcast Station
-10/09/2024;アーケードのベストゲーム：ATARIのコレクション第一号 (Arcade's Greatest Hits: Atari Collection Vol. 1);17:00;20:00;Broadcast Station
-10/09/2024;ピコピコパイレーツ (Pico Pico Pirates);20:00;23:00;Broadcast Station
-10/09/2024;街マガジン (Machi Magazine);8:00;23:00;News Building
-10/09/2024;ウルティメイト　フットボール (Football Fury);11:00;23:00;Stadium
-10/09/2024;スーパーマリオワールド：大テレサの挑戦状 (Super Mario World: Big Boo's Challenge);8:00;20:00;Bagpotamia Temple
-10/09/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/09/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/09/2024;ワイルド蛇 (Wild Snake);8:00;23:00;Telephone Booth
-10/10/2024;バトルトードとダブルドラゴン (BattleToads and Double Dragon);8:00;11:00;Broadcast Station
-10/10/2024;サンセット・ライダーズ (Sunset Riders);11:00;14:00;Broadcast Station
-10/10/2024;フェースボール２０００ (Faceball 2000);14:00;17:00;Broadcast Station
-10/10/2024;超攻合神サーディオン (Xardion);17:00;20:00;Broadcast Station
-10/10/2024;バイキングの大迷惑 (The Lost Vikings);20:00;23:00;Broadcast Station
-10/10/2024;ファミ通エクスプレス　【４月２７】 (Famitsu Express [4/27]);8:00;23:00;News Building
-10/10/2024;スーパーテニス (Super Tennis);11:00;23:00;Stadium
-10/10/2024;スーパーマリオワールド：地獄版 (Super Mario World: Hell Edition);8:00;20:00;Bagpotamia Temple
-10/10/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/10/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/10/2024;マリオが行方不明！ (Mario is Missing!);8:00;23:00;Telephone Booth
-10/11/2024;デザエモン　ＢＳ－Ｘ版 (Dezaemon BS-X);8:00;11:00;Broadcast Station
-10/11/2024;ドンキーコング３ (Donkey Kong 3);11:00;14:00;Broadcast Station
-10/11/2024;ＶＳ．コレクション (VS. Collection);14:00;17:00;Broadcast Station
-10/11/2024;魂斗羅スピリッツ (Contra Ⅲ);17:00;20:00;Broadcast Station
-10/11/2024;ペーパーボーイ２ (Paperboy 2);20:00;23:00;Broadcast Station
-10/11/2024;ＢＳデジタルマガジンバスターズ　【８月２３】号 (BS Digital Magazine Busters [8/23]);8:00;23:00;News Building
-10/11/2024;ジョン・マッデンのアメリカンフットボール (John Madden's American Football);11:00;23:00;Stadium
-10/11/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/11/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/11/2024;パッグズィー (Puggsy);8:00;23:00;Telephone Booth
-10/12/2024;スーパーボンバーマン (Super Bomberman);8:00;11:00;Broadcast Station
-10/12/2024;カービィのおもちゃ箱：パチンコ (Kirby's Toybox: Pachinko);11:00;14:00;Broadcast Station
-10/12/2024;ジョーとマック (Joe & Mac);14:00;17:00;Broadcast Station
-10/12/2024;スペースインベーダー (Space Invader);17:00;20:00;Broadcast Station
-10/12/2024;ワリオの森：再び (Wario's Woods – Again);20:00;23:00;Broadcast Station
-10/12/2024;ＢＳデジタルマガジンバスターズ　【８月２３】号 (BS Digital Magazine Busters [8/23]);8:00;23:00;News Building
-10/12/2024;NＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle;11:00;23:00;Stadium
-10/12/2024;ファイナルファンタジーⅣ (Final Fantasy IV);8:00;20:00;Bagpotamia Temple
-10/12/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/12/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/13/2024;ドクターマリオ (Dr. Mario);8:00;14:00;Broadcast Station
-10/13/2024;スーパー忍者君 (Super Ninja Kun);14:00;20:00;Broadcast Station
-10/13/2024;スーパーぷよぷよ (Super Puyo Puyo);20:00;23:00;Broadcast Station
-10/13/2024;デジタルマガジンバスターズ　【６月７】 (Digital Magazine Busters [6/7]);8:00;23:00;News Building
-10/13/2024;F-1ポールポジション (F-1 Pole Position);11:00;23:00;Stadium
-10/13/2024;ソールブレーダー (SoulBlazer);8:00;20:00;Bagpotamia Temple
-10/13/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/13/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/14/2024;シム蟻 (SimAnt);8:00;11:00;Broadcast Station
-10/14/2024;Ｌｅｔ’ｓパチンコなんて銀玉２ (Let's Pachinko #2);11:00;14:00;Broadcast Station
-10/14/2024;ジェパ―ディー・デラックス (Jeopardy Deluxe);14:00;17:00;Broadcast Station
-10/14/2024;ソニックブラストマン (Sonic Blast Man);17:00;20:00;Broadcast Station
-10/14/2024;ターミネーター２ (Terminator 2);20:00;23:00;Broadcast Station
-10/14/2024;グッズプレス　６月号 (GoodsPress Jun. Edition);8:00;23:00;News Building
-10/14/2024;ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball]);11:00;23:00;Stadium
-10/14/2024;ソールブレーダー (SoulBlazer);8:00;20:00;Bagpotamia Temple
-10/14/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/14/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/15/2024;ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２　プラクティス (BS F-Zero GP2 Practive);8:00;11:00;Broadcast Station
-10/15/2024;ク・オン・パ　【小売版】 (Cu-On-Pa [Retail Ver.]);11:00;14:00;Broadcast Station
-10/15/2024;バースト・ア・ムーブ (Bust-A-Move);14:00;17:00;Broadcast Station
-10/15/2024;バトルテック (MechWarrior);17:00;20:00;Broadcast Station
-10/15/2024;ラス・ヴェーガス・ドリーム (Vegas Stakes);20:00;23:00;Broadcast Station
-10/15/2024;チープｄｅゴージャス　第一号 (Cheap de Gorgeous Vol. 1);8:00;23:00;News Building
-10/15/2024;ＦＩＦＡ国際的サッカー (FIFA International Soccer);11:00;23:00;Stadium
-10/15/2024;ファイナルファンタジーＵＳＡ：ミスチック・クエスト;8:00;20:00;Bagpotamia Temple
-10/15/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/15/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/15/2024;クラシック・コング (Classic Kong);8:00;23:00;Robot Tower
-10/16/2024;カービィのおもちゃ箱：キャノンボール (Kirby's Toybox: Cannon Ball);8:00;11:00;Broadcast Station
-10/16/2024;恐竜大行進 (We're Back! A Dinosaur Story);11:00;14:00;Broadcast Station
-10/16/2024;モノポリー２：黄色いカップ (Monopoly 2: Yellow Cup);14:00;17:00;Broadcast Station
-10/16/2024;ヨッシーのパネポン　【６月１４】 (Yoshi's Tetris Attack [6/14]);17:00;20:00;Broadcast Station
-10/16/2024;ミス・パックマン (Ms. Pac-Man);20:00;23:00;Broadcast Station
-10/16/2024;ドレミでふぁ２～！【第９本―５月２５日号】 (Do-Re-Mi de Faa 2~! Vol. 9 [5/25]);8:00;23:00;News Building
-10/16/2024;ＮＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ペブルビーチの波濤 (New 3D Golf Simulation: Pebble Beach Golf Links);11:00;23:00;Stadium
-10/16/2024;ＢＳ　スプリッガン・パワード　【音声連動無し放送】(BS Spriggan Powered [Without SoundLink]);8:00;20:00;Bagpotamia Temple
-10/16/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/16/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/16/2024;パラ坊のゲームクイズ　第１号 (Parabou's Game Quiz Vol. 1);8:00;23:00;Event Plaza
-10/17/2024;Ｆ－ＺＥＲＯ;8:00;11:00;Broadcast Station
-10/17/2024;ドクターマリオ (Dr. Mario);11:00;14:00;Broadcast Station
-10/17/2024;悪魔城ドラキュラ (Super Castlevania Ⅳ);14:00;17:00;Broadcast Station
-10/17/2024;スーパーボンバーマン２ (Super Bomberman 2);17:00;20:00;Broadcast Station
-10/17/2024;ジョーとマック (Joe & Mac);20:00;23:00;Broadcast Station
-10/17/2024;ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31]);8:00;23:00;News Building
-10/17/2024;チャンピオンシップ・プール (Championship Pool);11:00;23:00;Stadium
-10/17/2024;ファイナルファンタジーⅣ (Final Fantasy IV);8:00;20:00;Bagpotamia Temple
-10/17/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/17/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/17/2024;ボーダーライン (Borderline);8:00;23:00;Robot Tower
-10/18/2024;チェスター・チーター (Chester Cheetah);8:00;14:00;Broadcast Station
-10/18/2024;パックインタイム (Pac-In-Time);14:00;20:00;Broadcast Station
-10/18/2024;カービィの幽霊罠 (Kirby's Ghost Trap);20:00;23:00;Broadcast Station
-10/18/2024;グッズプレス　３月号 (GoodsPress Mar. Edition);8:00;23:00;News Building
-10/18/2024;スーパー・プレイ・アクション・フットボール (Super Play Action Football);11:00;23:00;Stadium
-10/18/2024;ファイナルファンタジーⅣ　【スペイン語】 (Final Fantasy IV [en Español]);8:00;20:00;Bagpotamia Temple
-10/18/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/18/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/19/2024;美少女戦士セーラームーンＳｕｐｅｒＳ：フワフワパニック (Pretty Guardian Sailor Moon SuperS: FuwaFuwa Panic);8:00;11:00;Broadcast Station
-10/19/2024;あらいぐまラスカル (Araiguma Rascal);11:00;14:00;Broadcast Station
-10/19/2024;モノポリー　【小売版】 (Monopoly [Retail ver.]);14:00;17:00;Broadcast Station
-10/19/2024;火星からバイカーネズミ (Biker Mice From Mars);17:00;20:00;Broadcast Station
-10/19/2024;ザ・ファイヤーメン　【英語版】 (The Firemen [EN]);20:00;23:00;Broadcast Station
-10/19/2024;ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17]);8:00;23:00;News Building
-10/19/2024;ジョン・マッデンのアメリカンフットボール’９３ (John Madden's American Football '93);11:00;23:00;Stadium
-10/19/2024;アルカナ (Arcana);8:00;20:00;Bagpotamia Temple
-10/19/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/19/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/19/2024;ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe);8:00;23:00;Robot Tower
-10/20/2024;Ｌｅｔ’ｓパチンコなんて銀玉３ (Let's Pachinko #3);8:00;11:00;Broadcast Station
-10/20/2024;インスペクター・ギャジェット (Inspector Gadget);11:00;14:00;Broadcast Station
-10/20/2024;アニマニアックス (Animaniacs);14:00;17:00;Broadcast Station
-10/20/2024;カービィのおもちゃ箱：ピンボール (Kirby's Toybox: Pinball);17:00;20:00;Broadcast Station
-10/20/2024;キャメルトリ (Cameltry);20:00;23:00;Broadcast Station
-10/20/2024;Ｂダッシュ　２月号 (B-Dash [Feb]);8:00;23:00;News Building
-10/20/2024;WWFのスーパーレスルマニア (WWF Super WrestleMania);11:00;23:00;Stadium
-10/20/2024;アクトレーザ (Actraiser);8:00;20:00;Bagpotamia Temple
-10/20/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/20/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/20/2024;キュー＊バート３ (Q*Bert 3);8:00;23:00;Telephone Booth
-10/21/2024;ディフェンダーⅡ (Defender II);8:00;11:00;Broadcast Station
-10/21/2024;ドンキーコングＪＲ．の算数遊び (Donkey Kong Jr. Math);11:00;14:00;Broadcast Station
-10/21/2024;ドンキーコング (Donkey Kong);14:00;17:00;Broadcast Station
-10/21/2024;バーガータイム (BurgerTime);17:00;20:00;Broadcast Station
-10/21/2024;バルーンファイト (Balloon Fight);20:00;23:00;Broadcast Station
-10/21/2024;ゲーム虎の大穴スペシャル (Game Tiger: Big Cave Special);8:00;23:00;News Building
-10/21/2024;バレーボール (Volleyball);11:00;23:00;Stadium
-10/21/2024;ザ・フェアリーランド・ストリー (The Fairyland Story);8:00;20:00;Bagpotamia Temple
-10/21/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/21/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/22/2024;ジョーとマック (Joe & Mac);8:00;11:00;Broadcast Station
-10/22/2024;クール・スポット (Cool Spot);11:00;14:00;Broadcast Station
-10/22/2024;ソニックブラストマン (Sonic Blast Man);14:00;17:00;Broadcast Station
-10/22/2024;アルカノイド (Arkanoid: Doh it again);17:00;20:00;Broadcast Station
-10/22/2024;ザ・ターミネーター (The Terminator);20:00;23:00;Broadcast Station
-10/22/2024;フロイドの挑戦状　―　第２号 (Freud's Challenge: Vol. 2);8:00;23:00;News Building
-10/22/2024;スペシャル・ティー・ショット (Special Tee Shot);11:00;23:00;Stadium
-10/22/2024;エストポリス伝記 (Lufia & The Fortress of Doom);8:00;20:00;Bagpotamia Temple
-10/22/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/22/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/23/2024;カービィのおもちゃ箱：パチンコ (Kirby's Toybox: Pachinko);8:00;11:00;Broadcast Station
-10/23/2024;それ行けエビス丸からくり迷路　―　消えたゴエモンの謎！ (Ebisumaru's Maze);11:00;14:00;Broadcast Station
-10/23/2024;ペーパーボーイ２ (Paperboy 2);14:00;17:00;Broadcast Station
-10/23/2024;シムシティ　【小売版】 (SimCity [Retail Ver.]);17:00;20:00;Broadcast Station
-10/23/2024;エリア８８ (U.N. Squadron [Area 88]);20:00;23:00;Broadcast Station
-10/23/2024;だんだんベルトコンベアー　牛乳の巻 (DanDan Belt Conveyor: Milk Roll);8:00;23:00;News Building
-10/23/2024;ＮＢＡショーダウン (NBA Showdown);11:00;23:00;Stadium
-10/23/2024;ファイナルファンタジーⅣ (Final Fantasy IV);8:00;20:00;Bagpotamia Temple
-10/23/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/23/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/23/2024;ボーダーライン (Borderline);8:00;23:00;Robot Tower
-10/24/2024;ＢＳマリオペイント (BS Mario Paint);8:00;14:00;Broadcast Station
-10/24/2024;パロディウス (Parodius);14:00;20:00;Broadcast Station
-10/24/2024;スーパーボンバーマン (Super Bomberman);20:00;23:00;Broadcast Station
-10/24/2024;チープｄｅゴージャス　第４号 (Cheap de Gorgeous Vol. 4);8:00;23:00;News Building
-10/24/2024;ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball]);11:00;23:00;Stadium
-10/24/2024;ラグーン (Lagoon);8:00;20:00;Bagpotamia Temple
-10/24/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/24/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/24/2024;ＳＮＥＳの電気を続いています！ (Keeping SNES Alive!);8:00;23:00;Robot Tower
-10/25/2024;Ｈｏｏｋ;8:00;14:00;Broadcast Station
-10/25/2024;ロケッティア (The Adventures of The Rocketeer);14:00;17:00;Broadcast Station
-10/25/2024;ホーム・アローン (Home Alone);17:00;20:00;Broadcast Station
-10/25/2024;超硬合神　サーディオン (Xardion);20:00;23:00;Broadcast Station
-10/25/2024;３時のＷＩＤＥ賞　５月号 (3-o'clock WIDE Prize [May Ed.]);8:00;23:00;News Building
-10/25/2024;ＮＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle);11:00;23:00;Stadium
-10/25/2024;マジックソード (Magic Sword);8:00;20:00;Bagpotamia Temple
-10/25/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/25/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/25/2024;パラ坊のゲームクイズ　第１号 (Parabou's Game Quiz Vol. 1);8:00;23:00;Robot Tower
-10/26/2024;カービィのおもちゃ箱：野球 (Kirby's Toybox: Baseball;8:00;14:00;Broadcast Station
-10/26/2024;スーパー忍者君 (Super Ninja Kun);14:00;20:00;Broadcast Station
-10/26/2024;ＢＳテトリス (BS Tetris);20:00;23:00;Broadcast Station
-10/26/2024;デジタルマガジンバスターズ　【６月７】 (Digital Magazine Busters [6/7]);8:00;23:00;News Building
-10/26/2024;トップレーサー (Top Racer);11:00;23:00;Stadium
-10/26/2024;ソルスティスⅡ (Equinox);8:00;20:00;Bagpotamia Temple
-10/26/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/26/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/27/2024;スーパーぷよぷよ (Super Puyo Puyo);8:00;14:00;Broadcast Station
-10/27/2024;モノポリー２：赤いカップ (Monopoly 2: Red Cup);14:00;20:00;Broadcast Station
-10/27/2024;マリオのタイムマシン (Mario's Time Machine);20:00;23:00;Broadcast Station
-10/27/2024;毎週ファミ通エクスプレス　【４月２７】 (Weekly Famitsu Express [4/27]);8:00;23:00;News Building
-10/27/2024;Ｆ－ＺＥＲＯ;11:00;23:00;Stadium
-10/27/2024;ソールブレーダー (SoulBlazer);8:00;20:00;Bagpotamia Temple
-10/27/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/27/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/28/2024;ク・オン・パ　【１０月２７】 (Cu-On-Pa [10/27]);8:00;11:00;Broadcast Station
-10/28/2024;カービィの幽霊罠 (Kirby's Ghost Trap);11:00;14:00;Broadcast Station
-10/28/2024;アーケードのベストゲーム：ATARIのコレクション第一号 (Arcade's Greatest Hits: Atari Collection Vol. 1);14:00;17:00;Broadcast Station
-10/28/2024;エアーマネジメント　大空に賭ける (Aerobiz);17:00;20:00;Broadcast Station
-10/28/2024;スーパーカジノ：シーザーの宮殿 (Super Caesar's Palace);20:00;23:00;Broadcast Station
-10/28/2024;ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31]);8:00;23:00;News Building
-10/28/2024;ジョン・マッデンのアメリカンフットボール (John Madden's American Football);11:00;23:00;Stadium
-10/28/2024;ロイヤルブラッド (Gemfire);8:00;20:00;Bagpotamia Temple
-10/28/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/28/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/28/2024;エイリアン３ (Alien 3);8:00;23:00;Event Plaza
-10/29/2024;キャスパー (Casper);8:00;11:00;Broadcast Station
-10/29/2024;エイリアン・ヴァーサス・プレデター (Alien vs. Predator);11:00;14:00;Broadcast Station
-10/29/2024;ハート・オフ・ダーク (Heart of Dark);14:00;17:00;Broadcast Station
-10/29/2024;ゾンビが隣さんたちを食われた！ (Zombies ate my Neighbors!);17:00;23:00;Broadcast Station
-10/29/2024;デジタルマガジンバスターズ　【８月２３】 (Digital Magazine Busters [8/23]);8:00;23:00;News Building
-10/29/2024;Ｆ－１ポールポジション (F-1 Pole Position);11:00;23:00;Stadium
-10/29/2024;シャドウラン (Shadowrun);8:00;20:00;Bagpotamia Temple
-10/29/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/29/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/29/2024;超魔界村 (Super Ghouls 'n' Ghosts;8:00;23:00;Event Plaza
-10/29/2024;アルカノイド　―　Ｒｅ：Ｂｌｏｃｋｅｄ (Arkanoid – Re:Blocked);8:00;23:00;Telephone Booth
-10/30/2024;ザ・ファイヤーメン (The Firemen);8:00;11:00;Broadcast Station
-10/30/2024;アニマニアックス (Animaniacs);11:00;14:00;Broadcast Station
-10/30/2024;あらいぐまラスカル (Araiguma Rascal);14:00;17:00;Broadcast Station
-10/30/2024;ワリオの森：イベント版 (Wario's Woods: Event Version);17:00;20:00;Broadcast Station
-10/30/2024;スーパーボンバーマン：パニックボンバーＷ (Super Bomberman: Panic Bomber W);20:00;23:00;Broadcast Station
-10/30/2024;フロイドの挑戦状　―　第１号 (Freud's Challenge: Vol. 1);8:00;23:00;News Building
-10/30/2024;ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball]);11:00;23:00;Stadium
-10/30/2024;ファイナルファンタジーＵＳＡ：ミスチック・クエスト (Final Fantasy USA: Mystic Quest);8:00;20:00;Bagpotamia Temple
-10/30/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/30/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/30/2024;悪魔城ドラキュラ (Super Castlevania Ⅳ);8:00;23:00;Event Plaza
-10/31/2024;カービィのおもちゃ箱：野球 (Kirby's Toybox: Baseball;8:00;11:00;Broadcast Station
-10/31/2024;モノポリー　【小売版】 (Monopoly [Retail ver.]);11:00;14:00;Broadcast Station
-10/31/2024;キャメルトリ (Cameltry);14:00;17:00;Broadcast Station
-10/31/2024;ジェーパーディー・デラックス (Jeopardy Deluxe);17:00;20:00;Broadcast Station
-10/31/2024;火星からバイカーネズミ (Biker Mice From Mars);20:00;23:00;Broadcast Station
-10/31/2024;チープｄｅゴージャス　第一号 (Cheap de Gorgeous Vol. 1);8:00;23:00;News Building
-10/31/2024;スーパー・オッフロード (Super Off Road);11:00;23:00;Stadium
-10/31/2024;アクトレーザ (Actraiser);8:00;20:00;Bagpotamia Temple
-10/31/2024;サテ坊のワードゲーム (Satebou's Word Game);8:00;23:00;Calculator Shop
-10/31/2024;ＢＳスーパークックド (BS SuperCooked!);8:00;23:00;Burger Shop
-10/31/2024;ロボコップＶＳ．ターミネーター (RoboCop Vs. Terminator);8:00;23:00;Event Plaza
-10/31/2024;ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe);8:00;23:00;Robot Tower
-10/31/2024;ハイパーゾーン (HyperZone);8:00;23:00;Telephone Booth
+Dates	Title	Start Time	End Time	Location
+08/03/2024	タモリのピクロス [8/13] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/03/2024	Let's Pachinko なんて銀玉１ (Let's Pachinko with Silver Balls 1)	11:00	14:00	Broadcast Tower
+08/03/2024	ワリオの森: 再び	14:00	17:00	Broadcast Tower
+08/03/2024	牧場物語（デモ） (Harvest Moon [Demo])	17:00	20:00	Broadcast Tower
+08/03/2024	BSF-ZERO：グランプリ２（練習）[10-23] (BS F-Zero: Grand Prix 2 [Practice])	20:00	23:00	Broadcast Tower
+08/03/2024	BSニンテンドーHP [5/17] (Nintendo HP)	8:00	23:00	News Building
+08/03/2024	Fightingベースボール (Fighting Baseball)	11:00	23:00	Stadium
+08/03/2024	決戦！ドカポン王国Ⅳ：伝説の勇者たち (Decisive Battle! Dokapon Kingdom IV: Legendary Heroes)	8:00	20:00	Bagpotamia Temple
+08/03/2024	スーパーぷよぷよツーBS版 (Super Puyo Puyo 2: BS Ver.)	8:00	23:00	Telephone Booth
+08/04/2024	The Firemen	8:00	11:00	Broadcast Tower
+08/04/2024	ダリウスフォース (Darius Force)	11:00	14:00	Broadcast Tower
+08/04/2024	カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball)	14:00	17:00	Broadcast Tower
+08/04/2024	Super Ninja-Kun	17:00	20:00	Broadcast Tower
+08/04/2024	クオンパBS版 [5/31] (Cu-On-Pa BS Version)	20:00	23:00	Broadcast Tower
+08/04/2024	ポケカメマガジン (Gameboy Camera Magazine)	8:00	23:00	News Building
+08/04/2024	ゴルフ大好き！O．B．倶楽部 (Golf Daisuki! O.B. Club)	11:00	23:00	Stadium
+08/04/2024	Broken Sword	8:00	20:00	Bagpotamia Temple
+08/04/2024	デザエモン ? BS-X版 (Dezaemon BS-X)	8:00	23:00	Telephone Booth
+08/05/2024	タモリのピクロス [6/13] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/05/2024	Super Puyo Puyo	11:00	14:00	Broadcast Tower
+08/05/2024	カービィのおもちゃ箱：　グルグルボール (Kirby's Toybox: GuruGuru Ball)	14:00	17:00	Broadcast Tower
+08/05/2024	釣太郎 (Tsuri Tarou)	17:00	20:00	Broadcast Tower
+08/05/2024	ソニックブラストマン (Sonic Blast Man)	20:00	23:00	Broadcast Tower
+08/05/2024	グッズプレス(GoodsPress) ? 3月号	8:00	23:00	News Building
+08/05/2024	Super Volley II	11:00	23:00	Stadium
+08/05/2024	Wizardy V: 差異化の中心	8:00	20:00	Bagpotamia Temple
+08/05/2024	Lemmings	8:00	23:00	Telephone Booth
+08/06/2024	運だけ３０さめがめ大作戦ーマリオ版 (Mario Same Game)	8:00	11:00	Broadcast Tower
+08/06/2024	ワリオの森　―　イベント１版 (Wario's Forest ? Event 1)	11:00	14:00	Broadcast Tower
+08/06/2024	カービィのおもちゃ箱：　星崩し (Kirby's Toybox: Constellation)	14:00	17:00	Broadcast Tower
+08/06/2024	Super Aleste	17:00	20:00	Broadcast Tower
+08/06/2024	BS探偵倶楽部～雪に消えた過去～（前編） [BS Tantei Club ~The Past that Disappeared in the Snow~ (First Part)]	20:00	23:00	Broadcast Tower
+08/06/2024	虎マガ大作戦 [Tora Maga Daisakusen]	8:00	23:00	News Building
+08/06/2024	NEW 3D GOLF SIMULATION：ワイアラエの奇跡 (Waialae's Miracle)	11:00	23:00	Stadium
+08/06/2024	エルファリア２ (Elfaria II)	8:00	20:00	Bagpotamia Temple
+08/06/2024	マリオペイントBS版 (Mario Paint BS)	8:00	23:00	Telephone Booth
+08/07/2024	Actraiser	8:00	11:00	Broadcast Tower
+08/07/2024	Dr. Mario	11:00	14:00	Broadcast Tower
+08/07/2024	カービィのおもちゃ箱：　アレンジボール (Kirby's Toybox: Arrange Ball)	14:00	17:00	Broadcast Tower
+08/07/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	17:00	20:00	Broadcast Tower
+08/07/2024	怒りの要塞 (Fortress of Anger ? Ikari no Yousai)	20:00	23:00	Broadcast Tower
+08/07/2024	GAME: 虎の太鼓判 (GAME Tora no Taikoban)	8:00	23:00	News Building
+08/07/2024	Special Tee Shot	11:00	23:00	Stadium
+08/07/2024	アルベルト・オデッセイ (Albert Odyssey)	8:00	20:00	Bagpotamia Temple
+08/07/2024	？？？	8:00	23:00	？？？ (Ask the NPCs)
+08/08/2024	タモリのピクロス [6/26] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/08/2024	スーパーぷよぷよツーREMIX (Super Puyo Puyo 2 REMIX)	11:00	14:00	Broadcast Tower
+08/08/2024	カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko)	14:00	17:00	Broadcast Tower
+08/08/2024	Zooっと麻雀：イベント版 (Mah-Jong with the Zoo: EVENT Ver.)	17:00	20:00	Broadcast Tower
+08/08/2024	トレジャー・コンフリクス (Treasure Conflix)	20:00	23:00	Broadcast Tower
+08/08/2024	ニンテンドーパワー１０７号 (Nintendo Power #107)	8:00	23:00	News Building
+08/08/2024	Fightingベースボール (Fighting Baseball)	11:00	23:00	Stadium
+08/08/2024	ドラゴンスレイヤー：英雄伝説 (Dragon Slayer: Legend of the Heroes)	8:00	20:00	Bagpotamia Temple
+08/08/2024	すってはっくん	8:00	23:00	Telephone Booth
+08/09/2024	上海：万里の長城 (Shanghai: The Great Wall)	8:00	11:00	Broadcast Tower
+08/09/2024	ワイワイチェック [3/21] (WaiWai Check)	11:00	14:00	Broadcast Tower
+08/09/2024	カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball)	14:00	17:00	Broadcast Tower
+08/09/2024	ヨッシーのパネポン：BS版 [1/2] (Yoshi's Panepon: BS Ver.)	17:00	20:00	Broadcast Tower
+08/09/2024	クオンパBS版 [6/15] (Cu-On-Pa BS Version)	20:00	23:00	Broadcast Tower
+08/09/2024	BSニンテンドーHP [2/21] (Nintendo HP)	8:00	23:00	News Building
+08/09/2024	Super Formation Soccer	11:00	23:00	Stadium
+08/09/2024	RPGツクール：　Cock-A-Doodle-Doo	8:00	20:00	Bagpotamia Temple
+08/09/2024	パネルでポン [1/11] (Panel de Pon)	8:00	23:00	Telephone Booth
+08/10/2024	タモリのピクロス [8/13] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/10/2024	キッドクラウンのクレージーチェース (Kid Clown's Crazy Chase)	11:00	14:00	Broadcast Tower
+08/10/2024	カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball)	14:00	17:00	Broadcast Tower
+08/10/2024	超兄貴：爆裂乱闘編 (Cho Aniki: Explosive Brawl Edition)	17:00	20:00	Broadcast Tower
+08/10/2024	大爆笑人生劇場 (Comedic Life Theater)	20:00	23:00	Broadcast Tower
+08/10/2024	チープdeゴージャス 1号 (Cheap de Gorgeous Vol. 1)	8:00	23:00	News Building
+08/10/2024	Super Fire Pro Wrestling	11:00	23:00	Stadium
+08/10/2024	ダイナミトレーサー (Dynami Tracer)	8:00	20:00	Bagpotamia Temple
+08/10/2024	ゼルダの伝説：神々のトライフォース (The Legend of Zelda: Triforce of the Gods)	8:00	23:00	Telephone Booth
+08/11/2024	タモリのピクロス [6/13] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/11/2024	それ行け！エビス丸からくり　―　消えたゴエモンの謎！ (Ebisumaru's Karakuri Maze)	11:00	14:00	Broadcast Tower
+08/11/2024	スーパー倉庫番 (Super Soukoban)	14:00	17:00	Broadcast Tower
+08/11/2024	ワリオの森: 再び	17:00	20:00	Broadcast Tower
+08/11/2024	クオンパBS版 [10/27] (Cu-On-Pa BS Version)	20:00	23:00	Broadcast Tower
+08/11/2024	デジタルマガジンバスターズBS版　【4-12号】 (Digital Magazine Busters BS [4/12 Ed.])	8:00	23:00	News Building
+08/11/2024	Fightingベースボール (Fighting Baseball)	11:00	23:00	Stadium
+08/11/2024	ファイナルファンタジーUSA：ミスチッククエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+08/11/2024	バトルマニアックスにバトルトード (Battletoads in Battlemaniacs)	8:00	23:00	Telephone Booth
+08/12/2024	キャメルトリー (Cameltry)	8:00	14:00	Broadcast Tower
+08/12/2024	奇々怪界：謎の黒マント (Pocky & Rocky)	14:00	20:00	Broadcast Tower
+08/12/2024	ヨッシーのパネポン：BS版 [6/14] (Yoshi's Panepon: BS Ver.)	20:00	23:00	Broadcast Tower
+08/12/2024	毎週ファミ通エクスプレス [4/17] (Weekly Famitsu Express)	8:00	23:00	News Building
+08/12/2024	Championship Pool	11:00	23:00	Stadium
+08/12/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+08/12/2024	美少女戦士セーラームーンSuperS：フワフワパニック (Pretty Guardian Sailor Moon SuperS: Fuwa Fuwa Panic)	8:00	23:00	Telephone Booth
+08/13/2024	クオンパBS版 [5/31] (Cu-On-Pa BS Version)	8:00	11:00	Broadcast Tower
+08/13/2024	マリオペイントBS版 (Mario Paint BS)	11:00	14:00	Broadcast Tower
+08/13/2024	BSF-ZERO：グランプリ２（練習）[10-23] (BS F-Zero: Grand Prix 2 [Practice])	14:00	17:00	Broadcast Tower
+08/13/2024	運だけ３０さめがめ大作戦ーマリオ版 (Mario Same Game)	17:00	20:00	Broadcast Tower
+08/13/2024	BS探偵倶楽部～雪に消えた過去～（中編） [BS Tantei Club ~The Past that Disappeared in the Snow~ (Second Part)]	20:00	23:00	Broadcast Tower
+08/13/2024	BSニンテンドーHP [5/31] (Nintendo HP)	8:00	23:00	News Building
+08/13/2024	CAPCOMのMVPフットボール（アメリカ） [Capcom's MVP Football]	11:00	23:00	Stadium
+08/13/2024	シャドウラン [Shadowrun]	8:00	20:00	Bagpotamia Temple
+08/13/2024	あらいぐまラスカル [Araiguma Rascal]	8:00	23:00	Telephone Booth
+08/14/2024	スーパーボンバーマン：パニックボンバーW (Super Bomberman: Panic Bomber W [Demo])	8:00	14:00	Broadcast Tower
+08/14/2024	GS美神：除霊師はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body)	14:00	20:00	Broadcast Tower
+08/14/2024	デザエモン BS-X版 (Dezaemon BS-X)	20:00	23:00	Broadcast Tower
+08/14/2024	ゲーム虎の太鼓判 (Game Tora no Taikoban)	8:00	23:00	News Building
+08/14/2024	ジョージフォーマンのK.O.ボクシング (George Foreman's K.O. Boxing)	11:00	23:00	Stadium
+08/14/2024	ドラッケン (Drakkhen)	8:00	20:00	Bagpotamia Temple
+08/14/2024	シュアーインスティンクト (Sure Instinct)	8:00	23:00	Robot Tower
+08/15/2024	忍たま乱太郎 2 (Ninja Kid Rantarou 2)	8:00	11:00	Broadcast Tower
+08/15/2024	Let's Pachinko なんて銀玉２ (Let's Pachinko with Silver Balls 2)	11:00	14:00	Broadcast Tower
+08/15/2024	牧場物語（デモ） (Harvest Moon [Demo])	14:00	17:00	Broadcast Tower
+08/15/2024	タモリのピクロス [6/13] (Tamori no Picross)	17:00	20:00	Broadcast Tower
+08/15/2024	パネルでポン [12/28 (Panel de Pon)	20:00	23:00	Broadcast Tower
+08/15/2024	フロイドの挑戦状　第1号 (Freud's Written Challenge #1)	8:00	23:00	News Building
+08/15/2024	スーパーファイヤープロレスリング (Super Fire Pro Wrestling)	11:00	23:00	Stadium
+08/15/2024	トレジャー・コンフリクス (Treasure Conflix)	8:00	20:00	Bagpotamia Temple
+08/15/2024	ジョーとマック (Joe & Mac)	8:00	23:00	Telephone Booth
+08/16/2024	スーパーボンバーマン：パニックボンバーW (Super Bomberman: Panic Bomber W [Demo])	8:00	14:00	Broadcast Tower
+08/16/2024	PICO PICOパイレーツ (Pico Pico Pirates)	14:00	20:00	Broadcast Tower
+08/16/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	20:00	23:00	Broadcast Tower
+08/16/2024	３時のWIDE賞 [6月号] (3:00 Wide Prize [June Edition])	8:00	23:00	News Building
+08/16/2024	F-1ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+08/16/2024	すごいRPG (Sugoi RPG)	8:00	20:00	Bagpotamia Temple
+08/16/2024	A.S.P.エアーストライクパトロール (A.S.P. - Air Strike Patrol)	8:00	23:00	Robot Tower
+08/17/2024	Arkanoid: Doh it Again	8:00	11:00	Broadcast Tower
+08/17/2024	[BROADCASTING ERROR]	11:00	14:00	Broadcast Tower
+08/17/2024	Lemmings	14:00	17:00	Broadcast Tower
+08/17/2024	すってはっくんBS版 [Sutte Hakkun BS Ver.)	17:00	20:00	Broadcast Tower
+08/17/2024	The Firemen	20:00	23:00	Broadcast Tower
+08/17/2024	BSニンテンドーHP 2/21号 [BS Nintendo HP 2/21 ed.]	8:00	23:00	News Building
+08/17/2024	HALのホールインワンゴルフ (HAL's Hole-in-One Golf)	11:00	23:00	Stadium
+08/17/2024	ウルティマ：善のルーンⅡ (Ultima: Runes of Virtue II) 	8:00	20:00	Bagpotamia Temple
+08/17/2024	ドッティ・フラワーズ　ＢＳ版 (BS Dottie Flowers)	8:00	23:00	Robot Tower
+08/18/2024	タモリのピクロス [6/13] (Tamori no Picross)	8:00	11:00	Broadcast Tower
+08/18/2024	ワイワイチェック [11/22][EN] (WaiWai Check)	11:00	14:00	Broadcast Tower
+08/18/2024	スペースインベーダーズ (Space Invaders)	14:00	17:00	Broadcast Tower
+08/18/2024	スーパーボンバーマン (Super Bomberman)	17:00	20:00	Broadcast Tower
+08/18/2024	ヨッシーのパネポン：BS版 [7/3] (Yoshi's Panepon: BS Ver.)	20:00	23:00	Broadcast Tower
+08/18/2024	フロイドの挑戦状　第2号 (Freud's Written Challenge #2)	8:00	23:00	News Building
+08/18/2024	スーパーフォーメーションフットボール (Super Formation Soccer)	11:00	23:00	Stadium
+08/18/2024	アルカナ (Arcana)	8:00	20:00	Bagpotamia Temple
+08/18/2024	Teenage Mutant Ninja Turtles IV: Turtles In Time	8:00	23:00	Telephone Booth
+08/19/2024	Let's Pachinko なんて銀玉３ (Let's Pachinko with Silver Balls 3)	8:00	11:00	Broadcast Tower
+08/19/2024	ソニックブラストマン (Sonic Blast Man)	11:00	14:00	Broadcast Tower
+08/19/2024	アクトレーザ (Actraiser)	14:00	17:00	Broadcast Tower
+08/19/2024	シム蟻 (SimAnt)	17:00	20:00	Broadcast Tower
+08/19/2024	アーケードのベストゲームコレクション：ATARIのコレクション第一組 (Arcade Greatest Hits: The Atari Collection 1)	20:00	23:00	Broadcast Tower
+08/19/2024	ゲーム虎の大穴スペシャル (Game Tora Big Cave Special)	8:00	23:00	News Building
+08/19/2024	バトルサッカー：フィールドの覇者 (Battle Soccer: Field of Champions)	11:00	23:00	Stadium
+08/19/2024	ラグーン (Lagoon)	8:00	20:00	Bagpotamia Temple
+08/19/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Telephone Booth
+08/20/2024	すってはっくん ['98冬イベント版] (Sutte Hakkun: '98 Winter Event Ver.)	8:00	11:00	Broadcast Tower
+08/20/2024	上海：万里の長城 (Shanghai: The Great Wall)	11:00	14:00	Broadcast Tower
+08/20/2024	ゼルダの伝説：神々のトライフォース (The Legend of Zelda: Triforce of the Gods)	14:00	17:00	Broadcast Tower
+08/20/2024	クオンパBS版 [10/27] (Cu-On-Pa BS Version)	17:00	20:00	Broadcast Tower
+08/20/2024	F-ZERO	20:00	23:00	Broadcast Tower
+08/20/2024	デジタルマガジンバスターズBS版　[5/10号] (Digital Magazine Busters BS [5/10 Ed.])	8:00	23:00	News Building
+08/20/2024	スーパーベーセズローデッド (Super Bases Loaded)	11:00	23:00	Stadium
+08/20/2024	ソルスティスⅡ (Equinox)	8:00	20:00	Bagpotamia Temple
+08/20/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/20/2024	マリオが行方不明！ (Mario is Missing!)	8:00	23:00	Telephone Booth
+08/21/2024	ワリオの森　―　イベント１版 (Wario's Forest Event 1)	8:00	11:00	Broadcast Tower
+08/21/2024	釣太郎 (Tsuri Tarou)	11:00	14:00	Broadcast Tower
+08/21/2024	カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko)	14:00	17:00	Broadcast Tower
+08/21/2024	ヨッシーのパネポン：BS版 [7/3] (Yoshi's Panepon: BS Ver.)	17:00	20:00	Broadcast Tower
+08/21/2024	ダリウスフォース (Darius Force)	20:00	23:00	Broadcast Tower
+08/21/2024	コロンボの卵焼き第一回 (Fried eggs by Columbus #1)	8:00	23:00	News Building
+08/21/2024	スーパーボレーⅡ (Super Volley 2)	11:00	23:00	Stadium
+08/21/2024	ドカポン外伝：炎のオーディション (Dokapon Kingdom: A Fiery Audition)	8:00	20:00	Bagpotamia Temple
+08/21/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/21/2024	火星からバイカーネズミ (Biker Mice from Mars)	8:00	23:00	Telephone Booth
+08/22/2024	ＢＳドクターマリオ (BS Dr. Mario)	8:00	11:00	Broadcast Tower
+08/22/2024	美少女戦士セーラームーンSuperS：フワフワパニック (Pretty Guardian Sailor Moon SuperS: Fuwa Fuwa Panic)	11:00	14:00	Broadcast Tower
+08/22/2024	カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball)	14:00	17:00	Broadcast Tower
+08/22/2024	Ｍｓ．　パックマン (Ms. PacMan)	17:00	20:00	Broadcast Tower
+08/22/2024	ワイワイキッズ [3/16] (WaiWai Kids [3/16])	20:00	23:00	Broadcast Tower
+08/22/2024	街マガジン：アイドルダイアリーメディアいちご１２号 (Machi Magazine: Idol Diary Media Strawberry Vol. 12)	8:00	23:00	News Building
+08/22/2024	トップギア (Top Gear)	11:00	23:00	Stadium
+08/22/2024	悪魔城ドラキュラ (Super Caslevania IV)	8:00	20:00	Bagpotamia Temple
+08/22/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/22/2024	ソニックザヘッジホッグ (Sonic The Hedgehog)	8:00	23:00	Robot Tower
+08/23/2024	[BROADCASTING ERROR]	8:00	11:00	Broadcast Tower
+08/23/2024	ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２	11:00	14:00	Broadcast Tower
+08/23/2024	マリオペイント優勝内蔵版 (Mario Paint: Built-In Winner Version)	14:00	17:00	Broadcast Tower
+08/23/2024	ＢＳテトリス (BS Tetris) [Satellaview+ Exclusive!!]	17:00	20:00	Broadcast Tower
+08/23/2024	スーパー地球防衛部隊　(Super E.D.F. [Earth Defence Force])	20:00	23:00	Broadcast Tower
+08/23/2024	デジタルマガジンバスターズBS版　[8/23号] (Digital Magazine Busters BS [8/23Ed.])	8:00	23:00	News Building
+08/23/2024	カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball)	11:00	23:00	Stadium
+08/23/2024	ライブの宝石 (Jewel of Live)	8:00	20:00	Bagpotamia Temple
+08/23/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/23/2024	マリオのタイムマシン (Mario's Time Machine)	8:00	23:00	Telephone Booth
+08/24/2024	シムシティ [小売版] (Sim City [Retail ver.])	8:00	11:00	Broadcast Tower
+08/24/2024	牧場物語（デモ） (Harvest Moon [Demo])	11:00	14:00	Broadcast Tower
+08/24/2024	スーパーボンバーマン (Super Bomberman)	14:00	17:00	Broadcast Tower
+08/24/2024	ワイルドガンズ (Wild Guns)	17:00	20:00	Broadcast Tower
+08/24/2024	スーパーぷよぷよリミックス (Super Puyo Puyo Remix)	20:00	23:00	Broadcast Tower
+08/24/2024	ヴューシネマパラダイス ４号 (View Cinema Paradise Vol. 4)	8:00	23:00	News Building
+08/24/2024	実況ワールドサッカーパーフェクトイレブン (International Superstar Soccer)	11:00	23:00	Stadium
+08/24/2024	エストポリス伝記 (Estopolis Denki // Lufia and the Fortress of Doom)	8:00	20:00	Bagpotamia Temple
+08/24/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/24/2024	ドッティ・フラワーズ　ＢＳ版 (BS Dottie Flowers)	8:00	23:00	Robot Tower
+08/24/2024	ブラックアウト (Black Out)	8:00	23:00	Robot Tower
+08/25/2024	スーパー地球防衛部隊　(Super E.D.F. [Earth Defence Force])	8:00	11:00	Broadcast Tower
+08/25/2024	カービィのおもちゃ箱：　星崩し (Kirby's Toybox: Constellation)	11:00	14:00	Broadcast Tower
+08/25/2024	スーパーボンバーマン２ (Super Bomberman 2)	14:00	17:00	Broadcast Tower
+08/25/2024	スーパーなぞぷよルールエのルー (Super Nazo Puyo Rulue No Roux)	17:00	20:00	Broadcast Tower
+08/25/2024	モノポリー２：レッドカップ (Monopoly 2: Red Cup)	20:00	23:00	Broadcast Tower
+08/25/2024	コロンボの卵焼き第一回 (Fried eggs by Columbus #1)	8:00	23:00	News Building
+08/25/2024	HALのホールインワンゴルフ (HAL's Hole-in-One Golf)	11:00	23:00	Stadium
+08/25/2024	ファイナルファンタジーⅣ (Final Fantasy II [USA])	8:00	20:00	Bagpotamia Temple
+08/25/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/25/2024	ヨッシーのパネポン：BS版 [1/2] (Yoshi's Panepon: BS Ver.)	8:00	23:00	Telephone Booth
+08/26/2024	クレージーチェース (Crazy Chase)	8:00	11:00	Broadcast Tower
+08/26/2024	クオンパBS版 [10/27] (Cu-On-Pa BS Version)	11:00	14:00	Broadcast Tower
+08/26/2024	タモリのピクロス [8/13] (Tamori no Picross)	14:00	17:00	Broadcast Tower
+08/26/2024	カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball)	17:00	20:00	Broadcast Tower
+08/26/2024	モノポリー２：イエローカップ (Monopoly 2: Yellow Cup)	20:00	23:00	Broadcast Tower
+08/26/2024	グッズプレス  3月号 (GoodsPress)	8:00	23:00	News Building
+08/26/2024	ゴルフ大好き！O．B．倶楽部 (Golf Daisuki! O.B. Club)	11:00	23:00	Stadium
+08/26/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+08/26/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/26/2024	ワリオの森: 再び (Wario's Woods: Again)	8:00	23:00	Telephone Booth
+08/27/2024	スーパー麻雀大会 (Super Mahjong Convention)	8:00	11:00	Broadcast Tower
+08/27/2024	スターソルジャー BS版 (BS Star Soldier)	11:00	14:00	Broadcast Tower
+08/27/2024	カービィのおもちゃ箱：　アレンジボール (Kirby's Toybox: Arrange Ball)	14:00	17:00	Broadcast Tower
+08/27/2024	RPGツクール：　Cock-A-Doodle-Doo	17:00	20:00	Broadcast Tower
+08/27/2024	Championship Pool	20:00	23:00	Broadcast Tower
+08/27/2024	ドレミでファー　X号 (Do-re-mi de Faa! Volume X)	8:00	23:00	News Building
+08/27/2024	F-1ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+08/27/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+08/27/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/27/2024	デザエモン： BS-X版 (Dezaemon BS-X)	8:00	23:00	Telephone Booth
+08/28/2024	[BROADCASTING ERROR]	8:00	11:00	Broadcast Tower
+08/28/2024	奇々怪界：謎の黒マント (Pocky & Rocky)	11:00	14:00	Broadcast Tower
+08/28/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	14:00	17:00	Broadcast Tower
+08/28/2024	PICO PICOパイレーツ (Pico Pico Pirates)	17:00	20:00	Broadcast Tower
+08/28/2024	ジョーとマック (Joe & Mac)	20:00	23:00	Broadcast Tower
+08/28/2024	セント・ギガPG１０月号 (St. Giga PG October Edition)	8:00	23:00	News Building
+08/28/2024	NEW 3D GOLF SIMULATION：ワイアラエの奇跡 (Waialae's Miracle)	11:00	23:00	Stadium
+08/28/2024	アルカナ (Arcana)	8:00	20:00	Bagpotamia Temple
+08/28/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/28/2024	Q*Bert 3	8:00	23:00	Telephone Booth
+08/29/2024	レミングス (Lemmings)	8:00	11:00	Broadcast Tower
+08/29/2024	ロードモナーク (Lord Monarch)	11:00	14:00	Broadcast Tower
+08/29/2024	ハイパーゾーン (Hyper Zone)	14:00	17:00	Broadcast Tower
+08/29/2024	フェースボール２０００ (Faceball 2000)	17:00	20:00	Broadcast Tower
+08/29/2024	SMWハック：ディノランドにまた (SMW Hack: Again in Dino Land)	20:00	23:00	Broadcast Tower
+08/29/2024	BSニンテンドーHP 5/31号 (BS Nintendo HP 5/31 ed.)	8:00	23:00	News Building
+08/29/2024	USAアイスホッケー (USA Ice Hockey)	11:00	23:00	Stadium
+08/29/2024	すごいRPG (Sugoi RPG)	8:00	20:00	Bagpotamia Temple
+08/29/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/29/2024	パズルボブル (Bust-A-Move)	8:00	23:00	Telephone Booth
+08/30/2024	アクトレーザ (Actraiser)	8:00	11:00	Broadcast Tower
+08/30/2024	パックアタック (Pac-Attack)	11:00	14:00	Broadcast Tower
+08/30/2024	The Firemen	14:00	17:00	Broadcast Tower
+08/30/2024	Super Aleste	17:00	20:00	Broadcast Tower
+08/30/2024	カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball)	20:00	23:00	Broadcast Tower
+08/30/2024	ポケカメマガジン (Gameboy Camera Magazine)	8:00	23:00	News Building
+08/30/2024	MVPフットボール (MVP Football)	11:00	23:00	Stadium
+08/30/2024	ドカポン外伝：炎のオーディション (Dokapon Kingdom: A Fiery Audition)	8:00	20:00	Bagpotamia Temple
+08/30/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/30/2024	スーパークックドBS版 (BS Supercooked!)	8:00	23:00	Robot Tower
+08/31/2024	それ行け！エビス丸からくり　―　消えたゴエモンの謎！ (Ebisumaru's Karakuri Maze)	8:00	11:00	Broadcast Tower
+08/31/2024	Let's Pachinko なんて銀玉４ (Let's Pachinko with Silver Balls 4)	11:00	14:00	Broadcast Tower
+08/31/2024	GS美神：除霊師はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body)	14:00	17:00	Broadcast Tower
+08/31/2024	ソニックブラストマン (Sonic Blast Man)	17:00	20:00	Broadcast Tower
+08/31/2024	キャメルトリー (Cameltry)	20:00	23:00	Broadcast Tower
+08/31/2024	チープdeゴージャス 1号 (Cheap de Gorgeous Vol. 1)	8:00	23:00	News Building
+08/31/2024	Fightingベースボール (Fighting Baseball)	11:00	23:00	Stadium
+08/31/2024	ファイナルファンタジーUSA：ミスチッククエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+08/31/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+08/31/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+09/01/2024	デザエモンBSX (Dezaemon BS-X)	8:00	11:00	Broadcast Station
+09/01/2024	ワリオとマリオ (Wario and Mario)	11:00	14:00	Broadcast Station
+09/01/2024	アルカノイド (Arkanoid – Doh it Again!)	14:00	17:00	Broadcast Station
+09/01/2024	ワイルドガンズ (Wild Guns)	17:00	20:00	Broadcast Station
+09/01/2024	ジョーとマック (Joe & Mac)	20:00	23:00	Broadcast Station
+09/01/2024	街マガジン (Machi Magazine)	8:00	23:00	News Building
+09/01/2024	スーパーピンボール (Super Pinball)	11:00	23:00	Stadium
+09/01/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	8:00	20:00	Bagpotamia Temple
+09/01/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+09/02/2024	ヨッシーのクッキー (Yoshi's Cookie)	8:00	11:00	Broadcast Station
+09/02/2024	ＶＳ．コレクション (VS. Collection)	11:00	14:00	Broadcast Station
+09/02/2024	フロッガー (Frogger)	14:00	17:00	Broadcast Station
+09/02/2024	ペーパーボーイ２ (Paperboy 2)	17:00	20:00	Broadcast Station
+09/02/2024	シムシティ 【小売版】 (SimCity [Retail ver.])	20:00	23:00	Broadcast Station
+09/02/2024	フロイドの挑戦状　―　第1号 (Freud's challenge – Vol. 1)	8:00	23:00	News Building
+09/02/2024	マイクロ・マシンズ (Micro Machines)	11:00	23:00	Stadium
+09/02/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Burger Shop
+09/02/2024	スファミテストカセットD (Super Famicom Test Cartridge D)	8:00	23:00	Robot Tower
+09/03/2024	パネルでポン　’９８イベント版 (Panel de Pon: '98 Event Version)	8:00	11:00	Broadcast Station
+09/03/2024	F-ZERO	11:00	14:00	Broadcast Station
+09/03/2024	カービィのおもちゃ箱：　野球 (Kirby's Toybox: Baseball)	14:00	17:00	Broadcast Station
+09/03/2024	テトリス 【小売版】 (Tetris [Retail Ver.])	17:00	20:00	Broadcast Station
+09/03/2024	ゼルダの伝説：神々のトライフォース (Legend of Zelda: Triforce of the Gods)	20:00	23:00	Broadcast Station
+09/03/2024	フロイドの挑戦状　―　第2号 (Freud's challenge – Vol. 2)	8:00	23:00	News Building
+09/03/2024	F-1ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+09/03/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/03/2024	エキサイトバイク：ブンブンマリオバトル【SLなし】 (Excitebike: Mario VS. Stadium [Without SoundLink])	8:00	23:00	Telephone Booth
+09/03/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/04/2024	マリオペイントBS版 (BS Mario Paint)	8:00	11:00	Broadcast Station
+09/04/2024	シム蟻 (SimAnt)	11:00	14:00	Broadcast Station
+09/04/2024	スーパー忍者君 (Super Ninja Kun)	14:00	17:00	Broadcast Station
+09/04/2024	バウンティー・ソード BS版 (BS Bounty Sword)	17:00	20:00	Broadcast Station
+09/04/2024	シュアーインスティンクト (Sure Instinct)	20:00	23:00	Broadcast Station
+09/04/2024	デジタルマガジンバスターズ　５月１０日号 (Digital Magazine Busters 5/10 Edition)	8:00	23:00	News Building
+09/04/2024	ジョージフォーマンのK.O.ボクシング (George Foreman's K.O. Boxing)	11:00	23:00	Stadium
+09/04/2024	ウィザードリィⅤ：災渦の中心 (Wizardry V: Heart of the Maelstrom)	8:00	20:00	Bagpotamia Temple
+09/04/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/04/2024	Keep SNES Alive!!	8:00	23:00	Robot Tower
+09/04/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/05/2024	ダイナマイ・トレーサー (Dynami Tracer [EN])	8:00	14:00	Broadcast Station
+09/05/2024	すってはっくん (Sutte Hakkun)	14:00	20:00	Broadcast Station
+09/05/2024	アーケードのベストゲーム：ATARIのコレクション　第1号 (Arcade's Greatest Hits: Atari Collection Vol. 1)	20:00	23:00	Broadcast Station
+09/05/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+09/05/2024	スーパーベーセズローデド (Super Bases Loaded)	11:00	23:00	Stadium
+09/05/2024	ラグーン (Lagoon)	8:00	20:00	Bagpotamia Temple
+09/05/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/05/2024	ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN])	8:00	23:00	Telephone Booth
+09/05/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/06/2024	スーパー倉庫番 (Super Sōkoban)	8:00	11:00	Broadcast Station
+09/06/2024	タモリのピクロス 【６月３】 (Tamori no Picross [6/3])	11:00	14:00	Broadcast Station
+09/06/2024	カービィのおもちゃ箱：　キャノンボール (Kirby's Toybox: Cannon Ball)	14:00	17:00	Broadcast Station
+09/06/2024	ヨッシーのパネポン　【１月２】 (Yoshi's Tetris Attack [1/2])	17:00	20:00	Broadcast Station
+09/06/2024	超兄貴：爆裂乱闘編 (Chou Aniki: Explosive Brawler Edition)	20:00	23:00	Broadcast Station
+09/06/2024	チープｄｅゴージャス　４号 (Cheap de Gorgeous Vol. 4)	8:00	23:00	News Building
+09/06/2024	チャンピオンシップ・プール (Championship Pool)	11:00	23:00	Stadium
+09/06/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+09/06/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/06/2024	美少女戦士セーラームーンＳｕｐｅｒＳ：フワフワパニック (Sailor Moon SuperS: FuwaFuwa Panic)	8:00	23:00	Telephone Booth
+09/06/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/07/2024	あらいぐまラスカル (Araiguma Rascal)	8:00	11:00	Broadcast Station
+09/07/2024	スーパーボンバーマン (Super Bomberman [EN])	11:00	14:00	Broadcast Station
+09/07/2024	スーパーぷよぷよ (Super Puyo Puyo)	14:00	17:00	Broadcast Station
+09/07/2024	ＢＳクオンパＳＦＣ　【５月３１】 (Cu-On-Pa SFC [5/31])	17:00	20:00	Broadcast Station
+09/07/2024	レミングス (Lemmings)	20:00	23:00	Broadcast Station
+09/07/2024	３時のWIDE賞　5月号　(3:00 Wide award May Ed.)	8:00	23:00	News Building
+09/07/2024	バトルサッカー：フィールドの覇者 (Battle Soccer: Champions of the Field)	11:00	23:00	Stadium
+09/07/2024	ウルティマ外伝：黒木氏の陰謀 (Ultima II: Runes of Virtue [EN])	8:00	20:00	Bagpotamia Temple
+09/07/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/07/2024	シュアーインスティンクト (Sure Instinct)	8:00	23:00	Robot Tower
+09/07/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/08/2024	Teenage Mutant Ninja Turtles: Turtles In Time	8:00	11:00	Broadcast Station
+09/08/2024	運だけ３０さめがめ大作戦：マリオ版 (Only by luck 30: SameGame Grand Strategy – Mario Version)	11:00	14:00	Broadcast Station
+09/08/2024	がんばれゴエモン (The Legend of the Mystical Ninja)	14:00	17:00	Broadcast Station
+09/08/2024	Ｚｏｏっと麻雀 (Mahjohng with the Zoo)	17:00	20:00	Broadcast Station
+09/08/2024	ロードモナーク (Lord Monarch)	20:00	23:00	Broadcast Station
+09/08/2024	コロンボの卵焼き　２号 (Columbus's Fried Eggs #2)	8:00	23:00	News Building
+09/08/2024	ゴルフ大好き！Ｏ．Ｂ．倶楽部 (I love golf! O.B. Club)	11:00	23:00	Stadium
+09/08/2024	アルベルト・オデッセイ (Albert Odyssey)	8:00	20:00	Bagpotamia Temple
+09/08/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/08/2024	マリオは行方不明だよ！(Mario is Missing!)	8:00	23:00	Telephone Booth
+09/08/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/09/2024	ドクター・マリオ (Dr. Mario)	8:00	14:00	Broadcast Station
+09/09/2024	ワリオの森：爆笑版 (Wario's Woods: Explosive Laughter Version)	14:00	20:00	Broadcast Station
+09/09/2024	火星からのバイカーネズミ (Biker Mice from Mars)	20:00	23:00	Broadcast Station
+09/09/2024	Ｂ　ＤＡＳＨ　【２月号】 (B DASH: February Edition)	8:00	23:00	News Building
+09/09/2024	NＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle)	11:00	23:00	Stadium
+09/09/2024	アクトレーザー (Actraiser)	8:00	20:00	Bagpotamia Temple
+09/09/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/09/2024	キャメルトリ (Cameltry)	8:00	23:00	Telephone Booth
+09/09/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/10/2024	トップギア (Top Gear)	8:00	11:00	Broadcast Station
+09/10/2024	モノポリー２：赤カップ	11:00	14:00	Broadcast Station
+09/10/2024	スーパーファミコンウォーズ　ＢＳ版「ハゴロモジマ」 (BS Super Famicom Wars: Hagorojima)	14:00	17:00	Broadcast Station
+09/10/2024	エアー・ストライク・パトロール ～Ａ．Ｓ．Ｐ．～ (A.S.P.: Air Strike Patrol)	17:00	20:00	Broadcast Station
+09/10/2024	ＲＰＧツクール２：コケコッコッコー (RPG Tkool2: Cock-A-Doodle-Do)	20:00	23:00	Broadcast Station
+09/10/2024	操作戦隊ワッパーズ　１号 (Sousa Sentai Wappers #1)	8:00	23:00	News Building
+09/10/2024	スーパーファイヤープロレスリング (Super Fire Pro Wrestling)	11:00	23:00	Stadium
+09/10/2024	ドラッケン (Drakkhen)	8:00	20:00	Bagpotamia Temple
+09/10/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/10/2024	パックアタック (Pac-Attack)	8:00	23:00	Telephone Booth
+09/10/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/11/2024	牧場物語　【表示版】 (Harvest Moon [Demo])	8:00	11:00	Broadcast Station
+09/11/2024	ザ・ファイヤーメン (The Firemen)	11:00	14:00	Broadcast Station
+09/11/2024	カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball)	14:00	17:00	Broadcast Station
+09/11/2024	Ｑバート３ (Q*Bert 3)	17:00	20:00	Broadcast Station
+09/11/2024	フェースボール２０００ (Faceball 2000)	20:00	23:00	Broadcast Station
+09/11/2024	ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17])	8:00	23:00	News Building
+09/11/2024	スーパーフォーメーションサッカー (Super Formation Soccer)	11:00	23:00	Stadium
+09/11/2024	ウルティマⅦ：黒い門 (Ultima VII: The Black Gate)	8:00	20:00	Bagpotamia Temple
+09/11/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/11/2024	スーパー麻雀大海 (Super Mahjong Taikai)	8:00	23:00	Telephone Booth
+09/11/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/12/2024	ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN])	8:00	11:00	Broadcast Station
+09/12/2024	超兄貴：爆裂乱闘編 (Chou Aniki: Explosive Brawler Edition)	11:00	14:00	Broadcast Station
+09/12/2024	ハイパーゾーン (Hyperzone)	14:00	17:00	Broadcast Station
+09/12/2024	怒りの要塞 (Operation Logic Bomb)	17:00	20:00	Broadcast Station
+09/12/2024	改造超人シュビビンマン０ (Cyber Citizen Shockman 0)	20:00	23:00	Broadcast Station
+09/12/2024	フロイドの挑戦状　―　第1号 (Freud's challenge – Vol. 1)	8:00	23:00	News Building
+09/12/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+09/12/2024	ＪＥＷＥＬ　ＯＦ　ＬＩＶＥ	8:00	20:00	Bagpotamia Temple
+09/12/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/12/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/13/2024	奇々怪界：謎の黒マント (Pocky & Rocky)	8:00	11:00	Broadcast Station
+09/13/2024	ドキドキペンギン加須 (DokiDoki Penguin Kazo)	11:00	14:00	Broadcast Station
+09/13/2024	がんばれゴエモン (The Legend of the Mystical Ninja)	14:00	17:00	Broadcast Station
+09/13/2024	ニュー・ヤッターマン (New Tatterman)	17:00	20:00	Broadcast Station
+09/13/2024	釣太郎 (Tsuri Taro)	20:00	23:00	Broadcast Station
+09/13/2024	フロイドの挑戦状　―　第4号 (Freud's challenge – Vol. 4)	8:00	23:00	News Building
+09/13/2024	スーパーボレーⅡ (Super Volley II)	11:00	23:00	Stadium
+09/13/2024	決戦！ドカポン王国Ⅳ：伝説の勇者たち (Decisive Battle! Dokapon Kingdom IV: Legendary Heroes)	8:00	20:00	Bagpotamia Temple
+09/13/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/13/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/13/2024	ワイルドスネーク (Wild Snakes)	8:00	23:00	Telephone Booth
+09/14/2024	ディノランドにまた (SMW Hack: Again in Dinosaur Land)	8:00	11:00	Broadcast Station
+09/14/2024	キッドクラウンのクレージーチェース (Kid Klown in Crazy Chase)	11:00	14:00	Broadcast Station
+09/14/2024	あらいぐまラスカル (Araiguma Rascal)	14:00	17:00	Broadcast Station
+09/14/2024	デザエモンBSX (Dezaemon BS-X)	17:00	20:00	Broadcast Station
+09/14/2024	ピコピコパイレーツ (Pico Pico Pirates!)	20:00	23:00	Broadcast Station
+09/14/2024	だんだんベルトコンベヤー	8:00	23:00	News Building
+09/14/2024	ＣＡＰＣＯＭよりＭＶＰフットボール (Capcom's MVP Football)	11:00	23:00	Stadium
+09/14/2024	アルカナ (Arcana)	8:00	20:00	Bagpotamia Temple
+09/14/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/14/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/15/2024	ＢＳテトリス (BS Tetris)	8:00	14:00	Broadcast Station
+09/15/2024	ゼルダの伝説：神々のトライフォース (Legend of Zelda: Triforce of the Gods)	14:00	20:00	Broadcast Station
+09/15/2024	ヨッシーのパネポン　【７月５】 (Yoshi's Tetris Attack [7/5])	20:00	23:00	Broadcast Station
+09/15/2024	ゲーム虎の大穴スペシャル　【３月３０】 (Game Tora – Big Cave Special [3/30])	8:00	23:00	News Building
+09/15/2024	ファイティング野球 (Fighting Baseball)	11:00	23:00	Stadium
+09/15/2024	ダイナマイ・トレーサー (Dynami Tracer [EN])	8:00	20:00	Bagpotamia Temple
+09/15/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/15/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/15/2024	ＢＳドッティ・フラワーズ (BS Dottie Flowers)	8:00	23:00	Robot Tower
+09/16/2024	ＢＳクオンパＳＦＣ　【６月１５】 (Cu-On-Pa SFC [6/15])	8:00	11:00	Broadcast Station
+09/16/2024	ＢＳマリオペイント (BS Mario Paint)	11:00	14:00	Broadcast Station
+09/16/2024	スーパーなぞぷよ：ルルエのルー (Super Nazo Puyo: Rulue of Roux)	14:00	17:00	Broadcast Station
+09/16/2024	ドクター・マリオ (Dr. Mario)	17:00	20:00	Broadcast Station
+09/16/2024	ソニックブラストマン (Sonic Blast Man)	20:00	23:00	Broadcast Station
+09/16/2024	グッズプレス　３月号 (GoodsPress Mar. Edition)	8:00	23:00	News Building
+09/16/2024	スーパーベーセズローデド (Super Bases Loaded)	11:00	23:00	Stadium
+09/16/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+09/16/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/16/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/16/2024	ＧＳ美神：除霊市はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body)	8:00	23:00	Telephone Booth
+09/17/2024	Ｆ－ＺＥＲＯ　ＧＰ２練習版 (F-ZERO Grand Prix 2: Practice Version)	8:00	11:00	Broadcast Station
+09/17/2024	スーパーアレスタ (Super Aleste)	11:00	14:00	Broadcast Station
+09/17/2024	ＢＳスーパーファミコンワーズ：ツキノワジマ (BS Super Famicom Wars: Tsukinowa-Jima)	14:00	17:00	Broadcast Station
+09/17/2024	タモリのピクロス 【８月１３】 (Tamori no Picross [8/13])	17:00	20:00	Broadcast Station
+09/17/2024	大爆笑人生劇場 (Daibakushou Jinsei Gekijou)	20:00	23:00	Broadcast Station
+09/17/2024	３時のＷＩＤＥ賞　６月号　(3:00 Wide award June Ed.)	8:00	23:00	News Building
+09/17/2024	チャンピオンシップ・プール (Championship Pool)	11:00	23:00	Stadium
+09/17/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	8:00	20:00	Bagpotamia Temple
+09/17/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/17/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/17/2024	ジョーとマック (Joe & Mac)	8:00	23:00	Telephone Booth
+09/18/2024	アルカノイド (Arkanoid – Doh it Again!)	8:00	14:00	Broadcast Station
+09/18/2024	スーポー倉庫番 (Super Sōkoban)	14:00	20:00	Broadcast Station
+09/18/2024	すってはっくん：’９８冬イベント版 (Sutte Hakkun: '98 Winter Event Version	20:00	23:00	Broadcast Station
+09/18/2024	フロイドの挑戦状　―　第４号 (Freud's Challenge: #4)	8:00	23:00	News Building
+09/18/2024	スーパーファイヤープロレスリング (Super Fire Pro Wrestling)	11:00	23:00	Stadium
+09/18/2024	ソルスティスⅡ (Equinox)	8:00	20:00	Bagpotamia Temple
+09/18/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/18/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/18/2024	シュアーインスティンクト (Sure Instinct)	8:00	23:00	Telephone Booth
+09/19/2024	ＢＳテトリス (BS Tetris)	8:00	14:00	Broadcast Station
+09/19/2024	ＢＳドクター・マリオ (Dr. Mario)	14:00	20:00	Broadcast Station
+09/19/2024	ジョーとマック (Joe & Mac)	20:00	23:00	Broadcast Station
+09/19/2024	ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17])	8:00	23:00	News Building
+09/19/2024	スーパースマッシュＴ．Ｖ． (Super Smash T.V.)	11:00	23:00	Stadium
+09/19/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	8:00	20:00	Bagpotamia Temple
+09/19/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/19/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/19/2024	ソニック・ざ・ヘッジホッグ (Sonic The Hedgehog)	8:00	23:00	Telephone Booth
+09/20/2024	放送エラー (BROADCAST ERROR)	8:00	11:00	Broadcast Station
+09/20/2024	ザ・ファイヤーメン (The Firemen)	11:00	14:00	Broadcast Station
+09/20/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	14:00	17:00	Broadcast Station
+09/20/2024	怒りの要塞 (Operation Logic Bomb)	17:00	20:00	Broadcast Station
+09/20/2024	スーパー忍者君 (Super Ninja Kun)	20:00	23:00	Broadcast Station
+09/20/2024	毎週ファミ通エクスプレス (Weekly Famitsu Express	8:00	23:00	News Building
+09/20/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+09/20/2024	ドラッケン (Drakkhen)	8:00	20:00	Bagpotamia Temple
+09/20/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/20/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/20/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+09/21/2024	上海：万里の長城 (Shanghai: The Great Wall)	8:00	11:00	Broadcast Tower
+09/21/2024	ワイワイチェック [3/21] (WaiWai Check)	11:00	14:00	Broadcast Tower
+09/21/2024	カービィのおもちゃ箱：　ピンボール (Kirby's Toybox: Pinball)	14:00	17:00	Broadcast Tower
+09/21/2024	ヨッシーのパネポン：ＢＳ版 【1月2】 (BS Yoshi's Panepon [½])	17:00	20:00	Broadcast Tower
+09/21/2024	クオンパＢＳ版 【６月１５】 (Cu-On-Pa BS Version [6/15])	20:00	23:00	Broadcast Tower
+09/21/2024	ＢＳニンテンドーＨＰ 【2月21】 (Nintendo HP [2/21])	8:00	23:00	News Building
+09/21/2024	スーパーフォーメーションサッカー (Super Formation Soccer)	11:00	23:00	Stadium
+09/21/2024	ＲＰＧツクール２：コケコッコッコー (RPG Tkool2: Cock-A-Doodle-Do)	8:00	20:00	Bagpotamia Temple
+09/21/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/21/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/21/2024	パネルでポン [1/11] (Panel de Pon)	8:00	23:00	Telephone Booth
+09/22/2024	ブロック崩し (Block Kuzushi)	8:00	14:00	Broadcast Station
+09/22/2024	マイクロマシン (Micro Machines)	14:00	20:00	Broadcast Station
+09/22/2024	アーケードのベストゲーム：Ｗｉｌｌｉａｍｓのコレクション　第1号 (Arcade's Greatest Hits: Williams Collection Vol. 1)	20:00	23:00	Broadcast Station
+09/22/2024	フロイドの挑戦状　―　第５号 (Freud's challenge – Vol. 5)	8:00	23:00	News Building
+09/22/2024	ジョンマッデンフットボール (John Madden Football)	11:00	23:00	Stadium
+09/22/2024	ファイナルファンタジーＵＳＡ：ミスチッククエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+09/22/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/22/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/22/2024	クルード (Cluedo/Clue)	8:00	23:00	Telephone Booth
+09/23/2024	放送エラー [BROADCAST ERROR]	8:00	11:00	Broadcast Tower
+09/23/2024	ワリオとマリオ (Wario and Mario)	11:00	14:00	Broadcast Tower
+09/23/2024	ミスパックマン (Ms. Pac-Man)	14:00	17:00	Broadcast Tower
+09/23/2024	ワイルドガンズ (Wild Guns)	17:00	20:00	Broadcast Tower
+09/23/2024	エアー・ストライク・パトロール ～Ａ．Ｓ．Ｐ．～ (A.S.P.: Air Strike Patrol)	20:00	23:00	Broadcast Tower
+09/23/2024	Ｂ　ＤＡＳＨ　【３月号】 (B DASH: March Edition)	8:00	23:00	News Building
+09/23/2024	スーパーピンボール (Super Pinball)	11:00	23:00	Stadium
+09/23/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+09/23/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/23/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/24/2024	シムシティ 【小売版】 (SimCity [Retail ver.])	8:00	11:00	Broadcast Tower
+09/24/2024	ＶＳ．コレクション (VS. Collection)	11:00	14:00	Broadcast Tower
+09/24/2024	スーパーボンバーマン (Super Bomberman [EN])	14:00	17:00	Broadcast Tower
+09/24/2024	ヨッシーのクッキー (Yoshi's Cookie)	17:00	20:00	Broadcast Tower
+09/24/2024	マリオのタイムマシン (Mario's Time Machine)	20:00	23:00	Broadcast Tower
+09/24/2024	Ｂ　ＤＡＳＨ　【２月号】 (B DASH: February Edition)	8:00	23:00	News Building
+09/24/2024	トップギア (Top Gear)	11:00	23:00	Stadium
+09/24/2024	パッグジー (Puggsy)	8:00	20:00	Robot Tower
+09/24/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/24/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/25/2024	モノポリー２：赤カップ (Monopoly 2: Red Cup)	8:00	11:00	Broadcast Tower
+09/25/2024	レミングス (Lemmings)	11:00	14:00	Broadcast Tower
+09/25/2024	ピコピコパイレーツ (Pico Pico Pirates!)	14:00	17:00	Broadcast Tower
+09/25/2024	ダリアスフォース (Darius Force)	17:00	20:00	Broadcast Tower
+09/25/2024	釣太郎 (Tsuri Tarō)	20:00	23:00	Broadcast Tower
+09/25/2024	ゲーム虎の大穴スペシャル　【３月３０】 (Game Tora – Big Cave Special [3/30])	8:00	23:00	News Building
+09/25/2024	ゴルフ大好き！Ｏ．Ｂ．倶楽部 (I love golf! O.B. Club)	11:00	23:00	Stadium
+09/25/2024	バウンティー・ソード BS版 (BS Bounty Sword)	8:00	20:00	Bagpotamia Temple
+09/25/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/25/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/26/2024	ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２	8:00	14:00	Broadcast Station
+09/26/2024	ザ・ファイヤーメン (The Firemen)	14:00	20:00	Broadcast Station
+09/26/2024	キャメルトリ (Cameltry)	20:00	23:00	Broadcast Station
+09/26/2024	フロイドの挑戦状　―　第6号 (Freud's challenge – Vol. 6)	8:00	23:00	News Building
+09/26/2024	ファイティング野球 (Fighting Baseball)	11:00	23:00	Stadium
+09/26/2024	恋はバランス たとえばＫ君の多忙な一日編 (Love is a balance: Anonymous K-kun's busy day)	8:00	20:00	Bagpotamia Temple
+09/26/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/26/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/26/2024	ＢＳドッティ・フラワーズ (BS Dottie Flowers)	8:00	23:00	Robot Tower
+09/27/2024	カービィのおもちゃ箱：　パチンコ (Kirby's Toybox: Pachinko)	8:00	11:00	Broadcast Tower
+09/27/2024	がんばれゴエモン (The Legend of the Mystical Ninja)	11:00	14:00	Broadcast Tower
+09/27/2024	ＢＳマリオペイント (BS Mario Paint)	14:00	17:00	Broadcast Tower
+09/27/2024	マリオは行方不明だよ！(Mario is Missing!)	17:00	20:00	Broadcast Tower
+09/27/2024	アーケードのベストゲーム：ATARIのコレクション　第1号 (Arcade's Greatest Hits: Atari Collection Vol. 1)	20:00	23:00	Broadcast Tower
+09/27/2024	チープｄｅゴージャス　４号 (Cheap de Gorgeous Vol. 4)	8:00	23:00	News Building
+09/27/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+09/27/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+09/27/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+09/27/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+09/27/2024	シム蟻 (SimAnt)	8:00	23:00	Telephone Booth
+10/02/2024	【放送エラー】 ([BROADCAST ERROR])	8:00	11:00	Broadcast Station
+10/02/2024	Ｆ－ＺＥＲＯ	11:00	14:00	Broadcast Station
+10/02/2024	Ｌｅｔ’ｓパチンコなんて銀玉１ (Let's Pachinko #1)	14:00	17:00	Broadcast Station
+10/02/2024	ハイパーゾーン (HyperZone)	17:00	20:00	Broadcast Station
+10/02/2024	ロボコップＶＳ．ターミネーター (RoboCop Vs. Terminator)	20:00	23:00	Broadcast Station
+10/02/2024	毎日バスターズ　【６月７】 (Daily Busters [6/7])	8:00	23:00	News Building
+10/02/2024	スーパーベーセズローデッド (Super Bases Loaded)	11:00	23:00	Stadium
+10/02/2024	ファイナルファンタジーⅣ (Final Fantasy IV)	8:00	20:00	Bagpotamia Temple
+10/02/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/02/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/02/2024	ソニック・ザ・ヘッジホッグ (Sonic The Hedgehog)	8:00	23:00	Robot Tower
+10/03/2024	スーパーマリオワルド (Super Mario World)	8:00	14:00	Broadcast Station
+10/03/2024	ラッシング・ビート (Rival Turf!)	14:00	20:00	Broadcast Station
+10/03/2024	ザ・シンプソンズ：バートの不思議な夢の大冒険 (The Simpsons: Bart's Nightmare)	20:00	23:00	Broadcast Station
+10/03/2024	ＢＳ　セント・ギガＰＧ (BS St.GIGA PG)	8:00	23:00	News Building
+10/03/2024	スーパーオフロード (Super Off-Road)	11:00	23:00	Stadium
+10/03/2024	ウルティマⅦ (Ultima VII)	8:00	20:00	Bagpotamia Temple
+10/03/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/03/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/03/2024	ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe)	8:00	23:00	Robot Tower
+10/04/2024	Ｚｏｏっと麻雀！ (Mahjong with the Zoo!)	8:00	11:00	Broadcast Station
+10/04/2024	ポップンツインビー (Pop'n Twinbee)	11:00	14:00	Broadcast Station
+10/04/2024	地球防衛フォース～Ｅ．Ｄ．Ｆ～ (Earth Defence Force ~E.D.F.~)	14:00	17:00	Broadcast Station
+10/04/2024	バスト・ア・ムーブ (Bust-A-Move)	17:00	20:00	Broadcast Station
+10/04/2024	カービィのおもちゃ箱：ピンボール (Kirby's Toybox: Pinball)	20:00	23:00	Broadcast Station
+10/04/2024	毎日マガジンバスターズ　【８月２３】 (Daily Magazine Busters [8/23])	8:00	23:00	News Building
+10/04/2024	新しい３Ｄゴルフシミュレーション：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle)	11:00	23:00	Stadium
+10/04/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	8:00	20:00	Bagpotamia Temple
+10/04/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/04/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/05/2024	ティーンエージ・ミュータント・ニンジャ・タートルズ／タートルズ・イン・タイム (Teenage Mutant Ninja Turtles Ⅳ: Turtles in Time)	8:00	14:00	Broadcast Station
+10/05/2024	ＢＳマリオペイント (BS Mario Paint)	14:00	20:00	Broadcast Station
+10/05/2024	モノポリー２：赤いカップ (Monopoly 2: Red Cup)	20:00	23:00	Broadcast Station
+10/05/2024	ＢＳニンテンドーＨＰ　【２月２１】 (BS Nintendo HP [2/21])	8:00	23:00	News Building
+10/05/2024	ファイティング野球 (Fighting Baseball)	11:00	23:00	Stadium
+10/05/2024	ソルスティスⅡ (Equinox)	8:00	20:00	Bagpotamia Temple
+10/05/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/05/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/06/2024	レミングス (Lemmings)	8:00	11:00	Broadcast Station
+10/06/2024	シムシティ　【小売版】 (SimCity [Retail Ver.])	11:00	14:00	Broadcast Station
+10/06/2024	ヨッシーのクッキー (Yoshi's Cookie)	14:00	17:00	Broadcast Station
+10/06/2024	マリオのタイムマシン (Mario's Time Machine)	17:00	20:00	Broadcast Station
+10/06/2024	スーパーボンバーマン (Super Bomberman)	20:00	23:00	Broadcast Station
+10/06/2024	ＢＳニンテンドーＨＰ　【２月２１】 (BS Nintendo HP [2/21])	8:00	23:00	News Building
+10/06/2024	トップギア (Top Gear)	11:00	23:00	Stadium
+10/06/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+10/06/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/06/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/07/2024	アニマニアックス (Animaniacs)	8:00	11:00	Broadcast Station
+10/07/2024	ＢＳテトリス (BS Tetris)	11:00	14:00	Broadcast Station
+10/07/2024	カッコイイスポット (Cool Spot)	14:00	17:00	Broadcast Station
+10/07/2024	ヨッシーのパネポン　【１月２】 (Yoshi's Tetris Attack [½])	17:00	20:00	Broadcast Station
+10/07/2024	ザ・ファイヤーメン (The Firemen)	20:00	23:00	Broadcast Station
+10/07/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+10/07/2024	ジョン・マッデンのアメリカンフットボール’９３ (John Madden's American Football '93)	11:00	23:00	Stadium
+10/07/2024	アクトレーザ (Actraiser)	8:00	20:00	Bagpotamia Temple
+10/07/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/07/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/07/2024	ＳＮＥＳの電気を続いています！ (Keeping SNES Alive!)	8:00	23:00	Robot Tower
+10/08/2024	カービィの幽霊罠 (Kirby's Ghost Trap)	8:00	11:00	Broadcast Station
+10/08/2024	グーフ・トループ (Goof Troop)	11:00	14:00	Broadcast Station
+10/08/2024	パロディウス (Parodius)	14:00	17:00	Broadcast Station
+10/08/2024	ＧＳ美神：条例氏はナイスボディー (Ghost Sweeper Mikami)	17:00	20:00	Broadcast Station
+10/08/2024	スーパー・バック・トゥ・ザ・フューチャーⅡ (Super Back To The Future Part 2)	20:00	23:00	Broadcast Station
+10/08/2024	フロイドの挑戦状　―　第３号 (Freud's Challenge: Vol. 3)	8:00	23:00	News Building
+10/08/2024	ＮＢＡショーダウン (NBA Showdown)	11:00	23:00	Stadium
+10/08/2024	エストポリス伝記 (Lufia & The Fortress of Doom)	8:00	20:00	Bagpotamia Temple
+10/08/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/08/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/08/2024	ＢＳドッティ・フラワーズ (BS Dottie Flowers)	8:00	23:00	Robot Tower
+10/09/2024	火星からバイカーネズミ (Biker Mice From Mars)	8:00	11:00	Broadcast Station
+10/09/2024	スーパーボンバーマン２ (Super Bomberman 2)	11:00	14:00	Broadcast Station
+10/09/2024	アウターワールド (Out of This World)	14:00	17:00	Broadcast Station
+10/09/2024	アーケードのベストゲーム：ATARIのコレクション第一号 (Arcade's Greatest Hits: Atari Collection Vol. 1)	17:00	20:00	Broadcast Station
+10/09/2024	ピコピコパイレーツ (Pico Pico Pirates)	20:00	23:00	Broadcast Station
+10/09/2024	街マガジン (Machi Magazine)	8:00	23:00	News Building
+10/09/2024	ウルティメイト　フットボール (Football Fury)	11:00	23:00	Stadium
+10/09/2024	スーパーマリオワールド：大テレサの挑戦状 (Super Mario World: Big Boo's Challenge)	8:00	20:00	Bagpotamia Temple
+10/09/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/09/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/09/2024	ワイルド蛇 (Wild Snake)	8:00	23:00	Telephone Booth
+10/10/2024	バトルトードとダブルドラゴン (BattleToads and Double Dragon)	8:00	11:00	Broadcast Station
+10/10/2024	サンセット・ライダーズ (Sunset Riders)	11:00	14:00	Broadcast Station
+10/10/2024	フェースボール２０００ (Faceball 2000)	14:00	17:00	Broadcast Station
+10/10/2024	超攻合神サーディオン (Xardion)	17:00	20:00	Broadcast Station
+10/10/2024	バイキングの大迷惑 (The Lost Vikings)	20:00	23:00	Broadcast Station
+10/10/2024	ファミ通エクスプレス　【４月２７】 (Famitsu Express [4/27])	8:00	23:00	News Building
+10/10/2024	スーパーテニス (Super Tennis)	11:00	23:00	Stadium
+10/10/2024	スーパーマリオワールド：地獄版 (Super Mario World: Hell Edition)	8:00	20:00	Bagpotamia Temple
+10/10/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/10/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/10/2024	マリオが行方不明！ (Mario is Missing!)	8:00	23:00	Telephone Booth
+10/11/2024	デザエモン　ＢＳ－Ｘ版 (Dezaemon BS-X)	8:00	11:00	Broadcast Station
+10/11/2024	ドンキーコング３ (Donkey Kong 3)	11:00	14:00	Broadcast Station
+10/11/2024	ＶＳ．コレクション (VS. Collection)	14:00	17:00	Broadcast Station
+10/11/2024	魂斗羅スピリッツ (Contra Ⅲ)	17:00	20:00	Broadcast Station
+10/11/2024	ペーパーボーイ２ (Paperboy 2)	20:00	23:00	Broadcast Station
+10/11/2024	ＢＳデジタルマガジンバスターズ　【８月２３】号 (BS Digital Magazine Busters [8/23])	8:00	23:00	News Building
+10/11/2024	ジョン・マッデンのアメリカンフットボール (John Madden's American Football)	11:00	23:00	Stadium
+10/11/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/11/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/11/2024	パッグズィー (Puggsy)	8:00	23:00	Telephone Booth
+10/12/2024	スーパーボンバーマン (Super Bomberman)	8:00	11:00	Broadcast Station
+10/12/2024	カービィのおもちゃ箱：パチンコ (Kirby's Toybox: Pachinko)	11:00	14:00	Broadcast Station
+10/12/2024	ジョーとマック (Joe & Mac)	14:00	17:00	Broadcast Station
+10/12/2024	スペースインベーダー (Space Invader)	17:00	20:00	Broadcast Station
+10/12/2024	ワリオの森：再び (Wario's Woods – Again)	20:00	23:00	Broadcast Station
+10/12/2024	ＢＳデジタルマガジンバスターズ　【８月２３】号 (BS Digital Magazine Busters [8/23])	8:00	23:00	News Building
+10/12/2024	NＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle	11:00	23:00	Stadium
+10/12/2024	ファイナルファンタジーⅣ (Final Fantasy IV)	8:00	20:00	Bagpotamia Temple
+10/12/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/12/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/13/2024	ドクターマリオ (Dr. Mario)	8:00	14:00	Broadcast Station
+10/13/2024	スーパー忍者君 (Super Ninja Kun)	14:00	20:00	Broadcast Station
+10/13/2024	スーパーぷよぷよ (Super Puyo Puyo)	20:00	23:00	Broadcast Station
+10/13/2024	デジタルマガジンバスターズ　【６月７】 (Digital Magazine Busters [6/7])	8:00	23:00	News Building
+10/13/2024	F-1ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+10/13/2024	ソールブレーダー (SoulBlazer)	8:00	20:00	Bagpotamia Temple
+10/13/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/13/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/14/2024	シム蟻 (SimAnt)	8:00	11:00	Broadcast Station
+10/14/2024	Ｌｅｔ’ｓパチンコなんて銀玉２ (Let's Pachinko #2)	11:00	14:00	Broadcast Station
+10/14/2024	ジェパ―ディー・デラックス (Jeopardy Deluxe)	14:00	17:00	Broadcast Station
+10/14/2024	ソニックブラストマン (Sonic Blast Man)	17:00	20:00	Broadcast Station
+10/14/2024	ターミネーター２ (Terminator 2)	20:00	23:00	Broadcast Station
+10/14/2024	グッズプレス　６月号 (GoodsPress Jun. Edition)	8:00	23:00	News Building
+10/14/2024	ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball])	11:00	23:00	Stadium
+10/14/2024	ソールブレーダー (SoulBlazer)	8:00	20:00	Bagpotamia Temple
+10/14/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/14/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/15/2024	ＢＳ　Ｆ－ＺＥＲＯ　ＧＰ２　プラクティス (BS F-Zero GP2 Practive)	8:00	11:00	Broadcast Station
+10/15/2024	ク・オン・パ　【小売版】 (Cu-On-Pa [Retail Ver.])	11:00	14:00	Broadcast Station
+10/15/2024	バースト・ア・ムーブ (Bust-A-Move)	14:00	17:00	Broadcast Station
+10/15/2024	バトルテック (MechWarrior)	17:00	20:00	Broadcast Station
+10/15/2024	ラス・ヴェーガス・ドリーム (Vegas Stakes)	20:00	23:00	Broadcast Station
+10/15/2024	チープｄｅゴージャス　第一号 (Cheap de Gorgeous Vol. 1)	8:00	23:00	News Building
+10/15/2024	ＦＩＦＡ国際的サッカー (FIFA International Soccer)	11:00	23:00	Stadium
+10/15/2024	ファイナルファンタジーＵＳＡ：ミスチック・クエスト	8:00	20:00	Bagpotamia Temple
+10/15/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/15/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/15/2024	クラシック・コング (Classic Kong)	8:00	23:00	Robot Tower
+10/16/2024	カービィのおもちゃ箱：キャノンボール (Kirby's Toybox: Cannon Ball)	8:00	11:00	Broadcast Station
+10/16/2024	恐竜大行進 (We're Back! A Dinosaur Story)	11:00	14:00	Broadcast Station
+10/16/2024	モノポリー２：黄色いカップ (Monopoly 2: Yellow Cup)	14:00	17:00	Broadcast Station
+10/16/2024	ヨッシーのパネポン　【６月１４】 (Yoshi's Tetris Attack [6/14])	17:00	20:00	Broadcast Station
+10/16/2024	ミス・パックマン (Ms. Pac-Man)	20:00	23:00	Broadcast Station
+10/16/2024	ドレミでふぁ２～！【第９本―５月２５日号】 (Do-Re-Mi de Faa 2~! Vol. 9 [5/25])	8:00	23:00	News Building
+10/16/2024	ＮＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ペブルビーチの波濤 (New 3D Golf Simulation: Pebble Beach Golf Links)	11:00	23:00	Stadium
+10/16/2024	ＢＳ　スプリッガン・パワード　【音声連動無し放送】(BS Spriggan Powered [Without SoundLink])	8:00	20:00	Bagpotamia Temple
+10/16/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/16/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/16/2024	パラ坊のゲームクイズ　第１号 (Parabou's Game Quiz Vol. 1)	8:00	23:00	Event Plaza
+10/17/2024	Ｆ－ＺＥＲＯ	8:00	11:00	Broadcast Station
+10/17/2024	ドクターマリオ (Dr. Mario)	11:00	14:00	Broadcast Station
+10/17/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	14:00	17:00	Broadcast Station
+10/17/2024	スーパーボンバーマン２ (Super Bomberman 2)	17:00	20:00	Broadcast Station
+10/17/2024	ジョーとマック (Joe & Mac)	20:00	23:00	Broadcast Station
+10/17/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+10/17/2024	チャンピオンシップ・プール (Championship Pool)	11:00	23:00	Stadium
+10/17/2024	ファイナルファンタジーⅣ (Final Fantasy IV)	8:00	20:00	Bagpotamia Temple
+10/17/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/17/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/17/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+10/18/2024	チェスター・チーター (Chester Cheetah)	8:00	14:00	Broadcast Station
+10/18/2024	パックインタイム (Pac-In-Time)	14:00	20:00	Broadcast Station
+10/18/2024	カービィの幽霊罠 (Kirby's Ghost Trap)	20:00	23:00	Broadcast Station
+10/18/2024	グッズプレス　３月号 (GoodsPress Mar. Edition)	8:00	23:00	News Building
+10/18/2024	スーパー・プレイ・アクション・フットボール (Super Play Action Football)	11:00	23:00	Stadium
+10/18/2024	ファイナルファンタジーⅣ　【スペイン語】 (Final Fantasy IV [en Español])	8:00	20:00	Bagpotamia Temple
+10/18/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/18/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/19/2024	美少女戦士セーラームーンＳｕｐｅｒＳ：フワフワパニック (Pretty Guardian Sailor Moon SuperS: FuwaFuwa Panic)	8:00	11:00	Broadcast Station
+10/19/2024	あらいぐまラスカル (Araiguma Rascal)	11:00	14:00	Broadcast Station
+10/19/2024	モノポリー　【小売版】 (Monopoly [Retail ver.])	14:00	17:00	Broadcast Station
+10/19/2024	火星からバイカーネズミ (Biker Mice From Mars)	17:00	20:00	Broadcast Station
+10/19/2024	ザ・ファイヤーメン　【英語版】 (The Firemen [EN])	20:00	23:00	Broadcast Station
+10/19/2024	ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17])	8:00	23:00	News Building
+10/19/2024	ジョン・マッデンのアメリカンフットボール’９３ (John Madden's American Football '93)	11:00	23:00	Stadium
+10/19/2024	アルカナ (Arcana)	8:00	20:00	Bagpotamia Temple
+10/19/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/19/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/19/2024	ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe)	8:00	23:00	Robot Tower
+10/20/2024	Ｌｅｔ’ｓパチンコなんて銀玉３ (Let's Pachinko #3)	8:00	11:00	Broadcast Station
+10/20/2024	インスペクター・ギャジェット (Inspector Gadget)	11:00	14:00	Broadcast Station
+10/20/2024	アニマニアックス (Animaniacs)	14:00	17:00	Broadcast Station
+10/20/2024	カービィのおもちゃ箱：ピンボール (Kirby's Toybox: Pinball)	17:00	20:00	Broadcast Station
+10/20/2024	キャメルトリ (Cameltry)	20:00	23:00	Broadcast Station
+10/20/2024	Ｂダッシュ　２月号 (B-Dash [Feb])	8:00	23:00	News Building
+10/20/2024	WWFのスーパーレスルマニア (WWF Super WrestleMania)	11:00	23:00	Stadium
+10/20/2024	アクトレーザ (Actraiser)	8:00	20:00	Bagpotamia Temple
+10/20/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/20/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/20/2024	キュー＊バート３ (Q*Bert 3)	8:00	23:00	Telephone Booth
+10/21/2024	ディフェンダーⅡ (Defender II)	8:00	11:00	Broadcast Station
+10/21/2024	ドンキーコングＪＲ．の算数遊び (Donkey Kong Jr. Math)	11:00	14:00	Broadcast Station
+10/21/2024	ドンキーコング (Donkey Kong)	14:00	17:00	Broadcast Station
+10/21/2024	バーガータイム (BurgerTime)	17:00	20:00	Broadcast Station
+10/21/2024	バルーンファイト (Balloon Fight)	20:00	23:00	Broadcast Station
+10/21/2024	ゲーム虎の大穴スペシャル (Game Tiger: Big Cave Special)	8:00	23:00	News Building
+10/21/2024	バレーボール (Volleyball)	11:00	23:00	Stadium
+10/21/2024	ザ・フェアリーランド・ストリー (The Fairyland Story)	8:00	20:00	Bagpotamia Temple
+10/21/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/21/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/22/2024	ジョーとマック (Joe & Mac)	8:00	11:00	Broadcast Station
+10/22/2024	クール・スポット (Cool Spot)	11:00	14:00	Broadcast Station
+10/22/2024	ソニックブラストマン (Sonic Blast Man)	14:00	17:00	Broadcast Station
+10/22/2024	アルカノイド (Arkanoid: Doh it again)	17:00	20:00	Broadcast Station
+10/22/2024	ザ・ターミネーター (The Terminator)	20:00	23:00	Broadcast Station
+10/22/2024	フロイドの挑戦状　―　第２号 (Freud's Challenge: Vol. 2)	8:00	23:00	News Building
+10/22/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+10/22/2024	エストポリス伝記 (Lufia & The Fortress of Doom)	8:00	20:00	Bagpotamia Temple
+10/22/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/22/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/23/2024	カービィのおもちゃ箱：パチンコ (Kirby's Toybox: Pachinko)	8:00	11:00	Broadcast Station
+10/23/2024	それ行けエビス丸からくり迷路　―　消えたゴエモンの謎！ (Ebisumaru's Maze)	11:00	14:00	Broadcast Station
+10/23/2024	ペーパーボーイ２ (Paperboy 2)	14:00	17:00	Broadcast Station
+10/23/2024	シムシティ　【小売版】 (SimCity [Retail Ver.])	17:00	20:00	Broadcast Station
+10/23/2024	エリア８８ (U.N. Squadron [Area 88])	20:00	23:00	Broadcast Station
+10/23/2024	だんだんベルトコンベアー　牛乳の巻 (DanDan Belt Conveyor: Milk Roll)	8:00	23:00	News Building
+10/23/2024	ＮＢＡショーダウン (NBA Showdown)	11:00	23:00	Stadium
+10/23/2024	ファイナルファンタジーⅣ (Final Fantasy IV)	8:00	20:00	Bagpotamia Temple
+10/23/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/23/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/23/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+10/24/2024	ＢＳマリオペイント (BS Mario Paint)	8:00	14:00	Broadcast Station
+10/24/2024	パロディウス (Parodius)	14:00	20:00	Broadcast Station
+10/24/2024	スーパーボンバーマン (Super Bomberman)	20:00	23:00	Broadcast Station
+10/24/2024	チープｄｅゴージャス　第４号 (Cheap de Gorgeous Vol. 4)	8:00	23:00	News Building
+10/24/2024	ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball])	11:00	23:00	Stadium
+10/24/2024	ラグーン (Lagoon)	8:00	20:00	Bagpotamia Temple
+10/24/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/24/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/24/2024	ＳＮＥＳの電気を続いています！ (Keeping SNES Alive!)	8:00	23:00	Robot Tower
+10/25/2024	Ｈｏｏｋ	8:00	14:00	Broadcast Station
+10/25/2024	ロケッティア (The Adventures of The Rocketeer)	14:00	17:00	Broadcast Station
+10/25/2024	ホーム・アローン (Home Alone)	17:00	20:00	Broadcast Station
+10/25/2024	超硬合神　サーディオン (Xardion)	20:00	23:00	Broadcast Station
+10/25/2024	３時のＷＩＤＥ賞　５月号 (3-o'clock WIDE Prize [May Ed.])	8:00	23:00	News Building
+10/25/2024	ＮＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ワイアラエの奇跡 (New 3D Golf Simulation: Waialae's Miracle)	11:00	23:00	Stadium
+10/25/2024	マジックソード (Magic Sword)	8:00	20:00	Bagpotamia Temple
+10/25/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/25/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/25/2024	パラ坊のゲームクイズ　第１号 (Parabou's Game Quiz Vol. 1)	8:00	23:00	Robot Tower
+10/26/2024	カービィのおもちゃ箱：野球 (Kirby's Toybox: Baseball	8:00	14:00	Broadcast Station
+10/26/2024	スーパー忍者君 (Super Ninja Kun)	14:00	20:00	Broadcast Station
+10/26/2024	ＢＳテトリス (BS Tetris)	20:00	23:00	Broadcast Station
+10/26/2024	デジタルマガジンバスターズ　【６月７】 (Digital Magazine Busters [6/7])	8:00	23:00	News Building
+10/26/2024	トップレーサー (Top Racer)	11:00	23:00	Stadium
+10/26/2024	ソルスティスⅡ (Equinox)	8:00	20:00	Bagpotamia Temple
+10/26/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/26/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/27/2024	スーパーぷよぷよ (Super Puyo Puyo)	8:00	14:00	Broadcast Station
+10/27/2024	モノポリー２：赤いカップ (Monopoly 2: Red Cup)	14:00	20:00	Broadcast Station
+10/27/2024	マリオのタイムマシン (Mario's Time Machine)	20:00	23:00	Broadcast Station
+10/27/2024	毎週ファミ通エクスプレス　【４月２７】 (Weekly Famitsu Express [4/27])	8:00	23:00	News Building
+10/27/2024	Ｆ－ＺＥＲＯ	11:00	23:00	Stadium
+10/27/2024	ソールブレーダー (SoulBlazer)	8:00	20:00	Bagpotamia Temple
+10/27/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/27/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/28/2024	ク・オン・パ　【１０月２７】 (Cu-On-Pa [10/27])	8:00	11:00	Broadcast Station
+10/28/2024	カービィの幽霊罠 (Kirby's Ghost Trap)	11:00	14:00	Broadcast Station
+10/28/2024	アーケードのベストゲーム：ATARIのコレクション第一号 (Arcade's Greatest Hits: Atari Collection Vol. 1)	14:00	17:00	Broadcast Station
+10/28/2024	エアーマネジメント　大空に賭ける (Aerobiz)	17:00	20:00	Broadcast Station
+10/28/2024	スーパーカジノ：シーザーの宮殿 (Super Caesar's Palace)	20:00	23:00	Broadcast Station
+10/28/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+10/28/2024	ジョン・マッデンのアメリカンフットボール (John Madden's American Football)	11:00	23:00	Stadium
+10/28/2024	ロイヤルブラッド (Gemfire)	8:00	20:00	Bagpotamia Temple
+10/28/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/28/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/28/2024	エイリアン３ (Alien 3)	8:00	23:00	Event Plaza
+10/29/2024	キャスパー (Casper)	8:00	11:00	Broadcast Station
+10/29/2024	エイリアン・ヴァーサス・プレデター (Alien vs. Predator)	11:00	14:00	Broadcast Station
+10/29/2024	ハート・オフ・ダーク (Heart of Dark)	14:00	17:00	Broadcast Station
+10/29/2024	ゾンビが隣さんたちを食われた！ (Zombies ate my Neighbors!)	17:00	23:00	Broadcast Station
+10/29/2024	デジタルマガジンバスターズ　【８月２３】 (Digital Magazine Busters [8/23])	8:00	23:00	News Building
+10/29/2024	Ｆ－１ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+10/29/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+10/29/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/29/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/29/2024	超魔界村 (Super Ghouls 'n' Ghosts	8:00	23:00	Event Plaza
+10/29/2024	アルカノイド　―　Ｒｅ：Ｂｌｏｃｋｅｄ (Arkanoid – Re:Blocked)	8:00	23:00	Telephone Booth
+10/30/2024	ザ・ファイヤーメン (The Firemen)	8:00	11:00	Broadcast Station
+10/30/2024	アニマニアックス (Animaniacs)	11:00	14:00	Broadcast Station
+10/30/2024	あらいぐまラスカル (Araiguma Rascal)	14:00	17:00	Broadcast Station
+10/30/2024	ワリオの森：イベント版 (Wario's Woods: Event Version)	17:00	20:00	Broadcast Station
+10/30/2024	スーパーボンバーマン：パニックボンバーＷ (Super Bomberman: Panic Bomber W)	20:00	23:00	Broadcast Station
+10/30/2024	フロイドの挑戦状　―　第１号 (Freud's Challenge: Vol. 1)	8:00	23:00	News Building
+10/30/2024	ＭＬＢＰＡ野球　【ファイティング野球のアメリカ版】(MLBPA Baseball [US Fighting Baseball])	11:00	23:00	Stadium
+10/30/2024	ファイナルファンタジーＵＳＡ：ミスチック・クエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+10/30/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/30/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/30/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	8:00	23:00	Event Plaza
+10/31/2024	カービィのおもちゃ箱：野球 (Kirby's Toybox: Baseball	8:00	11:00	Broadcast Station
+10/31/2024	モノポリー　【小売版】 (Monopoly [Retail ver.])	11:00	14:00	Broadcast Station
+10/31/2024	キャメルトリ (Cameltry)	14:00	17:00	Broadcast Station
+10/31/2024	ジェーパーディー・デラックス (Jeopardy Deluxe)	17:00	20:00	Broadcast Station
+10/31/2024	火星からバイカーネズミ (Biker Mice From Mars)	20:00	23:00	Broadcast Station
+10/31/2024	チープｄｅゴージャス　第一号 (Cheap de Gorgeous Vol. 1)	8:00	23:00	News Building
+10/31/2024	スーパー・オッフロード (Super Off Road)	11:00	23:00	Stadium
+10/31/2024	アクトレーザ (Actraiser)	8:00	20:00	Bagpotamia Temple
+10/31/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+10/31/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+10/31/2024	ロボコップＶＳ．ターミネーター (RoboCop Vs. Terminator)	8:00	23:00	Event Plaza
+10/31/2024	ＢＳ　Ｆ－ＺＥＲＯ　デラックス (BS F-Zero Deluxe)	8:00	23:00	Robot Tower
+10/31/2024	ハイパーゾーン (HyperZone)	8:00	23:00	Telephone Booth
+11/01/2024	ロックマンのアルカノイド (Mega Man Arkanoid)	8:00	11:00	Broadcast Station
+11/01/2024	ヨッシーのパネポン　【１月２】 (Yoshi's Tetris Attack [½])	11:00	14:00	Broadcast Station
+11/01/2024	奇々怪界：謎の黒マント (Pocky & Rocky)	14:00	17:00	Broadcast Station
+11/01/2024	チャック・ロック (Chuck Rock)	17:00	20:00	Broadcast Station
+11/01/2024	Ｘ‐ＭＥＮとスパイダーマン：アーケードの報復 (Spider-Man and the X-Men in Arcade's Revenge)	20:00	23:00	Broadcast Station
+11/01/2024	ポケカメ　マガジン (Pocket Camera Magazine)	8:00	23:00	News Building
+11/01/2024	アル・ウンサー・ジュニアのレース・トゥ・ザ・トップ (Al Unser Jr's Race To The Top)	11:00	23:00	Stadium
+11/01/2024	恋はバランス　たとえばＫ君の多忙な一日編 (Love is a balance: Anonymous K-kun's Busy Day)	8:00	20:00	Bagpotamia Temple
+11/01/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/01/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/02/2024	美少女戦士セーラームーンＳｕｐｅｒＳ　フワフワパニック (Pretty Soldier Sailor Moon SuperS: FuwaFuwa Panic)	8:00	14:00	Broadcast Station
+11/02/2024	スーパー倉庫番 (Super Sōkoban)	14:00	20:00	Broadcast Station
+11/02/2024	バートの不思議な夢の大冒険 (The Simpsons: Bart's Nightmare)	20:00	23:00	Broadcast Station
+11/02/2024	ニンテンドー・パワー　１０７番 (Nintendo Power #107)	8:00	23:00	News Building
+11/02/2024	ダビド・クレーンのアメージングテニス (David Crane's Amazing Tennis)	11:00	23:00	Stadium
+11/02/2024	ドラッケン (Drakkhen)	8:00	20:00	Bagpotamia Temple
+11/02/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/02/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/02/2024	ブラムストーカーのドラキュラ (Bram Stoker's Dracula)	8:00	23:00	Event Plaza
+11/03/2024	スーパーアレスター (Super Aleste)	8:00	11:00	Broadcast Station
+11/03/2024	運だけ３０さめがめ　マリオ版 (Undake 30 SameGame Mario Ver.)	11:00	14:00	Broadcast Station
+11/03/2024	ＢＳマリオペイント (BS Mario Paint)	14:00	17:00	Broadcast Station
+11/03/2024	キューバート (Q*Bert)	17:00	20:00	Broadcast Station
+11/03/2024	牧場物語　【デモ版】 (Harvest Moon [Demo Ver.])	20:00	23:00	Broadcast Station
+11/03/2024	ドレミでファー！　第Ｘ本　３月３０号 (Do-Re-Mi de Faa~! Vol. X, Mar. 30th Edition.)	8:00	23:00	News Building
+11/03/2024	Ｆ－１ポールポジション (F-1 Pole Position)	11:00	23:00	Stadium
+11/03/2024	ロードモナーク (Lord Monarch)	8:00	20:00	Bagpotamia Temple
+11/03/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/03/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/04/2024	地球防衛フォース～Ｅ．Ｄ．Ｆ～ (Super E.D.F.)	8:00	14:00	Broadcast Station
+11/04/2024	エア・ストライク・パトロール～Ａ．Ｓ．Ｐ．～ (Air Strike Patrol ~A.S.P.~)	14:00	20:00	Broadcast Station
+11/04/2024	ＶＳ．コレクション (VS. Collection)	20:00	23:00	Broadcast Station
+11/04/2024	フロイドの挑戦状　第６号 (Freud's Challenge #6)	8:00	23:00	News Building
+11/04/2024	ジョン・マッデンのアメリカンフットボール’９３ (John Madden's American Football '93)	11:00	23:00	Stadium
+11/04/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/04/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/04/2024	パグジー (Puggsy)	8:00	23:00	Robot Tower
+11/05/2024	バスト・ア・ムーブ (Bust-A-Move)	8:00	11:00	Broadcast Station
+11/05/2024	ソニックブラストマン (Sonic Blast Man)	11:00	14:00	Broadcast Station
+11/05/2024	スーパーＲ－ＴＹＰＥ (Super R-Type)	14:00	17:00	Broadcast Station
+11/05/2024	Ｌｅｔ’ｓパチンコなんて銀玉３ (Let's Pachinko! #3)	17:00	20:00	Broadcast Station
+11/05/2024	エアーマネジメントⅡ航空王をめざせ (Aerobiz Supersonic)	20:00	23:00	Broadcast Station
+11/05/2024	ＢＳセント・ギガＰＧ １０月号 (BS St. Giga PG Oct. Edition)	8:00	23:00	News Building
+11/05/2024	ジョン・マッデンのアメリカンフットボール’９４ (John Madden's American Football '94)	11:00	23:00	Stadium
+11/05/2024	エストポリス伝記 (Lufia & the Fortress of Doom)	8:00	20:00	Bagpotamia Temple
+11/05/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/05/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/05/2024	ザ・ファイヤーメン (The Firemen)	8:00	23:00	Telephone Booth
+11/05/2024	タキシード猫ソックスのアメリカのキャピトルヒルに大冒険 【不公式タイトル】 (Socks the Cat Rocks the Hill)	8:00	23:00	Event Plaza
+11/06/2024	シムシティ　【小売版】 (SimCity [Retail Ver.])	8:00	14:00	Broadcast Station
+11/06/2024	スーパーボンバーマン (Super Bomberman)	14:00	20:00	Broadcast Station
+11/06/2024	フェースボール２０００ (Faceball 2000)	20:00	23:00	Broadcast Station
+11/06/2024	街マガジン　アイドル日記メディア　いちご　第１２本 (City Magazine: Idol Diary Media – Strawberry Vol. 12)	8:00	23:00	News Building
+11/06/2024	トップギア (Top Gear)	11:00	23:00	Stadium
+11/06/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/06/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/06/2024	スリーブ (Sleep)	8:00	23:00	Robot Tower
+11/07/2024	ダイナマイ・トレーサー (Dynami Tracer [EN])	8:00	14:00	Broadcast Station
+11/07/2024	すってはっくん (Sutte Hakkun)	14:00	20:00	Broadcast Station
+11/07/2024	アーケードのベストゲーム：ATARIのコレクション　第1号 (Arcade's Greatest Hits: Atari Collection Vol. 1)	20:00	23:00	Broadcast Station
+11/07/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+11/07/2024	スーパーベーセズローデド (Super Bases Loaded)	11:00	23:00	Stadium
+11/07/2024	ラグーン (Lagoon)	8:00	20:00	Bagpotamia Temple
+11/07/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/07/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/07/2024	ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN])	8:00	23:00	Telephone Booth
+11/08/2024	Ｆ－ＺＥＲＯ　ＧＰ２練習版 (F-ZERO Grand Prix 2: Practice Version)	8:00	11:00	Broadcast Station
+11/08/2024	スーパーアレスタ (Super Aleste)	11:00	14:00	Broadcast Station
+11/08/2024	ＢＳスーパーファミコンワーズ：ツキノワジマ (BS Super Famicom Wars: Tsukinowa-Jima)	14:00	17:00	Broadcast Station
+11/08/2024	タモリのピクロス 【８月１３】 (Tamori no Picross [8/13])	17:00	20:00	Broadcast Station
+11/08/2024	大爆笑人生劇場 (Daibakushou Jinsei Gekijou)	20:00	23:00	Broadcast Station
+11/08/2024	３時のＷＩＤＥ賞　６月号　(3:00 Wide award June Ed.)	8:00	23:00	News Building
+11/08/2024	チャンピオンシップ・プール (Championship Pool)	11:00	23:00	Stadium
+11/08/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	8:00	20:00	Bagpotamia Temple
+11/08/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/08/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/08/2024	ジョーとマック (Joe & Mac)	8:00	23:00	Telephone Booth
+11/09/2024	Ｆ－ＺＥＲＯ　ＧＰ２練習版 (F-ZERO Grand Prix 2: Practice Version)	8:00	11:00	Broadcast Station
+11/09/2024	アルカノイド (Arkanoid: Doh it Again)	11:00	14:00	Broadcast Station
+11/09/2024	デス・バレー・ラリー (Death Valley Rally)	14:00	17:00	Broadcast Station
+11/09/2024	アニマニアックス (Animaniacs)	17:00	20:00	Broadcast Station
+11/09/2024	セプテントリオン (SOS)	20:00	23:00	Broadcast Station
+11/09/2024	だんだんベルトコンベヤー　牛乳の巻 (DanDan Belt Conveyor: Milk Roll)	8:00	23:00	News Building
+11/09/2024	ＭＬＢＰＡ野球 (MLBPA Baseball)	11:00	23:00	Stadium
+11/09/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+11/09/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/09/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/09/2024	ＧＳ美神：除霊士はナイスボディー (Ghost Sweeper Mikami: The Exorcist has a Nice Body)	8:00	23:00	Telephone Booth
+11/10/2024	牧場物語　【デモ版】 (Harvest Moon [Demo Ver.])	8:00	11:00	Broadcast Station
+11/10/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	11:00	14:00	Broadcast Station
+11/10/2024	ＢＳスーパーぷよぷよツー！ (BS Super Puyo Puyo Tsuu!)	14:00	17:00	Broadcast Station
+11/10/2024	ウィング・コマンダー (Wing Commander)	17:00	20:00	Broadcast Station
+11/10/2024	レミングス (Lemmings)	20:00	23:00	Broadcast Station
+11/10/2024	Ｂ　ＤＡＳＨ　２月号 (B DASH February Edition)	8:00	23:00	News Building
+11/10/2024	バトルサッカー：フィールドの覇者 (Battle Soccer: Heroes of the Field)	11:00	23:00	Stadium
+11/10/2024	ゼルダの伝説：神々のトライフォース (The Legend of Zelda: A Link to the Past)	8:00	20:00	Bagpotamia Temple
+11/10/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/10/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/11/2024	あらいぐまラスカル (Araiguma Rascal)	8:00	11:00	Broadcast Station
+11/11/2024	Ｌｅｔ’ｓパチンコなんて銀玉４ (Let's Pachinko! #4)	11:00	14:00	Broadcast Station
+11/11/2024	ピコピコパイレーツ (Pico Pico Pirates!)	14:00	17:00	Broadcast Station
+11/11/2024	バートの不思議な夢の大冒険 (The Simpsons: Bart's Nightmare)	17:00	20:00	Broadcast Station
+11/11/2024	スーパーＨ．Ｑ．　クリミナルチェイサー (Super Chase H.Q.)	20:00	23:00	Broadcast Station
+11/11/2024	フロイドの挑戦状　第４号 (Freud's Challenge #4)	8:00	23:00	News Building
+11/11/2024	ストリート・レーサー (Street Racer)	11:00	23:00	Stadium
+11/11/2024	マジックソード (Magic Sword)	8:00	20:00	Bagpotamia Temple
+11/11/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/11/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/11/2024	スファミの電源を続け！ (Keeping SNES Alive!)	8:00	23:00	Robot Tower
+11/12/2024	ＢＳク・オン・パ　【１０月２７】 [BS Cu-On-Pa [10/27]	8:00	11:00	Broadcast Station
+11/12/2024	ＢＳヨッシーのパネポン　【６月１４】 (BS Yoshi's Panepon [6/14])	11:00	14:00	Broadcast Station
+11/12/2024	アウターワールド (Out of this World)	14:00	20:00	Broadcast Station
+11/12/2024	ＢＳワイルドガンズ (BS Wild Guns)	20:00	23:00	Broadcast Station
+11/12/2024	ドレミでファー　２号 (Do-re-mi de Faa! Volume 2)	8:00	23:00	News Building
+11/12/2024	アメリカのアイスホッケー (USA Ice Hockey)	11:00	23:00	Stadium
+11/12/2024	ゼルダの伝説：神々のトライフォース (The Legend of Zelda: A Link to the Past)	8:00	20:00	Bagpotamia Temple
+11/12/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/12/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/12/2024	テトリスフラッシュ (Tetris Flash)	8:00	23:00	Telephone Booth
+11/13/2024	ワリオの森　爆笑版 (Wario's Woods Bakushō Version)	8:00	11:00	Broadcast Station
+11/13/2024	バイキングの大迷惑 (The Lost Vikings)	11:00	14:00	Broadcast Station
+11/13/2024	デザエモン　ＢＳ－Ｘ版 (Dezaemon BS-X)	14:00	17:00	Broadcast Station
+11/13/2024	迦楼羅王 (Skyblazer)	17:00	23:00	Broadcast Station
+11/13/2024	ポケカメ　マガジン (Pocket Camera Magazine)	8:00	23:00	News Building
+11/13/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+11/13/2024	ペルシャの王子 (Prince of Persia)	8:00	20:00	Bagpotamia Temple
+11/13/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/13/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/13/2024	ワイワイチェック　【１１月２２】 (WaiWai Check [11/22] [EN])	8:00	23:00	Telephone Booth
+11/14/2024	カービィのおもちゃ箱：星くずし (Kirby's Toybox: Stardust)	8:00	11:00	Broadcast Station
+11/14/2024	ハイパーゾーン (HyperZone)	11:00	14:00	Broadcast Station
+11/14/2024	バトルテック (MechWarrior)	14:00	17:00	Broadcast Station
+11/14/2024	シム蟻 (SimAnt)	17:00	20:00	Broadcast Station
+11/14/2024	キャメルトリ 【オン・ザー・ボール】 (Cameltry [On The Ball])	20:00	23:00	Broadcast Station
+11/14/2024	ＢＳニンテンドーＨＰ　【５月３１】 (BS Nintendo HP [5/31])	8:00	23:00	News Building
+11/14/2024	アメリカ人の剣闘士 (American Gladiators)	11:00	23:00	Stadium
+11/14/2024	カコマ☆ナイト (Cacoma Knight in Bizyland)	8:00	20:00	Bagpotamia Temple
+11/14/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/14/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/14/2024	コラムスⅢ　【任天堂パワーカセット配布版】 (Columns [Nintendo Power Cartridge Distribution Version])	8:00	23:00	Telephone Booth
+11/14/2024	ＢＳドッティ・フラワーズ (BS Dottie Flowers)	8:00	23:00	Robot Tower
+11/15/2024	アダムスファミリー (The Addams Family)	8:00	11:00	Broadcast Station
+11/15/2024	バンカーズ (Bonkers)	11:00	14:00	Broadcast Station
+11/15/2024	スーパーオフロード (Super Off-Road)	14:00	17:00	Broadcast Station
+11/15/2024	バルーンファイト　【プロジェクト・ＮＥＳテッド】 (Balloon Fight [Project NESted])	17:00	20:00	Broadcast Station
+11/15/2024	カービィのおもちゃ箱：ぐるぐるボール (Kirby's Toybox: Spinning Ball)	20:00	23:00	Broadcast Station
+11/15/2024	コロンボの卵焼き　第二回 (Columbus's Fried Egg #2)	8:00	23:00	News Building
+11/15/2024	ＨＡＬのホールインワンゴルフ (HAL's Hole-In-One Golf)	11:00	23:00	Stadium
+11/15/2024	Ｊｅｗｅｌ　Ｏｆ　Ｌｉｖｅ	8:00	20:00	Bagpotamia Temple
+11/15/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/15/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/16/2024	スーパーぷよぷよ (Super Puyo Puyo)	8:00	14:00	Broadcast Station
+11/16/2024	ＢＳモノポリー２：赤いカップ (BS Monopoly 2: Red Cup)	14:00	20:00	Broadcast Station
+11/16/2024	マリオのタイムマシン (Mario's Time Machine)	20:00	23:00	Broadcast Station
+11/16/2024	毎週ファミ通エクスプレス　【４月２７】 (Weekly Famitsu Express [4/27])	8:00	23:00	News Building
+11/16/2024	Ｆ－ＺＥＲＯ	11:00	23:00	Stadium
+11/16/2024	ソールブレーダー (Soul Blazer)	8:00	20:00	Bagpotamia Temple
+11/16/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/16/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/17/2024	スーパーボンバーマン (Super Bomberman)	8:00	11:00	Broadcast Station
+11/17/2024	カービィのおもちゃ箱：パチンコ (Kirby's Toybox: Pachinko)	11:00	14:00	Broadcast Station
+11/17/2024	デザエモン　ＢＳ－Ｘ版 (Dezaemon BS-X)	14:00	17:00	Broadcast Station
+11/17/2024	マリオが行方不明！ (Mario is Missing!)	17:00	20:00	Broadcast Station
+11/17/2024	エアーマネジメント　大空に賭ける (Aerobiz)	20:00	23:00	Broadcast Station
+11/17/2024	ＢＳセント・ギガＰＧ １０月号 (BS St. Giga PG Oct. Edition)	8:00	23:00	News Building
+11/17/2024	トップギア２ (Top Gear 2)	11:00	23:00	Stadium
+11/17/2024	ソルスティスⅡ (Equinox)	8:00	20:00	Bagpotamia Temple
+11/17/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/17/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/17/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+11/17/2024	キュー＊バート３ (Q*Bert 3)	8:00	23:00	Telephone Booth
+11/18/2024	スーパー倉庫番 (Super Sōkoban)	8:00	14:00	Broadcast Station
+11/18/2024	キッドクラウンのクレージーチェース (Kid Klown in Crazy Chase)	14:00	20:00	Broadcast Station
+11/18/2024	カービィのおもちゃ箱：ピンボール (Kirby's Toybox: Pinball)	20:00	23:00	Broadcast Station
+11/18/2024	チープｄeゴージャス　４本 (Cheap de Gorgeous Vol. 4)	8:00	23:00	News Building
+11/18/2024	ジョージフォーマンのＫ．Ｏ．ボクシング (George Foreman's K.O. Boxing)	11:00	23:00	Stadium
+11/18/2024	ファイナルファンタジーＵＳＡ：ミスチッククエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+11/18/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/18/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/19/2024	ＢＳク・オン・パ　【６月５】 [BS Cu-On-Pa [6/5]	8:00	11:00	Broadcast Station
+11/19/2024	トップギア (Top Gear)	11:00	14:00	Broadcast Station
+11/19/2024	すってはっくん　’９８冬イベント版 (Sutte Hakkun: '98 Winter Event Version)	14:00	17:00	Broadcast Station
+11/19/2024	スパイダーマンとＸ－ＭＥＮ：アーケードの復讐 (Spider-Man & X-Men: Arcade's Revenge)	17:00	23:00	Broadcast Station
+11/19/2024	デジタルマガジンバスターズ　【６月７号】 (Digital Magazine Busters [6/7 edition])	8:00	23:00	News Building
+11/19/2024	ＮＨＬ　’９５	11:00	23:00	Stadium
+11/19/2024	アルカナ (Arcana)	8:00	20:00	Bagpotamia Temple
+11/19/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/19/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/19/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Robot Tower
+11/20/2024	フェースボール２０００ (Faceball 2000)	8:00	11:00	Broadcast Station
+11/20/2024	カービィのおもちゃ箱：キャノンボール (Kirby's Toybox: Cannon Ball)	11:00	14:00	Broadcast Station
+11/20/2024	ＢＳマリオペイント (BS Mario Paint)	14:00	17:00	Broadcast Station
+11/20/2024	エアーストライクパトロール　～Ａ．Ｓ．Ｐ．～ (Air Strike Patrol ~A.S.P~)	17:00	20:00	Broadcast Station
+11/20/2024	新バスト・ア・ムーブ (New Bust-A-Move)	20:00	23:00	Broadcast Station
+11/20/2024	街マガジン (Machi Magazine)	8:00	23:00	News Building
+11/20/2024	スーパーファイヤープロレスリング (Super Fire Pro Wrestling)	11:00	23:00	Stadium
+11/20/2024	シャドウラン (Shadowrun)	8:00	20:00	Bagpotamia Temple
+11/20/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/20/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/21/2024	ボンバザル (Ka-Blooey)	8:00	11:00	Broadcast Station
+11/21/2024	スーパー・アールタイプ (Super R-Type)	11:00	14:00	Broadcast Station
+11/21/2024	ファイナルファイト (Final Fight)	14:00	17:00	Broadcast Station
+11/21/2024	ＳＤザ・グレイトバトル　新たなる挑戦 (SD The Great Battle: A New Challenge)	17:00	20:00	Broadcast Station
+11/21/2024	グラディウスⅢ (Gradius Ⅲ)	20:00	23:00	Broadcast Station
+11/21/2024	ニンテンドー・パワー　１０７番 (Nintendo Power #107)	8:00	23:00	News Building
+11/21/2024	スーパースタジアム (Super Stadium)	11:00	23:00	Stadium
+11/21/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/21/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/21/2024	スーパーファミコンテストカセット (Super Famicom Test Cart)	8:00	23:00	Robot Tower
+11/21/2024	ポピュラス (Populous)	8:00	23:00	Telephone Booth
+11/21/2024	スーパーマリオワールド (Super Mario World)	8:00	23:00	Event Plaza
+11/22/2024	Ｌｅｔ’ｓパチンコなんて銀玉１ (Let's Pachinko! #1)	8:00	11:00	Broadcast Station
+11/22/2024	がんばれゴエモン２：奇天烈将軍マッギネス (Legend of the Mystical Ninja)	11:00	14:00	Broadcast Station
+11/22/2024	エイリアン３ (Alien 3)	14:00	17:00	Broadcast Station
+11/22/2024	それ行けエビス丸からくり迷路　消えたゴエモンの謎 (Ebisumaru's Maze)	17:00	20:00	Broadcast Station
+11/22/2024	ザ・ファイヤーメン (The Firemen)	20:00	23:00	Broadcast Station
+11/22/2024	フロイドの挑戦状　第４号 (Freud's Challenge #4)	8:00	23:00	News Building
+11/22/2024	ハイパーVボール (Hyper V-Ball)	11:00	23:00	Stadium
+11/22/2024	ファイナルファンタジーＵＳＡ：ミスチッククエスト (Final Fantasy USA: Mystic Quest)	8:00	20:00	Bagpotamia Temple
+11/22/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/22/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/22/2024	ブラムストーカーのドラキュラ (Bram Stoker's Dracula)	8:00	23:00	Telephone Booth
+11/23/2024	タモリのピクロス 【８月１３】 (Tamori no Picross [8/13])	8:00	11:00	Broadcast Station
+11/23/2024	ザ・ファイヤーメン (The Firemen [JP])	11:00	14:00	Broadcast Station
+11/23/2024	クロノトリガー：ジェットバイクスペシャル (Chrono Trigger: Jet Bike Special)	14:00	17:00	Broadcast Station
+11/23/2024	怒りの要塞 (Operation Logic Bomb)	17:00	20:00	Broadcast Station
+11/23/2024	スーパー忍者君 (Super Ninja Kun)	20:00	23:00	Broadcast Station
+11/23/2024	ゲーム虎の太鼓判　【５月１７】 (Game Tora no Taikoban [5/17])	8:00	23:00	News Building
+11/23/2024	スペシャル・ティー・ショット (Special Tee Shot)	11:00	23:00	Stadium
+11/23/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/23/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/23/2024	ボーダーライン (Borderline)	8:00	23:00	Robot Tower
+11/24/2024	ファーストサムライ (First Samurai)	8:00	14:00	Broadcast Station
+11/24/2024	デザートストライク湾岸作戦 (Desert Strike)	14:00	20:00	Broadcast Station
+11/24/2024	バトルトードとダブルドラゴン (Battletoads and Double Dragon)	20:00	23:00	Broadcast Station
+11/24/2024	街マガジン：アイドルダイアリーメディアいちご１２号 (Machi Magazine: Idol Diary Media Strawberry Vol. 12)	8:00	23:00	News Building
+11/24/2024	NHLのスタンリーカップ (NHL Stanley Cup)	11:00	23:00	Stadium
+11/24/2024	超攻合神　ザーディオン (Xardion)	8:00	20:00	Bagpotamia Temple
+11/24/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/24/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/25/2024	エアーマネジメント　大空に賭ける (Aerobiz)	8:00	11:00	Broadcast Station
+11/25/2024	フェースボール２０００ (Faceball 2000)	11:00	14:00	Broadcast Station
+11/25/2024	ソニックブラストマン (Sonic Blast Man)	14:00	20:00	Broadcast Station
+11/25/2024	アニマニアックス (Animaniacs)	20:00	23:00	Broadcast Station
+11/25/2024	ＢＳニンテンドーＨＰ　【５月１７】 (BS Nintendo HP [5/17])	8:00	23:00	News Building
+11/25/2024	ＭＬＢＰＡ野球 (MLBPA Baseball)	11:00	23:00	Stadium
+11/25/2024	ゼルダの伝説：神々のトライフォース (The Legend of Zelda: A Link to the Past)	11:00	23:00	Bagpotamia Temple
+11/25/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/25/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/25/2024	スファミの電源を続け！ (Keeping SNES Alive!)	8:00	23:00	Robot Tower
+11/25/2024	カービィのおもちゃ箱：星崩し (Kirby's Toybox: Constellation)	8:00	23:00	Telephone Booth
+11/26/2024	エアーマネジメント　大空に賭ける (Aerobiz)	8:00	14:00	Broadcast Station
+11/26/2024	ソニックブラストマン (Sonic Blast Man)	14:00	20:00	Broadcast Station
+11/26/2024	アニマニアックス (Animaniacs)	20:00	23:00	Broadcast Station
+11/26/2024	コロンボの卵焼き　第一回 (Columbus's Fried Egg #1)	8:00	23:00	News Building
+11/26/2024	スーパーオフロード (Super Off-Road)	11:00	23:00	Stadium
+11/26/2024	ウルティマ外伝　黒騎士の陰謀 (Ultima 2: Runes of Virtue)	11:00	23:00	Bagpotamia Temple
+11/26/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/26/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/26/2024	ＢＳドッティ・フラワーズ (BS Dottie Flowers)	8:00	23:00	Robot Tower
+11/27/2024	ハイパーゾーン (HyperZone)	8:00	11:00	Broadcast Station
+11/27/2024	ＢＳドクターマリオ (BS Dr. Mario)	11:00	14:00	Broadcast Station
+11/27/2024	シム蟻 (SimAnt)	14:00	17:00	Broadcast Station
+11/27/2024	改造町人シュビビンマン零 (Cyber Citizen Shockman Zero)	17:00	23:00	Broadcast Station
+11/27/2024	コロンボの卵焼き　第三回 (Columbus's Fried Egg #3)	8:00	23:00	News Building
+11/27/2024	ジョージフォーマンのＫ．Ｏ．ボクシング (George Foreman's K.O. Boxing)	11:00	23:00	Stadium
+11/27/2024	Ｊｅｗｅｌ　Ｏｆ　Ｌｉｖｅ	11:00	23:00	Bagpotamia Temple
+11/27/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/27/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/27/2024	ピンボール・ドリームス (Pinball Dreams)	8:00	23:00	Telephone Booth
+11/28/2024	ハイパーゾーン (HyperZone)	8:00	11:00	Broadcast Station
+11/28/2024	ＶＳ．コレクション (VS. Collection)	11:00	14:00	Broadcast Station
+11/28/2024	キャメルトリ 【オン・ザー・ボール】 (Cameltry [On The Ball])	14:00	17:00	Broadcast Station
+11/28/2024	あらいぐまラスカル (Araiguma Rascal)	17:00	20:00	Broadcast Station
+11/28/2024	アルカノイド (Arkanoid: Doh it Again)	20:00	23:00	Broadcast Station
+11/28/2024	チープｄeゴージャス　１本 (Cheap de Gorgeous Vol. 1)	8:00	23:00	News Building
+11/28/2024	ジョン・マッデンのアメリカンフットボール (John Madden's American Football)	11:00	23:00	Stadium
+11/28/2024	ペルシャの王子 (Prince of Persia)	11:00	23:00	Bagpotamia Temple
+11/28/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/28/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/28/2024	ＢＳ　Ｆ－ＺＥＲＯデラックス (BS F-Zero Deluxe)	8:00	23:00	Robot Tower
+11/28/2024	マリオが行方不明！ (Mario is Missing!)	8:00	23:00	Telephone Booth
+11/28/2024	牧場物語　【デモ版】 (Harvest Moon [Demo Ver.])	8:00	23:00	Event Plaza
+11/29/2024	ヨッシーのクッキー (Yoshi's Cookie)	8:00	14:00	Broadcast Station
+11/29/2024	ＢＳ　テトリス (BS Tetris)	14:00	20:00	Broadcast Station
+11/29/2024	カービィのおもちゃ箱：野球 (Kirby's Toybox: Baseball)	20:00	23:00	Broadcast Station
+11/29/2024	グッズプレス　７月号 (GoodsPress Jul. Ed.)	8:00	23:00	News Building
+11/29/2024	スーパーピンボール (Super Pinball)	11:00	23:00	Stadium
+11/29/2024	悪魔城ドラキュラ (Super Castlevania Ⅳ)	11:00	23:00	Bagpotamia Temple
+11/29/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Building
+11/29/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
+11/30/2024	カービィのおもちゃ箱：キャノンボール (Kirby's Toybox: Cannon Ball)	8:00	11:00	Broadcast Station
+11/30/2024	恐竜大行進 (We're Back! A Dinosaur Story)	11:00	14:00	Broadcast Station
+11/30/2024	モノポリー２：黄色いカップ (Monopoly 2: Yellow Cup)	14:00	17:00	Broadcast Station
+11/30/2024	ヨッシーのパネポン　【６月１４】 (Yoshi's Tetris Attack [6/14])	17:00	20:00	Broadcast Station
+11/30/2024	ミス・パックマン (Ms. Pac-Man)	20:00	23:00	Broadcast Station
+11/30/2024	ドレミでふぁ２～！【第９本―５月２５日号】 (Do-Re-Mi de Faa 2~! Vol. 9 [5/25])	8:00	23:00	News Building
+11/30/2024	ＮＥＷ　３Ｄ　ＧＯＬＦ　ＳＩＭＵＬＡＴＩＯＮ：ペブルビーチの波濤 (New 3D Golf Simulation: Pebble Beach Golf Links)	11:00	23:00	Stadium
+11/30/2024	ＢＳ　スプリッガン・パワード　【音声連動無し放送】(BS Spriggan Powered [Without SoundLink])	8:00	20:00	Bagpotamia Temple
+11/30/2024	サテ坊のワードゲーム (Satebou's Word Game)	8:00	23:00	Calculator Shop
+11/30/2024	ＢＳスーパークックド (BS SuperCooked!)	8:00	23:00	Burger Shop
